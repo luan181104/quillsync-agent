@@ -144,3 +144,6 @@ across runs, without needing a separate hosting platform or database.
 - Originally prototyped against the OpenAI Assistants + Vector Store API;
   switched to Google Gemini's File Search Tool (this README) since it has
   a genuinely free tier with no payment method required.
+
+## Sample Assistant Response
+![Assistant Response](screenshot-assistant-answer.jpg)
