@@ -109,19 +109,25 @@ Mounting `state.json` is what lets the delta logic persist across runs.
 
 ## Scheduling the daily job
 
-Deployed as a **Render Cron Job** (any Docker-based cron host — Railway,
-Fly.io, GCP Cloud Run Jobs — works the same way):
+Deployed as a **GitHub Actions scheduled workflow** (free, no credit card,
+no third-party host needed — see `.github/workflows/daily-sync.yml`):
 
 1. Push this repo to GitHub.
-2. Render → New → Cron Job → connect repo → Docker runtime.
-3. Schedule: `0 3 * * *` (03:00 UTC daily).
-4. Add env vars: `GEMINI_API_KEY`, `GEMINI_FILE_SEARCH_STORE_NAME`.
-5. Attach a small persistent disk mounted at `/app/state.json` (or swap
-   `state_store.py` for a tiny hosted KV/Postgres row if the platform has
-   no persistent disk on cron jobs).
+2. Repo → **Settings → Secrets and variables → Actions** → add two
+   repository secrets: `GEMINI_API_KEY` and `GEMINI_FILE_SEARCH_STORE_NAME`.
+3. Repo → **Settings → Actions → General → Workflow permissions** → select
+   **"Read and write permissions"** (needed so the job can commit the
+   updated `state.json` / `articles/` back to the repo after each run).
+4. The workflow runs automatically every day at 03:00 UTC
+   (`cron: "0 3 * * *"`), and can also be triggered manually any time from
+   the **Actions** tab → "Daily OptiSigns Sync" → **Run workflow**.
 
-**Job logs:** `<link to your Render Cron Job → Logs tab>` ← replace with
-your real deployment link.
+Since GitHub Actions runners are ephemeral (no persistent disk between
+runs), the workflow's last step commits the updated `state.json` and
+`articles/*.md` back to the repo — that's what makes delta-detection work
+across runs, without needing a separate hosting platform or database.
+
+**Job logs:** https://github.com/luan181104/quillsync-agent/actions/workflows/daily-sync.yml
 
 ## Notes / known limitations
 
