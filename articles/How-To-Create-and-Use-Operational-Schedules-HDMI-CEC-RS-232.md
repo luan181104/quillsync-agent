@@ -2,7 +2,7 @@
 title: "How To Create and Use Operational Schedules (HDMI-CEC, RS-232)"
 article_id: 28598173096723
 source_url: https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232
-updated_at: 2026-06-02T22:08:42Z
+updated_at: 2026-07-08T14:47:07Z
 ---
 
 # How To Create and Use Operational Schedules (HDMI-CEC, RS-232)
@@ -30,7 +30,7 @@ Operational Schedule allows you to schedule when your TV powers on/off and to co
 | --- |
 | - You will need the **Pro\+ Plan** or above to have access to this HDMI\-CEC and RS\-232 feature. The HDMI\-CEC or RS\-232 capabilities allow you to Power On/Off your TV using the Operational Schedule, and change the volume or mute the screen. |
 | - If you have the **Free** or **Standard** plan and create an Operational Schedule, the player will display black to save power and device life. Free and Standard plan users will not have access to the "Advanced Scheduling" option: |
-| - To access Operational Schedule with an HDMI\-CEC port, you will need our [**OptiSigns Android Player**](https://shop.optisigns.com/products/optisigns-android-stick-player-2), [**Pro Signage Player**](https://shop.optisigns.com/products/optisigns-digital-signage-player), [**ProMax Player**](https://support.optisigns.com/hc/en-us/articles/38680194603155-OptiSigns-ProMax-Player), Windows, or Linux devices. The player will need to be plugged in to an HDMI\-CEC port to function. RS\-232 functionality can be used with any device which supports it. 	- Please ensure your Android Player device is ***powered from an outlet, not the screen's USB port.***If plugged into the USB port, the act of turning off the screen will also power off the device \- meaning, it will not be able to turn the screen back on. 	- Operational Scheduling is not supported on Roku nor Samsung Tizen devices. The option will not be visible. |
+| - To access Operational Schedule with an HDMI\-CEC port, you will need our [**OptiStick**](https://shop.optisigns.com/products/optisigns-android-stick-player-2), [**Pro Signage Player**](https://shop.optisigns.com/products/optisigns-digital-signage-player), [**ProMax Player**](https://support.optisigns.com/hc/en-us/articles/38680194603155-OptiSigns-ProMax-Player). The player will need to be plugged in to an HDMI\-CEC port to function. RS\-232 functionality can be used with any device which supports it. 	- Please ensure your Android Player device is ***powered from an outlet, not the screen's USB port.***If plugged into the USB port, the act of turning off the screen will also power off the device \- meaning, it will not be able to turn the screen back on. 	- Operational Scheduling is not supported on Roku nor Samsung Tizen devices. The option will not be visible. |
 
  
 

@@ -2,7 +2,7 @@
 title: "Using the Japan Earthquake App"
 article_id: 53095698149011
 source_url: https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App
-updated_at: 2026-07-06T14:22:20Z
+updated_at: 2026-07-08T18:39:51Z
 ---
 
 # Using the Japan Earthquake App

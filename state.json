@@ -32,12 +32,12 @@
     "updated_at": "2026-07-06T15:29:04Z"
   },
   "53095698149011": {
-    "hash": "0724a8d344724b49641bde3cb4694e5c2afcdda0e740fd7e802e80cb10920d29",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/53095698149011usingthejapan-tjj5ef4ukgvf",
+    "hash": "f7c7fe3c500baf33693a35516bbef7b5fea725b0d2950045524e755eac668f0c",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/53095698149011usingthejapan-rd24cg3ztimy",
     "path": "articles/Using-the-Japan-Earthquake-App.md",
     "slug": "Using-the-Japan-Earthquake-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App",
-    "updated_at": "2026-07-06T14:22:20Z"
+    "updated_at": "2026-07-08T18:39:51Z"
   },
   "360049875794": {
     "hash": "fcac2e80cc9ae52efda552eae5e209f3dc763f76712d4adc884ff674b4f879be",
@@ -192,12 +192,12 @@
     "updated_at": "2026-06-19T15:42:09Z"
   },
   "360051014713": {
-    "hash": "012da8486d6400fa4d72ac9b7ffd06af885899c69a36100379d15e3f10aee8c5",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360051014713howtouseyoutube-mgagwnye2y9n",
+    "hash": "ba9317b1b1faa43d066f3d9983fe32637c7cb44ad4e5bff198c54599576a11d8",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360051014713howtouseyoutube-hssskskdatof",
     "path": "articles/How-to-use-YouTube-with-OptiSigns.md",
     "slug": "How-to-use-YouTube-with-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns",
-    "updated_at": "2026-06-18T05:00:56Z"
+    "updated_at": "2026-07-08T15:01:25Z"
   },
   "360047275934": {
     "hash": "9954a71973fcc2685d095033b39dbcca4220ac640991d4aaef222b9a851cde0b",
@@ -208,12 +208,12 @@
     "updated_at": "2026-06-18T00:48:15Z"
   },
   "52113036672403": {
-    "hash": "8d429376422fc5f25ee758cafe085aeedc87f8ecd14daf67a1f45d5a038db58f",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/52113036672403roomintegrati-cat7wta487c6",
+    "hash": "647c8729430b319c927e2bffc895a3e06c1c11cd42912af18bb6cc1f1555635d",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/52113036672403roomintegrati-bl9n6xpz96yb",
     "path": "articles/Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage.md",
     "slug": "Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage",
-    "updated_at": "2026-06-15T19:14:16Z"
+    "updated_at": "2026-07-08T14:58:11Z"
   },
   "52412502456083": {
     "hash": "20d1424e6724c74531d8e2b15124b1379aa450639f3bbf09a86727854c7596a2",
@@ -360,12 +360,12 @@
     "updated_at": "2026-06-03T15:53:35Z"
   },
   "28598173096723": {
-    "hash": "295cd691fa19acc87044406318f724055deb0b543e192d6b085b4919f1839542",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28598173096723howtocreatean-ojxhy46ijtdw",
+    "hash": "86946fab7ce0929d657bf70862887d0bfaa94806006b1f59396e2b0b582d2fa5",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28598173096723howtocreatean-o7lkwpp3lyyq",
     "path": "articles/How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232.md",
     "slug": "How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
-    "updated_at": "2026-06-02T22:08:42Z"
+    "updated_at": "2026-07-08T14:47:07Z"
   },
   "360042143333": {
     "hash": "85fff78e52d32f2e59eacf5a67f3420fa5dfba3aa3dd5f0d33da3c90311fc8e6",
@@ -791,12 +791,12 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/6604468198291-How-to-Use-the-CAP-Alert-App",
     "updated_at": "2026-03-13T16:05:48Z"
   },
-  "360058936513": {
-    "hash": "0ddf7055fe36ad832f3a50cb4e5fcc4c16f485e85e3c5b085794003b60ecc856",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360058936513advancedproofof-fwfqr46rw12p",
-    "path": "articles/Advanced-Proof-of-Play-or-Playback-report.md",
-    "slug": "Advanced-Proof-of-Play-or-Playback-report",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360058936513-Advanced-Proof-of-Play-or-Playback-report",
-    "updated_at": "2026-02-26T18:04:23Z"
+  "53293393593491": {
+    "hash": "5273d9b507a8b61340f8dc7464f048718614fb297ac6d28c03a2a10829e4702d",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/53293393593491referearnopti-jghoa0yklefh",
+    "path": "articles/Refer-Earn-OptiSigns-Referral-Program.md",
+    "slug": "Refer-Earn-OptiSigns-Referral-Program",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/53293393593491-Refer-Earn-OptiSigns-Referral-Program",
+    "updated_at": "2026-07-08T17:09:50Z"
   }
 }
