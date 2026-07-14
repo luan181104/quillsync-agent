@@ -2,7 +2,7 @@
 title: "How to Use the CAP Alert App"
 article_id: 6604468198291
 source_url: https://support.optisigns.com/hc/en-us/articles/6604468198291-How-to-Use-the-CAP-Alert-App
-updated_at: 2026-03-13T16:05:48Z
+updated_at: 2026-07-13T17:44:57Z
 ---
 
 # How to Use the CAP Alert App
