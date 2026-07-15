@@ -400,12 +400,12 @@
     "updated_at": "2026-05-29T17:35:48Z"
   },
   "1500000480302": {
-    "hash": "6552e436a2dbc3bfd667144dfc48f1c1388167a4d9769290b2b3d8cc733a92df",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500000480302advancedcustom-xyz4p937pup8",
-    "path": "articles/Advanced-Custom-Domain-mapping.md",
-    "slug": "Advanced-Custom-Domain-mapping",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/1500000480302-Advanced-Custom-Domain-mapping",
-    "updated_at": "2026-05-29T17:34:19Z"
+    "hash": "16c0bc3c635a685839962b1ada184d514b93b37b5c20a875664be85904ac69a4",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500000480302advancedcustom-v2fpdw1gotja",
+    "path": "articles/Advanced-Custom-Domain-Mapping.md",
+    "slug": "Advanced-Custom-Domain-Mapping",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/1500000480302-Advanced-Custom-Domain-Mapping",
+    "updated_at": "2026-07-14T17:53:32Z"
   },
   "17639078588691": {
     "hash": "2091111a83da402647ec794aac675a7927995fb23866ce4798d93d44c301069e",
@@ -640,12 +640,12 @@
     "updated_at": "2026-03-31T22:14:33Z"
   },
   "28295104605843": {
-    "hash": "15bd37249d6f5cac54d1810824380d6fd6921671a4bfaaf6fea7b07efd2edcda",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28295104605843howtocreateus-v0e72hqlc1n7",
+    "hash": "51aca311380df951481fb91ed64fb827243ae1b37d833f475d6d7065e49c6821",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28295104605843howtocreateus-4p8yhdqe2epe",
     "path": "articles/How-to-Create-Use-Playlists.md",
     "slug": "How-to-Create-Use-Playlists",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists",
-    "updated_at": "2026-03-31T21:42:16Z"
+    "updated_at": "2026-07-14T12:09:21Z"
   },
   "18823504383891": {
     "hash": "45195c7db5e2e42ef953196446ddab690b9b1485930f73138768fa061bd13f81",
@@ -743,22 +743,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360036250853-How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns",
     "updated_at": "2026-03-25T21:28:19Z"
   },
-  "360024859713": {
-    "hash": "598846fde966e24a54b64fe237a5475efabe87e968a1119c8f0e35ff7e49a3f7",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360024859713howtodisplaymic-rlnkk99qska7",
-    "path": "articles/How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns.md",
-    "slug": "How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
-    "updated_at": "2026-03-25T21:24:00Z"
-  },
-  "4403332894867": {
-    "hash": "c97f671d4cc4a988203553ea542972ddb8d2a93300319e06569a47dca59ba851",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4403332894867howtosetupaudi-7jgbjcmjlfrf",
-    "path": "articles/How-to-set-up-Audit-Log-for-your-account.md",
-    "slug": "How-to-set-up-Audit-Log-for-your-account",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/4403332894867-How-to-set-up-Audit-Log-for-your-account",
-    "updated_at": "2026-03-18T22:16:52Z"
-  },
   "53293393593491": {
     "hash": "5273d9b507a8b61340f8dc7464f048718614fb297ac6d28c03a2a10829e4702d",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/53293393593491referearnopti-jghoa0yklefh",
@@ -798,5 +782,21 @@
     "slug": "What-hardware-and-devices-are-supported",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported",
     "updated_at": "2026-07-13T15:50:57Z"
+  },
+  "1500000485202": {
+    "hash": "eff9d6038db06d6e1093230ffa8a6c82bc0270f0630277215e43530c31cbdd96",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500000485202custombranding-9mbjjji0d87n",
+    "path": "articles/Custom-Branding-Settings.md",
+    "slug": "Custom-Branding-Settings",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings",
+    "updated_at": "2026-07-14T16:23:24Z"
+  },
+  "15313086319763": {
+    "hash": "a2388399e5b37ec37f17d88fb98ef70236f93d8477e949ddb3d13d1d4ffb55b3",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/15313086319763howtodesignki-mvgcyyn13n6i",
+    "path": "articles/How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro.md",
+    "slug": "How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro",
+    "updated_at": "2026-07-14T07:45:20Z"
   }
 }
