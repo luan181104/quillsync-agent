@@ -735,14 +735,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/4406214738707-How-to-Use-the-Microsoft-Meeting-Room-App",
     "updated_at": "2026-03-25T21:28:34Z"
   },
-  "360036250853": {
-    "hash": "62100994736380ea9bb48f2f3f96f0d3181e825b05c7106b0e6b50cf2454701e",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360036250853howtousemicroso-pxcl67rkjz8g",
-    "path": "articles/How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns.md",
-    "slug": "How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360036250853-How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns",
-    "updated_at": "2026-03-25T21:28:19Z"
-  },
   "53293393593491": {
     "hash": "5273d9b507a8b61340f8dc7464f048718614fb297ac6d28c03a2a10829e4702d",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/53293393593491referearnopti-jghoa0yklefh",
@@ -798,5 +790,13 @@
     "slug": "How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro",
     "updated_at": "2026-07-14T07:45:20Z"
+  },
+  "360016388733": {
+    "hash": "5804d0dea012652708898674d0f368c549fdb46b1922c7f09d5982652f055fb4",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016388733howtocreateandu-68y2fsy46aon",
+    "path": "articles/How-to-create-and-use-Instagram-Wall.md",
+    "slug": "How-to-create-and-use-Instagram-Wall",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-create-and-use-Instagram-Wall",
+    "updated_at": "2026-07-15T15:27:32Z"
   }
 }
