@@ -200,12 +200,12 @@
     "updated_at": "2026-07-08T15:01:25Z"
   },
   "360047275934": {
-    "hash": "3e11d989d5c5fd2a5f7769620e523259ca5b5d76a8d87ac66b7300b03a4d2728",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360047275934whitelistoptisi-qa2f1wqfjuaq",
+    "hash": "e5120bea2fe0e01b2199677b0cfb6c9b97a13901f0bd4f531f984dcc00c48794",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360047275934whitelistoptisi-i3kwie34fbye",
     "path": "articles/Whitelist-OptiSigns-IP-addresses-ports.md",
     "slug": "Whitelist-OptiSigns-IP-addresses-ports",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-    "updated_at": "2026-07-09T19:48:39Z"
+    "updated_at": "2026-07-16T10:01:04Z"
   },
   "52113036672403": {
     "hash": "647c8729430b319c927e2bffc895a3e06c1c11cd42912af18bb6cc1f1555635d",
@@ -719,22 +719,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
     "updated_at": "2026-03-27T20:38:29Z"
   },
-  "27356288211859": {
-    "hash": "e23749773e441d1ba776e8799c144e9bfd8155180a15ff97a32bfb5cc5e6405b",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/27356288211859howtouseiclou-4zqyhhijnj3y",
-    "path": "articles/How-to-use-iCloud-Calendar-with-OptiSigns.md",
-    "slug": "How-to-use-iCloud-Calendar-with-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/27356288211859-How-to-use-iCloud-Calendar-with-OptiSigns",
-    "updated_at": "2026-03-26T16:45:12Z"
-  },
-  "4406214738707": {
-    "hash": "72d80dcaa5eacd1d24c1fafd23d57e5e8aedfee97402e6f75054e44f532b67ba",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4406214738707howtousethemic-oafzi1g2xjes",
-    "path": "articles/How-to-Use-the-Microsoft-Meeting-Room-App.md",
-    "slug": "How-to-Use-the-Microsoft-Meeting-Room-App",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/4406214738707-How-to-Use-the-Microsoft-Meeting-Room-App",
-    "updated_at": "2026-03-25T21:28:34Z"
-  },
   "53293393593491": {
     "hash": "5273d9b507a8b61340f8dc7464f048718614fb297ac6d28c03a2a10829e4702d",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/53293393593491referearnopti-jghoa0yklefh",
@@ -798,5 +782,21 @@
     "slug": "How-to-create-and-use-Instagram-Wall",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-create-and-use-Instagram-Wall",
     "updated_at": "2026-07-15T15:27:32Z"
+  },
+  "360053211594": {
+    "hash": "c76e0b911d4cbcb1cdd2bde18adf6e5c046ead6db817f5ef6f98a558844a0c97",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360053211594setoptisignsass-ilnm7tw1a3ks",
+    "path": "articles/Set-OptiSigns-as-ScreenSaver-on-Windows.md",
+    "slug": "Set-OptiSigns-as-ScreenSaver-on-Windows",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360053211594-Set-OptiSigns-as-ScreenSaver-on-Windows",
+    "updated_at": "2026-07-16T22:15:47Z"
+  },
+  "53497007807251": {
+    "hash": "6dfc0908932e92abadcb6b71431a3c4d954f1bf65bc3ed30e65ab2e8e9626b67",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/53497007807251devicemanagem-j975q2mei9y9",
+    "path": "articles/Device-Management-and-Mass-Provisioning.md",
+    "slug": "Device-Management-and-Mass-Provisioning",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning",
+    "updated_at": "2026-07-16T16:39:52Z"
   }
 }
