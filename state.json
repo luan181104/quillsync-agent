@@ -136,12 +136,12 @@
     "updated_at": "2026-06-26T13:52:36Z"
   },
   "27267311796243": {
-    "hash": "905ba35e65063a880e8480721d198064d455bb3f2bc98d9b0cae8c5426c28f70",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/27267311796243optistick-0xhkle5opicm",
+    "hash": "020c39eff1ec30db40baeb1b3dfc7ef1cd82b09d4c0bc2a62d2a10683ec89491",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/27267311796243optistick-s1313tz6kuni",
     "path": "articles/OptiStick.md",
     "slug": "OptiStick",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick",
-    "updated_at": "2026-06-26T13:51:49Z"
+    "updated_at": "2026-07-19T15:05:17Z"
   },
   "10259143299219": {
     "hash": "445492600a5c12a8e6e0973b00910d3dad21f3f3353411d627d55c8659aa16cf",
@@ -695,14 +695,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/35577511423635-OptiSigns-Pro-Player-Advanced-Features",
     "updated_at": "2026-03-30T17:22:38Z"
   },
-  "32272215514131": {
-    "hash": "f53179ff803c272b0173bcea8c65410eaf60f4d6f601f56f5c6bbdfff1949bb3",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/32272215514131proplayer-r8sxv2nq6pdr",
-    "path": "articles/ProPlayer.md",
-    "slug": "ProPlayer",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/32272215514131-ProPlayer",
-    "updated_at": "2026-03-30T17:22:38Z"
-  },
   "53293393593491": {
     "hash": "5273d9b507a8b61340f8dc7464f048718614fb297ac6d28c03a2a10829e4702d",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/53293393593491referearnopti-jghoa0yklefh",
@@ -798,5 +790,13 @@
     "slug": "Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
     "updated_at": "2026-07-17T16:59:32Z"
+  },
+  "360016380053": {
+    "hash": "1245bf000f9ac16a387f89669242df83da2b1fbb079778e063fae95019bcbb9d",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016380053howtocheckwifis-tbd1bm5ugvgy",
+    "path": "articles/How-to-Check-WiFi-Signal-Strength-on-the-Amazon-Fire-TV-Stick.md",
+    "slug": "How-to-Check-WiFi-Signal-Strength-on-the-Amazon-Fire-TV-Stick",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360016380053-How-to-Check-WiFi-Signal-Strength-on-the-Amazon-Fire-TV-Stick",
+    "updated_at": "2026-07-19T13:16:43Z"
   }
 }

@@ -2,7 +2,7 @@
 title: "OptiStick"
 article_id: 27267311796243
 source_url: https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick
-updated_at: 2026-06-26T13:51:49Z
+updated_at: 2026-07-19T15:05:17Z
 ---
 
 # OptiStick
