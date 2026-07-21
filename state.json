@@ -679,22 +679,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/44650391786131-Kiosk-Setup-Hub",
     "updated_at": "2026-03-30T17:22:38Z"
   },
-  "38680194603155": {
-    "hash": "ef648399464de686117df521dfefd41a622d28c97cc4d65c0332a9d1f90e93ef",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/38680194603155promax-68s2r5qp9ow1",
-    "path": "articles/ProMax.md",
-    "slug": "ProMax",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/38680194603155-ProMax",
-    "updated_at": "2026-03-30T17:22:38Z"
-  },
-  "35577511423635": {
-    "hash": "8c9a3b10a6cb5d4e76887d806f1d236afd65ac10559b780fc6aad9404dbcfd3b",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/35577511423635optisignsprop-54bd2x54oh9r",
-    "path": "articles/OptiSigns-Pro-Player-Advanced-Features.md",
-    "slug": "OptiSigns-Pro-Player-Advanced-Features",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/35577511423635-OptiSigns-Pro-Player-Advanced-Features",
-    "updated_at": "2026-03-30T17:22:38Z"
-  },
   "53293393593491": {
     "hash": "5273d9b507a8b61340f8dc7464f048718614fb297ac6d28c03a2a10829e4702d",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/53293393593491referearnopti-jghoa0yklefh",
@@ -798,5 +782,21 @@
     "slug": "How-to-Check-WiFi-Signal-Strength-on-the-Amazon-Fire-TV-Stick",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360016380053-How-to-Check-WiFi-Signal-Strength-on-the-Amazon-Fire-TV-Stick",
     "updated_at": "2026-07-19T13:16:43Z"
+  },
+  "360053993934": {
+    "hash": "6a3cb3be3f7a3ce00352384e84b1e1bddace3e99423274a0769ca57fb8dc68e6",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360053993934howtousekioskli-oqgnw4k6ae6v",
+    "path": "articles/How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app.md",
+    "slug": "How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360053993934-How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app",
+    "updated_at": "2026-07-21T05:24:44Z"
+  },
+  "360055546594": {
+    "hash": "3a6a3c9970fc5fc168c481dc21d3b0c27a5d5c65dc57858abd45df82aaf99efc",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360055546594howdoespreconfi-b8hxe2sl6okx",
+    "path": "articles/How-does-pre-configured-devices-labeled-in-shipping-package.md",
+    "slug": "How-does-pre-configured-devices-labeled-in-shipping-package",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360055546594-How-does-pre-configured-devices-labeled-in-shipping-package",
+    "updated_at": "2026-07-20T15:15:23Z"
   }
 }
