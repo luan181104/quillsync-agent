@@ -2,7 +2,7 @@
 title: "How to Enable/Disable Auto Update for OptiSigns app on Fire TV"
 article_id: 360055328454
 source_url: https://support.optisigns.com/hc/en-us/articles/360055328454-How-to-Enable-Disable-Auto-Update-for-OptiSigns-app-on-Fire-TV
-updated_at: 2026-06-28T17:13:26Z
+updated_at: 2026-07-21T14:13:36Z
 ---
 
 # How to Enable/Disable Auto Update for OptiSigns app on Fire TV
