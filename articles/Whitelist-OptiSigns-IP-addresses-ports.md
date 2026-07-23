@@ -2,7 +2,7 @@
 title: "Whitelist OptiSigns IP addresses & ports"
 article_id: 360047275934
 source_url: https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports
-updated_at: 2026-07-16T10:01:04Z
+updated_at: 2026-07-22T15:55:30Z
 ---
 
 # Whitelist OptiSigns IP addresses & ports
