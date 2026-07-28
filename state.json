@@ -8,12 +8,12 @@
     "updated_at": "2026-07-08T04:10:51Z"
   },
   "360035538093": {
-    "hash": "7941dc254454dd500d08298b251ebce321b897a93897d4d6a834b97f26c9631e",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360035538093myimagecontenta-4136pujia0os",
+    "hash": "45ef1c13d698dec5dab70679bf395ba71689d04fcbb21d332a12cfddc85ac829",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360035538093myimagecontenta-hpw40j5hqcsu",
     "path": "articles/My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration.md",
     "slug": "My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360035538093-My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration",
-    "updated_at": "2026-07-07T16:43:26Z"
+    "updated_at": "2026-07-27T15:11:19Z"
   },
   "4412065189267": {
     "hash": "c5682e2b142a530b7f3df4d360f29f802098b9a8c01bed6bc2171769983e166a",
@@ -584,12 +584,12 @@
     "updated_at": "2026-04-29T15:27:37Z"
   },
   "27463953562899": {
-    "hash": "a7c06e244118feb257af3fb47763759e132ac8876a7c103f75aeb381d3e5a993",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/27463953562899amazontvfires-go3ep7hqukiy",
+    "hash": "dafa2f560b28ddad5865dae0bd61b591ca2fa9f2e248ab5e1888b26a504f1788",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/27463953562899amazontvfires-1tey6vy5vcn8",
     "path": "articles/Amazon-TV-FireStick-Troubleshooting-Guide.md",
     "slug": "Amazon-TV-FireStick-Troubleshooting-Guide",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide",
-    "updated_at": "2026-04-28T15:36:27Z"
+    "updated_at": "2026-07-27T12:19:26Z"
   },
   "30310366838803": {
     "hash": "69a243f896f6804b7f85c0772170cb7c14236d2e6aae36db8b5d39ffb078498a",
@@ -662,22 +662,6 @@
     "slug": "Shapes-and-Elements",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/42307234534547-Shapes-and-Elements",
     "updated_at": "2026-03-30T20:09:57Z"
-  },
-  "46299245284243": {
-    "hash": "fb3fce715c51514dfd9f520951a1eda735df228940685e90fd2ab3d391eb1d1b",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/46299245284243kiosk50-catq8rf4ql4c",
-    "path": "articles/Kiosk50.md",
-    "slug": "Kiosk50",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/46299245284243-Kiosk50",
-    "updated_at": "2026-03-30T17:22:38Z"
-  },
-  "44650391786131": {
-    "hash": "ce5ed91e3487621999f1f2408b8eca30bab5e18974d999efd21a7f12605346f1",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/44650391786131kiosksetuphub-jbqfmjnz67ok",
-    "path": "articles/Kiosk-Setup-Hub.md",
-    "slug": "Kiosk-Setup-Hub",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/44650391786131-Kiosk-Setup-Hub",
-    "updated_at": "2026-03-30T17:22:38Z"
   },
   "53293393593491": {
     "hash": "5273d9b507a8b61340f8dc7464f048718614fb297ac6d28c03a2a10829e4702d",
@@ -798,5 +782,21 @@
     "slug": "How-does-pre-configured-devices-labeled-in-shipping-package",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360055546594-How-does-pre-configured-devices-labeled-in-shipping-package",
     "updated_at": "2026-07-20T15:15:23Z"
+  },
+  "360037463934": {
+    "hash": "ca14b36d0e146afb7dbd2d6938b9df4360c912c5dc69dccad539546dd05506b4",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360037463934howtocreateandu-ntmptcmp4dr8",
+    "path": "articles/How-to-create-and-use-Google-Reviews-Wall.md",
+    "slug": "How-to-create-and-use-Google-Reviews-Wall",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360037463934-How-to-create-and-use-Google-Reviews-Wall",
+    "updated_at": "2026-07-27T15:39:23Z"
+  },
+  "4414496579475": {
+    "hash": "7b9c092f135e6d772901e0f2c83c04d8ec227e7ced3dfa70e2bf8a17fcbb7a29",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4414496579475lgwebossignage-qh6kq4mjwxxt",
+    "path": "articles/LG-WebOS-Signage-Commercial-Grade.md",
+    "slug": "LG-WebOS-Signage-Commercial-Grade",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade",
+    "updated_at": "2026-07-27T11:33:43Z"
   }
 }

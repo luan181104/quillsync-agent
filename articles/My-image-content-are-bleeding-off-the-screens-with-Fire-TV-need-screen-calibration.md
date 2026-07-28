@@ -2,7 +2,7 @@
 title: "My image, content are bleeding off the screens with Fire TV (need screen calibration)"
 article_id: 360035538093
 source_url: https://support.optisigns.com/hc/en-us/articles/360035538093-My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration
-updated_at: 2026-07-07T16:43:26Z
+updated_at: 2026-07-27T15:11:19Z
 ---
 
 # My image, content are bleeding off the screens with Fire TV (need screen calibration)

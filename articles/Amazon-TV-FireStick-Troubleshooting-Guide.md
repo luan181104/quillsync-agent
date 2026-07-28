@@ -2,7 +2,7 @@
 title: "Amazon TV / FireStick Troubleshooting Guide"
 article_id: 27463953562899
 source_url: https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide
-updated_at: 2026-04-28T15:36:27Z
+updated_at: 2026-07-27T12:19:26Z
 ---
 
 # Amazon TV / FireStick Troubleshooting Guide
