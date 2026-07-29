@@ -647,22 +647,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists",
     "updated_at": "2026-07-14T12:09:21Z"
   },
-  "18823504383891": {
-    "hash": "45195c7db5e2e42ef953196446ddab690b9b1485930f73138768fa061bd13f81",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/18823504383891optisignsgett-an1y2sbpxq5a",
-    "path": "articles/OptiSigns-Getting-Started-Guide.md",
-    "slug": "OptiSigns-Getting-Started-Guide",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide",
-    "updated_at": "2026-03-31T21:41:21Z"
-  },
-  "42307234534547": {
-    "hash": "fc570829cdc1175f58a2d937678f4f2de28b5c264671ab57786a2061260b0bfb",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/42307234534547shapesandelem-pjvmi06oe1oy",
-    "path": "articles/Shapes-and-Elements.md",
-    "slug": "Shapes-and-Elements",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/42307234534547-Shapes-and-Elements",
-    "updated_at": "2026-03-30T20:09:57Z"
-  },
   "53293393593491": {
     "hash": "5273d9b507a8b61340f8dc7464f048718614fb297ac6d28c03a2a10829e4702d",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/53293393593491referearnopti-jghoa0yklefh",
@@ -798,5 +782,21 @@
     "slug": "LG-WebOS-Signage-Commercial-Grade",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade",
     "updated_at": "2026-07-27T11:33:43Z"
+  },
+  "39080869746067": {
+    "hash": "f489e0d4304158281e7ae9f9727e56fe7ba30ee41bbddac037e11c8dee28f780",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/39080869746067handleoauthau-fjmokglkvnvn",
+    "path": "articles/Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration.md",
+    "slug": "Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration",
+    "updated_at": "2026-07-28T20:42:44Z"
+  },
+  "35626165056787": {
+    "hash": "14bd18b2e35139b5a22369a4a261f7e3e126a2a4bcb8502e85f33ea58f59c51c",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/35626165056787howtocontacto-r5wwd0ssy6n2",
+    "path": "articles/How-to-Contact-OptiSigns-Support.md",
+    "slug": "How-to-Contact-OptiSigns-Support",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support",
+    "updated_at": "2026-07-28T18:51:24Z"
   }
 }
