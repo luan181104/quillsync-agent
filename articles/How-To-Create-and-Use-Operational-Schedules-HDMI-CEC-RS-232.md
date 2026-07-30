@@ -2,7 +2,7 @@
 title: "How To Create and Use Operational Schedules (HDMI-CEC, RS-232)"
 article_id: 28598173096723
 source_url: https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232
-updated_at: 2026-07-08T14:47:07Z
+updated_at: 2026-07-30T00:40:11Z
 ---
 
 # How To Create and Use Operational Schedules (HDMI-CEC, RS-232)
