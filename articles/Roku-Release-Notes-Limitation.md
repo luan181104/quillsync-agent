@@ -2,7 +2,7 @@
 title: "Roku Release Notes & Limitation"
 article_id: 360042143333
 source_url: https://support.optisigns.com/hc/en-us/articles/360042143333-Roku-Release-Notes-Limitation
-updated_at: 2026-06-02T20:21:45Z
+updated_at: 2026-07-30T14:35:18Z
 ---
 
 # Roku Release Notes & Limitation
