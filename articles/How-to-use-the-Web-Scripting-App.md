@@ -2,7 +2,7 @@
 title: "How to use the Web Scripting App"
 article_id: 1500012522362
 source_url: https://support.optisigns.com/hc/en-us/articles/1500012522362-How-to-use-the-Web-Scripting-App
-updated_at: 2026-05-14T16:05:37Z
+updated_at: 2026-07-31T13:02:35Z
 ---
 
 # How to use the Web Scripting App
@@ -32,7 +32,7 @@ OptiSigns encrypts all the scripts and your password entered with our own privat
 
 We also provide Zero Knowledge encryption method so that you can protect your script with your own Master Password. *You can read more at the end of this article.*
 
-If your dashboard requires login with the 2FA, OptiSigns supports the 2FA in the Web Scripting app. You can read more [here](https://support.optisigns.com/hc/en-us/articles/19145077187859).
+If your dashboard requires login with the 2FA, OptiSigns supports 2FA in the Web Scripting app, as well.
 
 **Let's jump in and get started!**
 
