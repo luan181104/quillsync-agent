@@ -2,12 +2,14 @@
 title: "How to Display Databricks Dashboards on OptiSigns"
 article_id: 53952018650515
 source_url: https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns
-updated_at: 2026-08-04T17:57:34Z
+updated_at: 2026-08-05T16:53:02Z
 ---
 
 # How to Display Databricks Dashboards on OptiSigns
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns
+
+### In this article, we'll walk you through setting up Databricks to display on your OptiSigns digital signs.
 
 - [What You'll Need](#WhatYouNeed)
 - [Create a Service Principal Connection](#CreateConnection)
