@@ -599,14 +599,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/30310366838803-Enabling-Lock-Down-Mode-on-Touch-Screen-Devices",
     "updated_at": "2026-04-21T19:22:05Z"
   },
-  "48241081473043": {
-    "hash": "5f92f6ac1caeb92a1ec76509c4bbb0c3e57e256e6b93f3b0e667e751ad1248dd",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/48241081473043operationalsc-xw8hun2owo67",
-    "path": "articles/Operational-Schedule-Troubleshooting.md",
-    "slug": "Operational-Schedule-Troubleshooting",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/48241081473043-Operational-Schedule-Troubleshooting",
-    "updated_at": "2026-04-20T21:26:17Z"
-  },
   "4416542923667": {
     "hash": "1467342720e48aa73f79a81a88211bd2a312bd63f3bb1d019ee9379452ab1799",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4416542923667howtoperformma-05wafxdr5za3",
@@ -798,5 +790,13 @@
     "slug": "OptiDev-Add-on-Free-Trial-and-Pricing",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing",
     "updated_at": "2026-08-05T18:22:19Z"
+  },
+  "4404608957075": {
+    "hash": "12488fb7a6fbce70db670d829342ae92b9654160d70b557e52d225e20f0ae855",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4404608957075howtodeleteyou-6sgvfl8o3kzz",
+    "path": "articles/How-to-Delete-Your-Account-from-OptiSigns.md",
+    "slug": "How-to-Delete-Your-Account-from-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
+    "updated_at": "2026-08-10T11:48:19Z"
   }
 }
