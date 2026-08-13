@@ -2,7 +2,7 @@
 title: "Using the Japan Earthquake App"
 article_id: 53095698149011
 source_url: https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App
-updated_at: 2026-07-08T18:39:51Z
+updated_at: 2026-08-12T14:38:37Z
 ---
 
 # Using the Japan Earthquake App
@@ -21,7 +21,7 @@ Here's how to set it up.
 
 ## What You'll Need
 
-- An OptiSigns account \- [**Pro Plus Plan or higher**](https://www.optisigns.com/pricing)
+- An OptiSigns account \- [**Standard Plan or higher**](https://www.optisigns.com/pricing)
 - An [OptiSigns\-enabled device](https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported)
 - A screen, [set up and paired with OptiSigns](https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide)
 
