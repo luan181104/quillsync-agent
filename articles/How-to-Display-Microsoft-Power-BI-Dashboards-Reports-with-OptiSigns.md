@@ -2,7 +2,7 @@
 title: "How to Display Microsoft Power BI Dashboards & Reports with OptiSigns"
 article_id: 360024859713
 source_url: https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns
-updated_at: 2026-03-25T21:24:00Z
+updated_at: 2026-08-13T15:38:13Z
 ---
 
 # How to Display Microsoft Power BI Dashboards & Reports with OptiSigns

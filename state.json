@@ -184,12 +184,12 @@
     "updated_at": "2026-06-20T07:00:26Z"
   },
   "360016313754": {
-    "hash": "249ef8023cdbf7ee41abd02e4b3dbbe948c1e4bda4dcdf7cd3ec664e5a7cf781",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016313754howtoinstallana-hon8yu4vnz2y",
+    "hash": "b2601874fc8212630344629131e9a2c28cabbbf7041f1d6d51588ab6d511f5aa",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016313754howtoinstallana-d27zvkp43ein",
     "path": "articles/How-to-Install-an-APK-file-on-your-Fire-TV.md",
     "slug": "How-to-Install-an-APK-file-on-your-Fire-TV",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-    "updated_at": "2026-07-29T08:50:23Z"
+    "updated_at": "2026-08-13T11:52:12Z"
   },
   "360051014713": {
     "hash": "ba9317b1b1faa43d066f3d9983fe32637c7cb44ad4e5bff198c54599576a11d8",
@@ -543,14 +543,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App",
     "updated_at": "2026-05-05T17:07:53Z"
   },
-  "4404616314515": {
-    "hash": "784379c945b0cbd2528bdbb7ab7a18decd975a7100fb4c459483e071ff60229d",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4404616314515howtochangeacc-w9vlb7ijdyza",
-    "path": "articles/How-to-Change-Account-Owners.md",
-    "slug": "How-to-Change-Account-Owners",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/4404616314515-How-to-Change-Account-Owners",
-    "updated_at": "2026-05-05T16:36:22Z"
-  },
   "27463953562899": {
     "hash": "dafa2f560b28ddad5865dae0bd61b591ca2fa9f2e248ab5e1888b26a504f1788",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/27463953562899amazontvfires-1tey6vy5vcn8",
@@ -798,5 +790,13 @@
     "slug": "Samsung-Smart-Signage-Platform-SSSP-Supported-Model-List",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/17882306279315-Samsung-Smart-Signage-Platform-SSSP-Supported-Model-List",
     "updated_at": "2026-08-11T10:19:33Z"
+  },
+  "360024859713": {
+    "hash": "7fcacc9926691e0a10861baf0ed43f57adb1adbb0b60e50c53ccb71e3d7edfbd",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360024859713howtodisplaymic-hkf79n1pqd4h",
+    "path": "articles/How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns.md",
+    "slug": "How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
+    "updated_at": "2026-08-13T15:38:13Z"
   }
 }
