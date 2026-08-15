@@ -535,14 +535,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-use-the-CountDown-App",
     "updated_at": "2026-05-05T17:08:12Z"
   },
-  "360041222994": {
-    "hash": "547070363b76ac5b5fef7b0d051e5cde507d3b8acb37ae34236c2f0a68ff805c",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360041222994howtousethecoun-r98r7a40ldmf",
-    "path": "articles/How-to-Use-the-CountUp-App.md",
-    "slug": "How-to-Use-the-CountUp-App",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App",
-    "updated_at": "2026-05-05T17:07:53Z"
-  },
   "27463953562899": {
     "hash": "dafa2f560b28ddad5865dae0bd61b591ca2fa9f2e248ab5e1888b26a504f1788",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/27463953562899amazontvfires-1tey6vy5vcn8",
@@ -798,5 +790,13 @@
     "slug": "How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
     "updated_at": "2026-08-13T15:38:13Z"
+  },
+  "360042950593": {
+    "hash": "cf08287a95fcce03eb7516b6bb7976c2ff15c1def21ba3b538bb179aa4b1f82b",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360042950593howtousethesimp-iyfqwy9gqukd",
+    "path": "articles/How-to-Use-the-Simple-Clock-App.md",
+    "slug": "How-to-Use-the-Simple-Clock-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App",
+    "updated_at": "2026-08-14T20:14:02Z"
   }
 }
