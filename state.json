@@ -184,12 +184,12 @@
     "updated_at": "2026-06-20T07:00:26Z"
   },
   "360016313754": {
-    "hash": "b2601874fc8212630344629131e9a2c28cabbbf7041f1d6d51588ab6d511f5aa",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016313754howtoinstallana-d27zvkp43ein",
+    "hash": "d08b5501549b70eae4cc58a0ae0513644ca52f8640495cb6328ffa5b62250f0d",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016313754howtoinstallana-uiyr96dbv61i",
     "path": "articles/How-to-Install-an-APK-file-on-your-Fire-TV.md",
     "slug": "How-to-Install-an-APK-file-on-your-Fire-TV",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-    "updated_at": "2026-08-13T11:52:12Z"
+    "updated_at": "2026-08-17T21:10:23Z"
   },
   "360051014713": {
     "hash": "ba9317b1b1faa43d066f3d9983fe32637c7cb44ad4e5bff198c54599576a11d8",
@@ -200,12 +200,12 @@
     "updated_at": "2026-07-08T15:01:25Z"
   },
   "360047275934": {
-    "hash": "b833569cd6b08cde35f05b5b614bca16cc1ba9f19ff606711e861b268325fe4e",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360047275934whitelistoptisi-k00nq5ad44qu",
+    "hash": "a3c7e7cd1f11998db5b8735f264d6b67e35eeb67c6b155122e1320d1b24f00b6",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360047275934whitelistoptisi-25l2x6c2b1tq",
     "path": "articles/Whitelist-OptiSigns-IP-addresses-ports.md",
     "slug": "Whitelist-OptiSigns-IP-addresses-ports",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-    "updated_at": "2026-07-22T15:55:30Z"
+    "updated_at": "2026-08-17T15:21:01Z"
   },
   "52113036672403": {
     "hash": "647c8729430b319c927e2bffc895a3e06c1c11cd42912af18bb6cc1f1555635d",
@@ -511,30 +511,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/42830652820115-Your-Templates",
     "updated_at": "2026-05-12T21:04:13Z"
   },
-  "41432385864595": {
-    "hash": "c2785c1069da1df220500ebcff4faa9b720ff9855088ae7918b47611d9381552",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/41432385864595designer20new-fevyg0pd7n5p",
-    "path": "articles/Designer-2-0-New-Features.md",
-    "slug": "Designer-2-0-New-Features",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/41432385864595-Designer-2-0-New-Features",
-    "updated_at": "2026-05-12T14:17:09Z"
-  },
-  "360040943374": {
-    "hash": "85e07663bacd931ca6facb3844ab50f80fa22cada62073d26c5af4ea24ac1b52",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360040943374assigndefaultco-psh6awhck66k",
-    "path": "articles/Assign-Default-Content-for-Schedules.md",
-    "slug": "Assign-Default-Content-for-Schedules",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360040943374-Assign-Default-Content-for-Schedules",
-    "updated_at": "2026-05-05T19:18:10Z"
-  },
-  "360041638433": {
-    "hash": "4eb2faa217c3739b838ae9e30cd134dc51ec97988d0e04ffa77a8bafa650a2f6",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360041638433howtousethecoun-u84l2k6dglww",
-    "path": "articles/How-to-use-the-CountDown-App.md",
-    "slug": "How-to-use-the-CountDown-App",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-use-the-CountDown-App",
-    "updated_at": "2026-05-05T17:08:12Z"
-  },
   "27463953562899": {
     "hash": "dafa2f560b28ddad5865dae0bd61b591ca2fa9f2e248ab5e1888b26a504f1788",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/27463953562899amazontvfires-1tey6vy5vcn8",
@@ -576,12 +552,12 @@
     "updated_at": "2026-07-09T21:32:58Z"
   },
   "29217646663187": {
-    "hash": "d7abc9caa4270dde10890d8191fa5df3ccda2f0fb182d1199be1a59bd4c76e4d",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/29217646663187howtosetupdyn-14xx9pb32x64",
+    "hash": "c1ec3051d17704900fd93ac579c52ff66a29038d62cababdd48316ec61ef30fa",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/29217646663187howtosetupdyn-awdcvnjffybl",
     "path": "articles/How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync.md",
     "slug": "How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync",
-    "updated_at": "2026-07-09T15:33:50Z"
+    "updated_at": "2026-08-17T15:33:48Z"
   },
   "6604468198291": {
     "hash": "bf7d36a78b894ac40184c477b5e713f0a8fdeddb4d529d7b3b8eca2b220d142d",
@@ -798,5 +774,29 @@
     "slug": "How-to-Use-the-Simple-Clock-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App",
     "updated_at": "2026-08-14T20:14:02Z"
+  },
+  "4408658251027": {
+    "hash": "6ae42ceb942df9b4d88713d0ac9419ee7e90c1073b0f958222c82f98f6a139a2",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4408658251027howtouseremote-ahgesjf0wiww",
+    "path": "articles/How-to-use-Remote-Command-Execution-Windows-Linux.md",
+    "slug": "How-to-use-Remote-Command-Execution-Windows-Linux",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4408658251027-How-to-use-Remote-Command-Execution-Windows-Linux",
+    "updated_at": "2026-08-18T09:38:04Z"
+  },
+  "22875592994195": {
+    "hash": "9fdfe9b84930e243b6de4c628afadef2eb3478fa3f13398a368f5e5098e9ab4b",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/22875592994195howtointegrat-vw390a3fapz4",
+    "path": "articles/How-to-Integrate-API-and-Publish-API-Data-via-OptiSync.md",
+    "slug": "How-to-Integrate-API-and-Publish-API-Data-via-OptiSync",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/22875592994195-How-to-Integrate-API-and-Publish-API-Data-via-OptiSync",
+    "updated_at": "2026-08-17T15:33:02Z"
+  },
+  "44669013147923": {
+    "hash": "a7b0c22947b9283ef901454b338160c0211360106634404596f0debd6484fec0",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/44669013147923kiosk32-8plev168v5jn",
+    "path": "articles/Kiosk32.md",
+    "slug": "Kiosk32",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/44669013147923-Kiosk32",
+    "updated_at": "2026-08-17T12:43:11Z"
   }
 }

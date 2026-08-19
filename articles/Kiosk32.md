@@ -2,7 +2,7 @@
 title: "Kiosk32"
 article_id: 44669013147923
 source_url: https://support.optisigns.com/hc/en-us/articles/44669013147923-Kiosk32
-updated_at: 2026-04-29T15:27:37Z
+updated_at: 2026-08-17T12:43:11Z
 ---
 
 # Kiosk32

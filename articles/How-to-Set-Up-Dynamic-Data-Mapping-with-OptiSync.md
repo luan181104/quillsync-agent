@@ -2,7 +2,7 @@
 title: "How to Set Up Dynamic Data Mapping with OptiSync"
 article_id: 29217646663187
 source_url: https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync
-updated_at: 2026-07-09T15:33:50Z
+updated_at: 2026-08-17T15:33:48Z
 ---
 
 # How to Set Up Dynamic Data Mapping with OptiSync
@@ -82,7 +82,7 @@ You can add any data source, such as an Excel sheet, Google Sheet, POS system, i
 
 In addition, you can integrate and test API requests, and execute any necessary pre\- or post\-request coding.
 
-![](https://support.optisigns.com/hc/article_attachments/29217646654099)
+![](https://support.optisigns.com/hc/article_attachments/54531176913299)
 
 Once your data source is set up, you can see **Where Used, Edit** the data source, and/or **Duplicate** it.
 
