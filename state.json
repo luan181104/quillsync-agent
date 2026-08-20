@@ -184,12 +184,12 @@
     "updated_at": "2026-06-20T07:00:26Z"
   },
   "360016313754": {
-    "hash": "d08b5501549b70eae4cc58a0ae0513644ca52f8640495cb6328ffa5b62250f0d",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016313754howtoinstallana-uiyr96dbv61i",
+    "hash": "80500e8af6100992dd9169de59b03291be044ea893ca42bf8c5991c7f59ef618",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016313754howtoinstallana-370mlzolpn63",
     "path": "articles/How-to-Install-an-APK-file-on-your-Fire-TV.md",
     "slug": "How-to-Install-an-APK-file-on-your-Fire-TV",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-    "updated_at": "2026-08-17T21:10:23Z"
+    "updated_at": "2026-08-19T23:02:46Z"
   },
   "360051014713": {
     "hash": "ba9317b1b1faa43d066f3d9983fe32637c7cb44ad4e5bff198c54599576a11d8",
@@ -479,14 +479,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360016484473-Why-Does-My-Screen-Show-as-Offline-on-the-Web-Portal",
     "updated_at": "2026-05-19T19:33:42Z"
   },
-  "360035739414": {
-    "hash": "7a12277652b67e7b5139e88d31755c359a983e975ab376f58b6d7ed583bd2364",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360035739414howtopreviewasc-cpsne319x0se",
-    "path": "articles/How-to-Preview-a-Screen.md",
-    "slug": "How-to-Preview-a-Screen",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen",
-    "updated_at": "2026-05-17T21:11:45Z"
-  },
   "360042736794": {
     "hash": "a233eac6302cdad53cfcfd81e08df4c72ab5749bb57248d8599bedf453755729",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360042736794howtosetanasset-6dtfs0h07sco",
@@ -502,14 +494,6 @@
     "slug": "How-to-use-the-Web-Scripting-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/1500012522362-How-to-use-the-Web-Scripting-App",
     "updated_at": "2026-07-31T13:02:35Z"
-  },
-  "42830652820115": {
-    "hash": "3e12b0f75bd881721cbe4a97e96be2230197d8c2b4ae2f5447f85b9958a278d3",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/42830652820115yourtemplates-blrcfqu1q83n",
-    "path": "articles/Your-Templates.md",
-    "slug": "Your-Templates",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/42830652820115-Your-Templates",
-    "updated_at": "2026-05-12T21:04:13Z"
   },
   "27463953562899": {
     "hash": "dafa2f560b28ddad5865dae0bd61b591ca2fa9f2e248ab5e1888b26a504f1788",
@@ -544,12 +528,12 @@
     "updated_at": "2026-07-08T17:09:50Z"
   },
   "360026559573": {
-    "hash": "d60a0441e2e5319eb2cf62362b8c4b45519366ecdeb398dcaf267fbbf93646ac",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360026559573howtocreateandu-aoorcnfuz1rq",
+    "hash": "32d288c033c025566a4c4cc646208db6bcdfa2ec6b8fff9a42d1f68e91accbd1",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360026559573howtocreateandu-043ztyepxd46",
     "path": "articles/How-to-Create-and-Use-the-Split-Screen-App.md",
     "slug": "How-to-Create-and-Use-the-Split-Screen-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App",
-    "updated_at": "2026-07-09T21:32:58Z"
+    "updated_at": "2026-08-19T14:57:06Z"
   },
   "29217646663187": {
     "hash": "c1ec3051d17704900fd93ac579c52ff66a29038d62cababdd48316ec61ef30fa",
@@ -768,12 +752,12 @@
     "updated_at": "2026-08-13T15:38:13Z"
   },
   "360042950593": {
-    "hash": "cf08287a95fcce03eb7516b6bb7976c2ff15c1def21ba3b538bb179aa4b1f82b",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360042950593howtousethesimp-iyfqwy9gqukd",
+    "hash": "e8005da2721efe25a0c3adbb0b2e901593493e5a8a6850b0961d9dcd93eeae8b",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360042950593howtousethesimp-690onj4cwced",
     "path": "articles/How-to-Use-the-Simple-Clock-App.md",
     "slug": "How-to-Use-the-Simple-Clock-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App",
-    "updated_at": "2026-08-14T20:14:02Z"
+    "updated_at": "2026-08-19T18:54:53Z"
   },
   "4408658251027": {
     "hash": "6ae42ceb942df9b4d88713d0ac9419ee7e90c1073b0f958222c82f98f6a139a2",
@@ -798,5 +782,21 @@
     "slug": "Kiosk32",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/44669013147923-Kiosk32",
     "updated_at": "2026-08-17T12:43:11Z"
+  },
+  "360016382473": {
+    "hash": "7493d637f337e4775ae1f035927557ab3c395075bdfdbd61f667c487118868bf",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016382473howtousethewebs-ox4wilq426s8",
+    "path": "articles/How-to-Use-the-Website-App-and-Display-URLs-on-OptiSigns.md",
+    "slug": "How-to-Use-the-Website-App-and-Display-URLs-on-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360016382473-How-to-Use-the-Website-App-and-Display-URLs-on-OptiSigns",
+    "updated_at": "2026-08-19T20:31:24Z"
+  },
+  "15861880059283": {
+    "hash": "f085196e42354e6eac511be11c7ae2dedfe462ca10496cdd78e1a9eeea426b3e",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/15861880059283silentinstall-ozhf5ad0sfku",
+    "path": "articles/Silent-Installation-process-for-OptiSigns-Player-on-Windows.md",
+    "slug": "Silent-Installation-process-for-OptiSigns-Player-on-Windows",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/15861880059283-Silent-Installation-process-for-OptiSigns-Player-on-Windows",
+    "updated_at": "2026-08-19T07:25:03Z"
   }
 }

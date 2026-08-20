@@ -2,7 +2,7 @@
 title: "How to Install an APK file on your Fire TV"
 article_id: 360016313754
 source_url: https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV
-updated_at: 2026-08-17T21:10:23Z
+updated_at: 2026-08-19T23:02:46Z
 ---
 
 # How to Install an APK file on your Fire TV

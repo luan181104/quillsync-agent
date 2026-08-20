@@ -2,7 +2,7 @@
 title: "How to Use the Simple Clock App"
 article_id: 360042950593
 source_url: https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App
-updated_at: 2026-08-14T20:14:02Z
+updated_at: 2026-08-19T18:54:53Z
 ---
 
 # How to Use the Simple Clock App
@@ -46,10 +46,10 @@ On the OptiSigns portal, go to **Files/Assets → Apps**.
 
 Select **Simple Clock:**
 
-![Add App results showing Simple Clock, World Clock, CountDown and CountUp](https://support.optisigns.com/hc/article_attachments/54422783742739)
+![Add App results showing Simple Clock, World Clock, CountDown and CountUp](https://support.optisigns.com/hc/article_attachments/54612347362963)
 
 Set up your Simple Clock app:
-![Simple Clock setup with Name, Clock Type and Theme fields](https://support.optisigns.com/hc/article_attachments/54422783744019)
+![Simple Clock dialog: Name, Clock Type and Theme on the left, live clock preview on the right](https://support.optisigns.com/hc/article_attachments/54612356601747)
 
 - **Name \-** Name of your assets. This is for organizational purposes and will not be displayed on your screens.
 - **Clock Type \-** Choose your type of clock. Pick the one that you like best! There are six options:
@@ -70,14 +70,14 @@ The remaining options live in two collapsible sections, **Clock Settings** and *
 
 #### Digital Clocks
 
-![Clock Settings with Time Format, Show Seconds, Show Date and Date Format](https://support.optisigns.com/hc/article_attachments/54422800157587)
+![Clock Settings with Time Format, Show Seconds, Show Date and Date Format](https://support.optisigns.com/hc/article_attachments/54612366943123)
 
 - **Time Format \-** How you want the time to be formatted on your digital clock.
 	- **Show Seconds \-**Choose whether or not to show seconds.
 	- **Show Date \-**Choose whether or not to display the date.
 - **Date Format \-**If **Show Date** is turned on, you can customize the way the date is formatted here.
 
-![The Date Format dropdown highlighted](https://support.optisigns.com/hc/article_attachments/54422800158483)
+![The Date Format dropdown highlighted](https://support.optisigns.com/hc/article_attachments/54612356764435)
 - **Time Font Size \-** Choose the font size for the time display.
 - **Date Font Size \-** Choose the font size for the date. This option only appears if **Show Date** is turned on above.
 - **Text Color \-** Choose the Text color for the digital clock.
@@ -91,9 +91,9 @@ The remaining options live in two collapsible sections, **Clock Settings** and *
 
 Analog clock types have only a **Theme Settings** section.
 
-![The Theme dropdown showing Light, Dark and Auto](https://support.optisigns.com/hc/article_attachments/54422800160019)
+![The Theme dropdown showing Light, Dark and Auto](https://support.optisigns.com/hc/article_attachments/54612367090579)
 
-![Analog clock settings with Show Numbers and Show Tick Marks, and the preview](https://support.optisigns.com/hc/article_attachments/54422783747219)
+![Analog Theme Settings with arrows on the Show Numbers and Show Tick Marks toggles](https://support.optisigns.com/hc/article_attachments/54612331447571)
 
 - **Show Numbers \-** Choose whether or not to show numbers on the analog clock display.
 - **Show Tick Marks \-** Choose whether or not to show tick marks on the analog clock display.
@@ -106,7 +106,7 @@ Analog clock types have only a **Theme Settings** section.
 
 Modern Analog uses a different set: **Outer Face Color**, **Inner Face Color**, **Clock Border Color**, and **Tick Mark Color** in place of Dial Color and Clock Face Background.
 
-![Theme Settings with Text Color and Background Color highlighted](https://support.optisigns.com/hc/article_attachments/54422800161555)
+![Theme Settings with Text Color and Background Color highlighted](https://support.optisigns.com/hc/article_attachments/54612372826515)
 
 Once you've configured the app the way you want, hit **Save**. Save stays greyed out until you've entered a **Name**.
 
@@ -118,15 +118,15 @@ You can deploy your new Simple Clock app as an individual asset, or as part of a
 
 To get your new Simple Clock asset to a screen, go to the **Screens** tab, then click the screen you want to assign it to.
 
-![A screen row in the Screens list with the Edit button highlighted](https://support.optisigns.com/hc/article_attachments/54422800162323)
+![Screens list with the Edit button on a screen row highlighted, shown magnified below](https://support.optisigns.com/hc/article_attachments/54612319462931)
 
 This brings up the **Edit Screen** menu:
 
-![The Edit Screen window](https://support.optisigns.com/hc/article_attachments/54422783750419)
+![The Edit Screen window with Device Name, Content Type, Selected Playlist and Orientation](https://support.optisigns.com/hc/article_attachments/54612331671443)
 
 Here, select **Asset** under Content type. Then, select your created Simple Clock Asset:
 
-![Selected Asset field with the Change button highlighted](https://support.optisigns.com/hc/article_attachments/54422783751571)
+![Edit Screen with the Selected Asset row highlighted](https://support.optisigns.com/hc/article_attachments/54612367478291)
 
 Now hit **Save**. Your Simple Clock asset will now display on screen.
 
