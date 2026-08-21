@@ -463,22 +463,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
     "updated_at": "2026-07-09T18:27:02Z"
   },
-  "44890229616403": {
-    "hash": "ae6da1119c59413bde503e6f2bfda7e918d408e4712be6bc282fecf663844563",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/44890229616403usinganenterp-mhkixuzjofu5",
-    "path": "articles/Using-an-Enterprise-Network-802-1x-with-OptiSigns.md",
-    "slug": "Using-an-Enterprise-Network-802-1x-with-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/44890229616403-Using-an-Enterprise-Network-802-1x-with-OptiSigns",
-    "updated_at": "2026-05-20T18:11:11Z"
-  },
-  "360016484473": {
-    "hash": "2f5780a55298906e2e7fe60d1646435ffe952180eff2a61db4bc91b2d5eb0417",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016484473whydoesmyscreen-ioo2p7f4m7j0",
-    "path": "articles/Why-Does-My-Screen-Show-as-Offline-on-the-Web-Portal.md",
-    "slug": "Why-Does-My-Screen-Show-as-Offline-on-the-Web-Portal",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360016484473-Why-Does-My-Screen-Show-as-Offline-on-the-Web-Portal",
-    "updated_at": "2026-05-19T19:33:42Z"
-  },
   "360042736794": {
     "hash": "a233eac6302cdad53cfcfd81e08df4c72ab5749bb57248d8599bedf453755729",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360042736794howtosetanasset-6dtfs0h07sco",
@@ -798,5 +782,21 @@
     "slug": "Silent-Installation-process-for-OptiSigns-Player-on-Windows",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/15861880059283-Silent-Installation-process-for-OptiSigns-Player-on-Windows",
     "updated_at": "2026-08-19T07:25:03Z"
+  },
+  "360037416494": {
+    "hash": "181e22aa7c179fb3d03c618dd6c854b0e66ce102701bb0df0ff2f601f5436ce1",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360037416494howtousethejira-sk4nzgqs7cjp",
+    "path": "articles/How-to-use-the-Jira-formerly-Atlassian-JIRA-app.md",
+    "slug": "How-to-use-the-Jira-formerly-Atlassian-JIRA-app",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-use-the-Jira-formerly-Atlassian-JIRA-app",
+    "updated_at": "2026-08-20T19:03:52Z"
+  },
+  "19171222981523": {
+    "hash": "2b19afbcd140bf836199c1fd0481d422d9a204a74e8a5e9975d1cdab9dbaadea",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/19171222981523howtousethevi-tld0fw69hikw",
+    "path": "articles/How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns.md",
+    "slug": "How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
+    "updated_at": "2026-08-20T19:03:01Z"
   }
 }
