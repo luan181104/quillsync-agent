@@ -2,7 +2,7 @@
 title: "OptiSigns - Getting Started Guide"
 article_id: 18823504383891
 source_url: https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide
-updated_at: 2026-03-31T21:41:21Z
+updated_at: 2026-08-21T05:37:19Z
 ---
 
 # OptiSigns - Getting Started Guide

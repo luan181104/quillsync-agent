@@ -447,14 +447,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/29792081890323-Guide-for-Creating-Content-with-OptiSigns",
     "updated_at": "2026-05-21T17:52:16Z"
   },
-  "360048914673": {
-    "hash": "6a164b228972b14c2b12fc50ed609789e12620434aa6adb6c89e9f54efc0fa04",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360048914673editscreenwhatd-8qicwj9d7hv6",
-    "path": "articles/Edit-Screen-What-does-each-option-do.md",
-    "slug": "Edit-Screen-What-does-each-option-do",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do",
-    "updated_at": "2026-05-21T13:09:58Z"
-  },
   "360056086653": {
     "hash": "1c0361cef843e14f335e8164e0584e4f81d632430b58890287328c90ee1b749a",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360056086653howtochangetime-mlpuie1v0hc5",
@@ -736,12 +728,12 @@
     "updated_at": "2026-08-13T15:38:13Z"
   },
   "360042950593": {
-    "hash": "e8005da2721efe25a0c3adbb0b2e901593493e5a8a6850b0961d9dcd93eeae8b",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360042950593howtousethesimp-690onj4cwced",
+    "hash": "1b949999b39bb3274724675a3fbb996d14de92e3d6f6f0d9eafd6e9d2462b12e",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360042950593howtousethesimp-9hp2hlkea8r5",
     "path": "articles/How-to-Use-the-Simple-Clock-App.md",
     "slug": "How-to-Use-the-Simple-Clock-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App",
-    "updated_at": "2026-08-19T18:54:53Z"
+    "updated_at": "2026-08-21T21:14:32Z"
   },
   "4408658251027": {
     "hash": "6ae42ceb942df9b4d88713d0ac9419ee7e90c1073b0f958222c82f98f6a139a2",
@@ -792,11 +784,19 @@
     "updated_at": "2026-08-20T19:03:52Z"
   },
   "19171222981523": {
-    "hash": "2b19afbcd140bf836199c1fd0481d422d9a204a74e8a5e9975d1cdab9dbaadea",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/19171222981523howtousethevi-tld0fw69hikw",
+    "hash": "91c18b7cce55f80e47a8e866c057226d4dd87fc615f5c544603ad28944099994",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/19171222981523howtousethevi-y4j3i12yl5oo",
     "path": "articles/How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns.md",
     "slug": "How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
-    "updated_at": "2026-08-20T19:03:01Z"
+    "updated_at": "2026-08-21T18:40:48Z"
+  },
+  "18823504383891": {
+    "hash": "3111b39a50e93dda6ae41560ef688cfb82376854bd9f32d638b78ff764bdc50f",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/18823504383891optisignsgett-zpt2ezfr1ruj",
+    "path": "articles/OptiSigns-Getting-Started-Guide.md",
+    "slug": "OptiSigns-Getting-Started-Guide",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide",
+    "updated_at": "2026-08-21T05:37:19Z"
   }
 }
