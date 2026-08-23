@@ -2,7 +2,7 @@
 title: "How to Clear Cache on Your Fire Stick device"
 article_id: 360056087613
 source_url: https://support.optisigns.com/hc/en-us/articles/360056087613-How-to-Clear-Cache-on-Your-Fire-Stick-device
-updated_at: 2026-05-30T19:09:27Z
+updated_at: 2026-08-22T13:10:02Z
 ---
 
 # How to Clear Cache on Your Fire Stick device
