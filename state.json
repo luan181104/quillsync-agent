@@ -439,14 +439,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360016376793-What-happen-if-internet-connection-is-lost",
     "updated_at": "2026-05-26T18:14:07Z"
   },
-  "29792081890323": {
-    "hash": "27d9b47c21d1750952a211dea0cfedd5ea071c6d95e0977028d7734445274de0",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/29792081890323guideforcreat-p7qdzofa3ur2",
-    "path": "articles/Guide-for-Creating-Content-with-OptiSigns.md",
-    "slug": "Guide-for-Creating-Content-with-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/29792081890323-Guide-for-Creating-Content-with-OptiSigns",
-    "updated_at": "2026-05-21T17:52:16Z"
-  },
   "360056086653": {
     "hash": "1c0361cef843e14f335e8164e0584e4f81d632430b58890287328c90ee1b749a",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360056086653howtochangetime-mlpuie1v0hc5",
@@ -798,5 +790,13 @@
     "slug": "OptiSigns-Getting-Started-Guide",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide",
     "updated_at": "2026-08-21T05:37:19Z"
+  },
+  "1500009937122": {
+    "hash": "344438ed9b3a3ab7a56c3402c8cf541bc8f92f15b04435f3af0c87fa5120f705",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500009937122resolveautosta-ngwfkflwwn1c",
+    "path": "articles/Resolve-Autostart-issues-on-your-Android-TV-devices.md",
+    "slug": "Resolve-Autostart-issues-on-your-Android-TV-devices",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/1500009937122-Resolve-Autostart-issues-on-your-Android-TV-devices",
+    "updated_at": "2026-08-24T21:20:19Z"
   }
 }
