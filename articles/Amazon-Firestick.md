@@ -2,7 +2,7 @@
 title: "Amazon Firestick"
 article_id: 360016174554
 source_url: https://support.optisigns.com/hc/en-us/articles/360016174554-Amazon-Firestick
-updated_at: 2026-06-05T22:12:50Z
+updated_at: 2026-08-25T22:35:02Z
 ---
 
 # Amazon Firestick
@@ -15,7 +15,7 @@ Article URL: https://support.optisigns.com/hc/en-us/articles/360016174554-Amazon
 
  
 There are workarounds with [ADB commands](https://support.optisigns.com/hc/en-us/articles/23274673797139) or manually to start the app.
-However, those workarounds are very inconvenient. We believe that, without an easy way to AutoStart apps, the Fire Stick is not a good solution for a Digital Signage player.
+However, those workarounds are very inconvenient. We believe that, without an easy way to AutoStart apps, the Fire Stick is not a good solution for a Digital Signage player. 
  
 In addition, newer Firesticks, including the Firestick Select series, use a new OS called Vega OS. In addition to the auto\-start problems, with Vega OS the app will fall asleep frequently unless videos are played every several minutes. This means it cannot be used to display static images by themselves.
  
@@ -89,12 +89,12 @@ Go to our website: [https://app.optisigns.com](https://app.optisigns.com/app/scr
 
 If you don't have an account already, you can create one, or you can also log in with Google or Facebook account.
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360055530533)Once you logged in Click "**Add screen**" button
+![mceclip2.png](https://support.optisigns.com/hc/article_attachments/54797760578579)Once you logged in Click "**Add screen**" button
  
 
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/360054655934)
+![mceclip3.png](https://support.optisigns.com/hc/article_attachments/54797760741395)
 In this pop up, type in the Pair Code showing up on your Fire TV screen. Then, click Pair:
-![mceclip4.png](https://support.optisigns.com/hc/article_attachments/360054655994)
+![mceclip4.png](https://support.optisigns.com/hc/article_attachments/54798002579731)
 
 The Fire TV screen will change to:
 
