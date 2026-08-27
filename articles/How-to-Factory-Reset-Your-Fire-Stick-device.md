@@ -2,7 +2,7 @@
 title: "How to Factory Reset Your Fire Stick device "
 article_id: 360054298754
 source_url: https://support.optisigns.com/hc/en-us/articles/360054298754-How-to-Factory-Reset-Your-Fire-Stick-device
-updated_at: 2026-08-03T23:37:18Z
+updated_at: 2026-08-27T10:26:43Z
 ---
 
 # How to Factory Reset Your Fire Stick device 
