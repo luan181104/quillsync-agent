@@ -2,7 +2,7 @@
 title: "Engage Plan - FAQs"
 article_id: 23565267463315
 source_url: https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs
-updated_at: 2026-06-29T19:25:18Z
+updated_at: 2026-08-27T17:21:45Z
 ---
 
 # Engage Plan - FAQs
@@ -23,8 +23,6 @@ Here are a few highlighted features in Engage:
 - [Enterprise App](https://support.optisigns.com/hc/en-us/articles/13320135306515)
 - [Check\-in \& SMS follow up](https://support.optisigns.com/hc/en-us/articles/23566927217939)
 
- 
-
 **Can I try it out?**
 
 Yes, you try Engage out at no cost for one screen.
@@ -37,24 +35,27 @@ This screen is the only one that will ever have Engage enabled, and it is a one\
 
 **How much is it?**
 
-Engage plan is $30/mo/screen. With an annual plan, that cost is reduced to $27/mo/screen.
+The Engage plan is $30/mo/screen. With an annual plan, that cost is reduced to $27/mo/screen. This will apply Engage features to every screen in your account.
 
- 
+If you only want a few screens, you can look at our Engage Add\-On, which costs $20/mo/screen on top of your existing plan.
 
 **Only some of my Screens need Engage features. Can I only buy Engage Subscriptions for them?**
 
-Since Engage includes platform\-wide features (QR Scan to Interact, Check\-in \& SMS, analytics data, etc.), it cannot be separately billed by screens. We suggest:
+Yes. We offer Engage as an add\-on for $20/mo, which will let you upgrade a single screen to enable Engage features. Yearly, there is a 10% discount, equaling $216/yr for a single screen.
 
-- If you have fewer than 25 screens that need to be on Engage, you can create a new account and manage only your Engage screens there.
-- If you have more than 25 screens to be on Engage and need to mix\-use them with your regular signage\-only screens, you can [talk to our Sales team.](https://share.hsforms.com/1r9KTTxPFSYijx-DVR6I7nwca5m5)
+There is also a two\-week Free Trial available for this feature.
+
+![engage add-on image](https://support.optisigns.com/hc/article_attachments/54857698527763)
+
+This add\-on is available to Standard and Pro Plus subscribers. Sign up for it through the **Subscription Plan** menu.
+
+You will not see this option if you are already an Engage or Enterprise subscriber.
 
 **Does SMS messaging cost extra?**
 
 500 SMS per Engage screen subscription is included. That is enough for \~300 check\-ins, depending on how your users respond.
 
 Additional SMS are billed at $0\.025 per message
-
- 
 
 **Learn more about Engage features:**
 
