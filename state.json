@@ -112,12 +112,12 @@
     "updated_at": "2026-07-21T14:13:36Z"
   },
   "360025661053": {
-    "hash": "23abee7c6e88a387f86ae4ca88937dad3abf43f934b7ccc7fc052d38c2559cae",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360025661053howcaniremovede-uipfslrfnxht",
+    "hash": "52f33e3b4bc2eb7f79b3d7b71fedc71a78484198c7b98a6b29151d79bac965cb",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360025661053howcaniremovede-ydcxa9bc807v",
     "path": "articles/How-Can-I-Remove-Delete-Uploaded-Files-or-Assets.md",
     "slug": "How-Can-I-Remove-Delete-Uploaded-Files-or-Assets",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets",
-    "updated_at": "2026-06-26T20:54:46Z"
+    "updated_at": "2026-08-31T12:06:14Z"
   },
   "21708242980755": {
     "hash": "549042cc8e4eecf07dd46b5a9aac5479b4e572c91f6778d903bd08e7e0f446e0",
@@ -430,14 +430,6 @@
     "slug": "Kiosk10",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/44652521310099-Kiosk10",
     "updated_at": "2026-05-28T16:41:17Z"
-  },
-  "360016376793": {
-    "hash": "a0d210686e59f4f1389f9a34f6d85ac2098ee63a3697e5f585c9c35ec0478b20",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016376793whathappenifint-le9gmbhk1024",
-    "path": "articles/What-happen-if-internet-connection-is-lost.md",
-    "slug": "What-happen-if-internet-connection-is-lost",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360016376793-What-happen-if-internet-connection-is-lost",
-    "updated_at": "2026-05-26T18:14:07Z"
   },
   "360056086653": {
     "hash": "1c0361cef843e14f335e8164e0584e4f81d632430b58890287328c90ee1b749a",
@@ -798,5 +790,13 @@
     "slug": "Resolve-Autostart-issues-on-your-Android-TV-devices",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/1500009937122-Resolve-Autostart-issues-on-your-Android-TV-devices",
     "updated_at": "2026-08-24T21:20:19Z"
+  },
+  "4472060158355": {
+    "hash": "07036e5c82adf0eef3fa0c1b2b50f3909b524ce4a1bbf14b591cbd30e73155ba",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4472060158355howtogetthelis-wvs9o7ajajoy",
+    "path": "articles/How-to-get-the-list-of-playlists-where-the-asset-is-used.md",
+    "slug": "How-to-get-the-list-of-playlists-where-the-asset-is-used",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4472060158355-How-to-get-the-list-of-playlists-where-the-asset-is-used",
+    "updated_at": "2026-08-31T16:30:59Z"
   }
 }
