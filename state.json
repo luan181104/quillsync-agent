@@ -423,14 +423,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360016247974-How-to-Upload-Manage-Your-Files-Assets",
     "updated_at": "2026-05-28T19:30:59Z"
   },
-  "44652521310099": {
-    "hash": "e82f83dbc099693f00592db20abc9d1c9135014fad250ad376aca2857bda27e1",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/44652521310099kiosk10-cfva3mftr54n",
-    "path": "articles/Kiosk10.md",
-    "slug": "Kiosk10",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/44652521310099-Kiosk10",
-    "updated_at": "2026-05-28T16:41:17Z"
-  },
   "360056086653": {
     "hash": "1c0361cef843e14f335e8164e0584e4f81d632430b58890287328c90ee1b749a",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360056086653howtochangetime-mlpuie1v0hc5",
@@ -798,5 +790,13 @@
     "slug": "How-to-get-the-list-of-playlists-where-the-asset-is-used",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/4472060158355-How-to-get-the-list-of-playlists-where-the-asset-is-used",
     "updated_at": "2026-08-31T16:30:59Z"
+  },
+  "360016375153": {
+    "hash": "cd44d67b8801ad684cb5f47edff64b8080dce9715f7d03a39b0a6ddf830caf0d",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016375153assigncontentto-e4btv5178ufu",
+    "path": "articles/Assign-content-to-your-screens.md",
+    "slug": "Assign-content-to-your-screens",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens",
+    "updated_at": "2026-09-01T22:55:42Z"
   }
 }
