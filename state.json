@@ -200,12 +200,12 @@
     "updated_at": "2026-07-08T15:01:25Z"
   },
   "360047275934": {
-    "hash": "a3c7e7cd1f11998db5b8735f264d6b67e35eeb67c6b155122e1320d1b24f00b6",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360047275934whitelistoptisi-25l2x6c2b1tq",
+    "hash": "6533bf9c22bf4b22ed4851a41c61ed2a47f8c39563fa968d64c44b59f7e1acd0",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360047275934whitelistoptisi-oyum42zl1ve8",
     "path": "articles/Whitelist-OptiSigns-IP-addresses-ports.md",
     "slug": "Whitelist-OptiSigns-IP-addresses-ports",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-    "updated_at": "2026-08-17T15:21:01Z"
+    "updated_at": "2026-09-02T20:00:13Z"
   },
   "52113036672403": {
     "hash": "647c8729430b319c927e2bffc895a3e06c1c11cd42912af18bb6cc1f1555635d",
@@ -391,14 +391,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360056087613-How-to-Clear-Cache-on-Your-Fire-Stick-device",
     "updated_at": "2026-08-22T13:10:02Z"
   },
-  "18986181635859": {
-    "hash": "ae01f828a6bf64f3fa2ea207ce6e8357738bad54e702a9f3ab77148c784c4112",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/18986181635859howtosharecon-mgawt44rzu2g",
-    "path": "articles/How-to-Share-Contents-with-Other-Users-Teams.md",
-    "slug": "How-to-Share-Contents-with-Other-Users-Teams",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/18986181635859-How-to-Share-Contents-with-Other-Users-Teams",
-    "updated_at": "2026-05-29T17:35:48Z"
-  },
   "1500000480302": {
     "hash": "16c0bc3c635a685839962b1ada184d514b93b37b5c20a875664be85904ac69a4",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500000480302advancedcustom-v2fpdw1gotja",
@@ -406,22 +398,6 @@
     "slug": "Advanced-Custom-Domain-Mapping",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/1500000480302-Advanced-Custom-Domain-Mapping",
     "updated_at": "2026-07-14T17:53:32Z"
-  },
-  "17639078588691": {
-    "hash": "2091111a83da402647ec794aac675a7927995fb23866ce4798d93d44c301069e",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/17639078588691howtocancelsu-fjnox83ujvop",
-    "path": "articles/How-to-cancel-subscription-or-pause-subscription-for-Seasonal-Use-Case.md",
-    "slug": "How-to-cancel-subscription-or-pause-subscription-for-Seasonal-Use-Case",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/17639078588691-How-to-cancel-subscription-or-pause-subscription-for-Seasonal-Use-Case",
-    "updated_at": "2026-05-28T20:38:07Z"
-  },
-  "360016247974": {
-    "hash": "b6fb75b5417b7b1151b6a593c9544edd42913f039634a72bc4294687d2df7e7f",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016247974howtouploadmana-ujqw8hb3j9ln",
-    "path": "articles/How-to-Upload-Manage-Your-Files-Assets.md",
-    "slug": "How-to-Upload-Manage-Your-Files-Assets",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360016247974-How-to-Upload-Manage-Your-Files-Assets",
-    "updated_at": "2026-05-28T19:30:59Z"
   },
   "360056086653": {
     "hash": "1c0361cef843e14f335e8164e0584e4f81d632430b58890287328c90ee1b749a",
@@ -798,5 +774,29 @@
     "slug": "Assign-content-to-your-screens",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens",
     "updated_at": "2026-09-01T22:55:42Z"
+  },
+  "30304278652563": {
+    "hash": "a0f4a0a65a8a259f811a83964c56f6bc736fa1e14dc31419a18cfa823ec60cf2",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/30304278652563howtousethemo-g38gfdcz64nq",
+    "path": "articles/How-to-Use-the-Mobile-App-for-Remote-Control.md",
+    "slug": "How-to-Use-the-Mobile-App-for-Remote-Control",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control",
+    "updated_at": "2026-09-02T20:41:23Z"
+  },
+  "360048914673": {
+    "hash": "c95e669b2742b6a272c2eb03f26966cfd072938f945c93987eea01bb4db6a7ac",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360048914673editscreenwhatd-txjily2uztvr",
+    "path": "articles/Edit-Screen-What-does-each-option-do.md",
+    "slug": "Edit-Screen-What-does-each-option-do",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do",
+    "updated_at": "2026-09-02T20:33:01Z"
+  },
+  "12498801963027": {
+    "hash": "0e47f7863a602ee97700913fa2c5d7a3dc0218eedbc9f316d403d8fea1df9ba0",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/12498801963027showofflinein-xmkklpf8yas5",
+    "path": "articles/Show-Offline-Indicator-feature.md",
+    "slug": "Show-Offline-Indicator-feature",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-feature",
+    "updated_at": "2026-09-02T15:47:19Z"
   }
 }
