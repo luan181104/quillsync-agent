@@ -2,7 +2,7 @@
 title: "How to Preview a Screen"
 article_id: 360035739414
 source_url: https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen
-updated_at: 2026-05-17T21:11:45Z
+updated_at: 2026-09-03T10:41:51Z
 ---
 
 # How to Preview a Screen
@@ -17,8 +17,8 @@ Click **Edit**, and the Edit Screen window will pop\-up.
 
 Simply click **Preview.**
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360046667794)
+![Edit Screen dialog with the Preview button highlighted at the bottom left](https://support.optisigns.com/hc/article_attachments/55064628888723)
 
 You can also preview any screens at any time by clicking on the **Preview** button in the list of screens:
 
-![](https://support.optisigns.com/hc/article_attachments/30707779277971)
+![Screens page with the Preview button on a screen row highlighted](https://support.optisigns.com/hc/article_attachments/55064596720531)

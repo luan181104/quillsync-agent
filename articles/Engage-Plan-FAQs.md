@@ -2,7 +2,7 @@
 title: "Engage Plan - FAQs"
 article_id: 23565267463315
 source_url: https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs
-updated_at: 2026-08-27T17:21:45Z
+updated_at: 2026-09-03T14:57:02Z
 ---
 
 # Engage Plan - FAQs
@@ -49,7 +49,7 @@ There is also a two\-week Free Trial available for this feature.
 
 This add\-on is available to Standard and Pro Plus subscribers. Sign up for it through the **Subscription Plan** menu.
 
-You will not see this option if you are already an Engage or Enterprise subscriber.
+You will not see this option if you are already on the Engage plan or above.
 
 **Does SMS messaging cost extra?**
 

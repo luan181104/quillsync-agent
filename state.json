@@ -88,12 +88,12 @@
     "updated_at": "2026-06-29T19:26:02Z"
   },
   "23565267463315": {
-    "hash": "9fa4f52cec3904a56c9bbcb9a6dc6592c9b44b3e00c93e2c1bcaca6e5278e34e",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/23565267463315engageplanfaq-ujimudtz5zj1",
+    "hash": "f177a65cb73223abb9e3abea98c81c80fb42b7828e24d7560ead9f400e6e367d",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/23565267463315engageplanfaq-23m391iee2fg",
     "path": "articles/Engage-Plan-FAQs.md",
     "slug": "Engage-Plan-FAQs",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
-    "updated_at": "2026-08-27T17:21:45Z"
+    "updated_at": "2026-09-03T14:57:02Z"
   },
   "360042143753": {
     "hash": "5fbf25b2f91df49706fea35df61c258ff811f11b2a475791530579231be4ccb1",
@@ -184,12 +184,12 @@
     "updated_at": "2026-06-20T07:00:26Z"
   },
   "360016313754": {
-    "hash": "80500e8af6100992dd9169de59b03291be044ea893ca42bf8c5991c7f59ef618",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016313754howtoinstallana-370mlzolpn63",
+    "hash": "6721fa2854a38751d07ca6926c45aba00ffe2e31a4c7d37d54925c8cdf9e640c",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016313754howtoinstallana-h5mdg7t2855w",
     "path": "articles/How-to-Install-an-APK-file-on-your-Fire-TV.md",
     "slug": "How-to-Install-an-APK-file-on-your-Fire-TV",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-    "updated_at": "2026-08-19T23:02:46Z"
+    "updated_at": "2026-09-03T15:56:32Z"
   },
   "360051014713": {
     "hash": "ba9317b1b1faa43d066f3d9983fe32637c7cb44ad4e5bff198c54599576a11d8",
@@ -200,12 +200,12 @@
     "updated_at": "2026-07-08T15:01:25Z"
   },
   "360047275934": {
-    "hash": "6533bf9c22bf4b22ed4851a41c61ed2a47f8c39563fa968d64c44b59f7e1acd0",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360047275934whitelistoptisi-oyum42zl1ve8",
+    "hash": "0b1ce9cae97e097155c1a98a6d21dfd4de9d41c4b1f1ffadcef6aba65f305a93",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360047275934whitelistoptisi-gsqxhelqwc1k",
     "path": "articles/Whitelist-OptiSigns-IP-addresses-ports.md",
     "slug": "Whitelist-OptiSigns-IP-addresses-ports",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-    "updated_at": "2026-09-02T20:00:13Z"
+    "updated_at": "2026-09-03T14:57:04Z"
   },
   "52113036672403": {
     "hash": "647c8729430b319c927e2bffc895a3e06c1c11cd42912af18bb6cc1f1555635d",
@@ -327,37 +327,13 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360016174554-Amazon-Firestick",
     "updated_at": "2026-08-25T22:35:02Z"
   },
-  "20153471319187": {
-    "hash": "8b25b96616e95172bdf1b53933ba730926c58571179d85500a2ee5c4e2e6f866",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/20153471319187externalstora-7axuntryap9a",
-    "path": "articles/External-Storage-on-OptiSigns-Devices.md",
-    "slug": "External-Storage-on-OptiSigns-Devices",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/20153471319187-External-Storage-on-OptiSigns-Devices",
-    "updated_at": "2026-06-05T16:36:27Z"
-  },
   "9169378546195": {
-    "hash": "d0a86f913bd092e1a9b07a552e8600196d2edb453bd8c0735377e8f7c2597a89",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/9169378546195dataresidencya-f8zslfg98rp0",
+    "hash": "6ea117a3c239d09dc78719acbebbec17f45162d695e2863e5d5854b70c110dd9",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/9169378546195dataresidencya-b7gdxatswaj9",
     "path": "articles/Data-Residency-and-OptiSigns.md",
     "slug": "Data-Residency-and-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns",
-    "updated_at": "2026-06-05T14:25:01Z"
-  },
-  "28295074995859": {
-    "hash": "098af008e48e6a564d90f3312614eb3af5a6ebc2ddfa88b0feeed037ea1df7b0",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28295074995859howtomanagean-90k49cqxl0mn",
-    "path": "articles/How-to-Manage-and-Edit-Your-Playlist-Settings.md",
-    "slug": "How-to-Manage-and-Edit-Your-Playlist-Settings",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
-    "updated_at": "2026-06-04T22:14:32Z"
-  },
-  "42436941395475": {
-    "hash": "dc94cae6ff8df65db4dfc176f30573e033dcd5eb0da4774afd7fe3c057c77481",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/42436941395475widgetsindesi-6pp7f9goho74",
-    "path": "articles/Widgets-in-Designer.md",
-    "slug": "Widgets-in-Designer",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/42436941395475-Widgets-in-Designer",
-    "updated_at": "2026-06-03T15:53:35Z"
+    "updated_at": "2026-09-03T14:57:01Z"
   },
   "28598173096723": {
     "hash": "d9648dd2558b6d0486b4154ace2853c0aa1718212d7d8b222bdb9bdd2e1f547f",
@@ -552,12 +528,12 @@
     "updated_at": "2026-07-19T13:16:43Z"
   },
   "360053993934": {
-    "hash": "6a3cb3be3f7a3ce00352384e84b1e1bddace3e99423274a0769ca57fb8dc68e6",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360053993934howtousekioskli-oqgnw4k6ae6v",
+    "hash": "9968e9c98743af7f120f87f4ef8dbf23bb882338bb15c13a9f4f08732902eb2f",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360053993934howtousekioskli-ejh094ivwi9w",
     "path": "articles/How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app.md",
     "slug": "How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360053993934-How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app",
-    "updated_at": "2026-07-21T05:24:44Z"
+    "updated_at": "2026-09-03T14:57:05Z"
   },
   "360055546594": {
     "hash": "3a6a3c9970fc5fc168c481dc21d3b0c27a5d5c65dc57858abd45df82aaf99efc",
@@ -798,5 +774,29 @@
     "slug": "Show-Offline-Indicator-feature",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-feature",
     "updated_at": "2026-09-02T15:47:19Z"
+  },
+  "29465595849235": {
+    "hash": "5f37baeb55103e5153c97e199390e4dbf5aad876c544341f0c57f0ac47af2d7a",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/29465595849235listofsupport-23v1fbjy2k1c",
+    "path": "articles/List-of-Supported-Cities-for-Weather-Wall-City-Themes.md",
+    "slug": "List-of-Supported-Cities-for-Weather-Wall-City-Themes",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes",
+    "updated_at": "2026-09-03T16:49:43Z"
+  },
+  "33940834613139": {
+    "hash": "09deccdfdef5b970aefebabf9b4575fbee44bb817233df408f48d9eb7b764a16",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/33940834613139whatdoigetwit-pngadfa7oe6h",
+    "path": "articles/What-Do-I-Get-With-an-OptiSigns-Free-Plan.md",
+    "slug": "What-Do-I-Get-With-an-OptiSigns-Free-Plan",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
+    "updated_at": "2026-09-03T14:57:58Z"
+  },
+  "360035739414": {
+    "hash": "b2a2fddcde8937d14e4dccab348374c7291d6ed7040f17d1ab4cd3d7801a73ed",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360035739414howtopreviewasc-4xpsgaypmo6l",
+    "path": "articles/How-to-Preview-a-Screen.md",
+    "slug": "How-to-Preview-a-Screen",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen",
+    "updated_at": "2026-09-03T10:41:51Z"
   }
 }

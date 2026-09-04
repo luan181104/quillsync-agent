@@ -2,7 +2,7 @@
 title: "List of Supported Cities for Weather Wall City Themes"
 article_id: 29465595849235
 source_url: https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes
-updated_at: 2026-04-08T13:41:37Z
+updated_at: 2026-09-03T16:49:43Z
 ---
 
 # List of Supported Cities for Weather Wall City Themes

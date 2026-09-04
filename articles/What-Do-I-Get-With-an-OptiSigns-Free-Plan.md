@@ -2,7 +2,7 @@
 title: "What Do I Get With an OptiSigns Free Plan?"
 article_id: 33940834613139
 source_url: https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan
-updated_at: 2026-03-27T20:38:29Z
+updated_at: 2026-09-03T14:57:58Z
 ---
 
 # What Do I Get With an OptiSigns Free Plan?
@@ -46,6 +46,8 @@ Free plan is good for users with basic digital signage needs. With a Free Plan, 
 
 ## Free Plan Supported Devices
 
+The Free Plan is **ONLY** supported on these devices:
+
 - OptiSigns Android Player
 - OptiSigns Pro or ProMax Player
 - Windows Devices
@@ -55,12 +57,14 @@ Free plan is good for users with basic digital signage needs. With a Free Plan, 
 
 The OptiSigns Free Plan **IS NOT SUPPORTED ON:**
 
-- FireTV / FireStick
+- Amazon Devices (FireStick, Amazon Signage Stick, FireTV)
 - Roku
 - Smart TVs (Samsung, LG, etc.)
 - ChromeOS
 - AppleTV / iOS / iPad
 - BrightSign players
+
+This list of not supported devices may not be exhaustive. If it is not explicitly stated in the supported devices above, you can safely assume your device is not supported.
 
 See [where to buy OptiSigns devices](https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices) for more information.
 

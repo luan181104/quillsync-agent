@@ -2,7 +2,7 @@
 title: "How to use Kiosk Lite (formerly known as Interactive Kiosk app)"
 article_id: 360053993934
 source_url: https://support.optisigns.com/hc/en-us/articles/360053993934-How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app
-updated_at: 2026-07-21T05:24:44Z
+updated_at: 2026-09-03T14:57:05Z
 ---
 
 # How to use Kiosk Lite (formerly known as Interactive Kiosk app)
@@ -13,7 +13,7 @@ Kiosk Lite app, also formerly known as the Interactive Kiosk app, allows you to 
 
 This is useful for the kiosk use case, where a standard advertising, or promotion playlist can be played, and when the customer touches the screen, they can interact with a website to enter their information, or browse catalogs, etc.
 
-This feature is supported on iOS, Androids, Windows, Linux, MacOS, Raspberry Pi, ChromeOS, and BrightSigns devices. In addition, the Kiosk Lite app is only available through our Engage and Enterprise plans.
+This feature is supported on iOS, Androids, Windows, Linux, MacOS, Raspberry Pi, ChromeOS, and BrightSigns devices. In addition, the Kiosk Lite app is only available on the Engage plan or above.
 
  
 
