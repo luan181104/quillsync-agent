@@ -2,7 +2,7 @@
 title: "About the OnHold Devices Folder"
 article_id: 1500003244381
 source_url: https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder
-updated_at: 2026-08-11T22:01:43Z
+updated_at: 2026-09-04T16:45:10Z
 ---
 
 # About the OnHold Devices Folder
@@ -18,15 +18,17 @@ Article URL: https://support.optisigns.com/hc/en-us/articles/1500003244381-About
 
 When poking around the Screens tab in OptiSigns, you may have noticed the **OnHold Devices** folder.
 
-![optisigns web portal onhold devices folder](https://support.optisigns.com/hc/article_attachments/38487094095251)
+![Screens page showing the OnHold Devices folder alongside a screen](https://support.optisigns.com/hc/article_attachments/55114753823763)
 
 This useful folder allows you to place screens to the side, where they will no longer count toward your license count.
 
 To do this, click the **Three Dots** icon, then hit the **“Move to OnHold Devices”** option.
 
-![move to onhold devices option](https://support.optisigns.com/hc/article_attachments/38487094098323)
+![Screen row menu with Move To OnHold Devices highlighted](https://support.optisigns.com/hc/article_attachments/55114753826707)
 
-**NOTE:** This feature can be used by any OptiSigns user, from **Free Plan** and above.
+| **NOTE** |
+| --- |
+| Moving a screen to OnHold requires a Team Administrator role (Owner, Super Admin, or Admin). The feature is available to **Free Plan subscribers and above**. |
 
 ---
 
@@ -34,39 +36,39 @@ To do this, click the **Three Dots** icon, then hit the **“Move to OnHold Devi
 
 To show the value of the OnHold Folder, a demonstration is in order. The easiest way to see how it works is to go to the **Subscription Plan** screen, through your account options:
 
-![subscription plan web portal](https://support.optisigns.com/hc/article_attachments/38487052567187)
+![Account menu with Subscription Plan highlighted](https://support.optisigns.com/hc/article_attachments/55114753828755)
 
 When here, you’ll see a screen similar to this:
 
-![screens vs screen licenses](https://support.optisigns.com/hc/article_attachments/38487094100371)
+![Subscription Plan showing 1 of 50 screen licences in use](https://support.optisigns.com/hc/article_attachments/55114739508115)
 
-This means that this account has 10 screen licenses, and is currently using a single screen.
+This means that this account has 50 screen licenses, and is currently using a single screen.
 
-Now, we’ll navigate back to the screen tab. Click any screen and hit the **“Move to OnHold Folder”** option. You’ll be given this prompt:
+Now, we’ll navigate back to the screen tab. Click any screen and hit the **“Move to OnHold Devices”** option. You’ll be given this prompt:
 
-![onhold devices confirmation screen](https://support.optisigns.com/hc/article_attachments/38487094101395)
+![Move to OnHold Devices confirmation dialog, Move to OnHold button highlighted](https://support.optisigns.com/hc/article_attachments/55114753831699)
 
-Crucially, ***any content displaying on this screen will cease***. For all intents and purposes, hitting **Move** here will deactivate this screen completely. Pushing content to this screen will show this:
+Crucially, ***any content displaying on this screen will cease***. For all intents and purposes, hitting **Move to OnHold** and clicking throughhere will deactivate this screen completely. Pushing content to this screen will show this:
 
-![onhold optisigns player](https://support.optisigns.com/hc/article_attachments/38487052574483)
+![Player screen reading Your Device is On Hold, with the portal's OnHold Devices folder inset](https://support.optisigns.com/hc/article_attachments/55114753833235)
 
-If you are alright with the above, hitting **Move** will place it in the Folder. It will disappear from the Screens tab, and you’ll see the number next to the OnHold Devices folder go up, signifying that the screen is in this folder now.
+If you are alright with the above, hitting **Move to OnHold** will place it in the Folder. It will disappear from the Screens tab, and you’ll see the number next to the OnHold Devices folder go up, signifying that the screen is in this folder now.
 
-![onhold folder number](https://support.optisigns.com/hc/article_attachments/38487052580499)
+![Screens page showing the OnHold Devices folder holding one screen](https://support.optisigns.com/hc/article_attachments/55114739510803)
 
 Clicking the OnHold Devices folder will let you see the screen again.
 
-![screens present in onhold folder](https://support.optisigns.com/hc/article_attachments/38487094106515)
+![OnHold Devices folder listing Screen 1 with an On Hold badge](https://support.optisigns.com/hc/article_attachments/55114753835795)
 
-Hitting **Edit** on any screen in the OnHold Devices folder will display a much shorter list of options until it is removed from the folder.
+The Three\-Dot menu here only lets you View Device Info, Move, Favorite, or Remove within the OnHold folder.
 
-![onhold folder edit screen](https://support.optisigns.com/hc/article_attachments/38487094109331)
+![An on-hold screen row showing only the three-dot menu, no Preview or Edit](https://support.optisigns.com/hc/article_attachments/55114753837587)
 
 Now, to see the effects of moving a screen to the OnHold folder, navigate back to the **Subscription Plan** screen. Your active screen count will have decreased by one:
 
-![screens vs screen licenses after onhold folder](https://support.optisigns.com/hc/article_attachments/38487052589587)
+![Subscription Plan showing 0 of 50 screen licences in use after the move](https://support.optisigns.com/hc/article_attachments/55114753838483)
 
-Note that this ***does not affect total license count****.* All this does is free up a license for a different screen while not deleting your screen’s settings. This lets your account have more screens registered than licenses, in case you need to swap them around.
+Note that this ***does not affect total license count**.* All this does is free up a license for a different screen while not deleting your screen’s settings. This lets your account have more screens registered than licenses, in case you need to swap them around.
 
 ---
 
@@ -76,19 +78,19 @@ Before you can remove a screen from the OnHold Devices folder, you’ll need a f
 
 The actual process of removing a screen from the folder is straightforward. First, navigate to the OnHold Devices folder:
 
-![onhold devices folder screen](https://support.optisigns.com/hc/article_attachments/38487052592659)
+![OnHold Devices folder open, showing the screen it holds](https://support.optisigns.com/hc/article_attachments/55114753839251)
 
 Click the **Three Dots** icon, then click **Move**:
 
-![move out of the onhold folder options](https://support.optisigns.com/hc/article_attachments/38487052599059)
+![Row menu inside the OnHold Devices folder with Move highlighted](https://support.optisigns.com/hc/article_attachments/55114739516947)
 
-A screen will show up displaying all your created Screen folders. By default, hitting **Move** without clicking one of these folders will move it to the Screens tab homepage. Either select a folder to use, or simply hit Move:
+A screen will show up displaying all your created Screen folders. By default, hitting **Move to "Home"** without clicking one of these folders will move it to the Screens tab homepage. Either select a folder to use, or simply hit Move to "Home":
 
-![move screen out of onhold folder](https://support.optisigns.com/hc/article_attachments/38487052600851)
+![Move dialog with the Move to Home button highlighted](https://support.optisigns.com/hc/article_attachments/55114739520403)
 
 Now, you should see a notification letting you know the move was successful, and the screen should no longer be present in your OnHold Devices folder:
 
-![move successful notification](https://support.optisigns.com/hc/article_attachments/38487052602899)
+![Moved successfully confirmation message](https://support.optisigns.com/hc/article_attachments/55114739523859)
 
 **NOTE:** If you do not have any free licenses, this notification will not appear, and you will not be able to remove your screen from the folder until you free up a license or purchase more.
 
@@ -102,7 +104,7 @@ Here, we’ll address some common issues our users face when dealing with the On
 
 ### My screen is saying my device is OnHold, how do I fix this?
 
-![](https://support.optisigns.com/hc/article_attachments/38487052574483)
+![Player screen reading Your Device is On Hold, with the portal's OnHold Devices folder inset](https://support.optisigns.com/hc/article_attachments/55114753833235)
 
 If your screen says your device is OnHold, that means the device is in the OnHold folder. Simply remove it from the folder using the steps above and that should fix the issue.
 

@@ -2,7 +2,7 @@
 title: "How Can I Remove/Delete Uploaded Files or Assets?"
 article_id: 360025661053
 source_url: https://support.optisigns.com/hc/en-us/articles/360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets
-updated_at: 2026-08-31T12:06:14Z
+updated_at: 2026-09-04T11:07:56Z
 ---
 
 # How Can I Remove/Delete Uploaded Files or Assets?

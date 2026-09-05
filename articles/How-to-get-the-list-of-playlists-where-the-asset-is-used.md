@@ -2,7 +2,7 @@
 title: "How to get the list of playlists where the asset is used"
 article_id: 4472060158355
 source_url: https://support.optisigns.com/hc/en-us/articles/4472060158355-How-to-get-the-list-of-playlists-where-the-asset-is-used
-updated_at: 2026-08-31T16:30:59Z
+updated_at: 2026-09-04T11:19:07Z
 ---
 
 # How to get the list of playlists where the asset is used

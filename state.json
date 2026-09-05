@@ -112,12 +112,12 @@
     "updated_at": "2026-07-21T14:13:36Z"
   },
   "360025661053": {
-    "hash": "52f33e3b4bc2eb7f79b3d7b71fedc71a78484198c7b98a6b29151d79bac965cb",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360025661053howcaniremovede-ydcxa9bc807v",
+    "hash": "13a2f15c3947e9c91f2b49026dec166d0f792ce01532482241621c8940f3f152",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360025661053howcaniremovede-zzeewbl2aplt",
     "path": "articles/How-Can-I-Remove-Delete-Uploaded-Files-or-Assets.md",
     "slug": "How-Can-I-Remove-Delete-Uploaded-Files-or-Assets",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets",
-    "updated_at": "2026-08-31T12:06:14Z"
+    "updated_at": "2026-09-04T11:07:56Z"
   },
   "21708242980755": {
     "hash": "549042cc8e4eecf07dd46b5a9aac5479b4e572c91f6778d903bd08e7e0f446e0",
@@ -192,12 +192,12 @@
     "updated_at": "2026-09-03T15:56:32Z"
   },
   "360051014713": {
-    "hash": "ba9317b1b1faa43d066f3d9983fe32637c7cb44ad4e5bff198c54599576a11d8",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360051014713howtouseyoutube-hssskskdatof",
-    "path": "articles/How-to-use-YouTube-with-OptiSigns.md",
-    "slug": "How-to-use-YouTube-with-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns",
-    "updated_at": "2026-07-08T15:01:25Z"
+    "hash": "01adac66bae4016ceee642980b86b8df36705ad3e23baa2ae99d49974bda9455",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360051014713howtouseyoutube-0olqibbc8b50",
+    "path": "articles/How-to-Use-YouTube-with-OptiSigns.md",
+    "slug": "How-to-Use-YouTube-with-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
+    "updated_at": "2026-09-04T20:47:35Z"
   },
   "360047275934": {
     "hash": "0b1ce9cae97e097155c1a98a6d21dfd4de9d41c4b1f1ffadcef6aba65f305a93",
@@ -286,38 +286,6 @@
     "slug": "How-to-Use-the-OptiSigns-Mobile-Admin-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App",
     "updated_at": "2026-06-11T11:49:35Z"
-  },
-  "11116333259283": {
-    "hash": "941b4255e2857342215a2872132672539b0879f1f13c00b51b3a541918242d90",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/11116333259283settingupyour-m0fy950leaxm",
-    "path": "articles/Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade.md",
-    "slug": "Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade",
-    "updated_at": "2026-06-10T11:03:57Z"
-  },
-  "360025626853": {
-    "hash": "53489a2b991b6103e9474aea66a24abd765d855b42f7fbc6122ff89037384cf7",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360025626853howtostartoptis-0v3qj4qxozzd",
-    "path": "articles/How-to-start-OptiSigns-automatically-when-devices-boot-up.md",
-    "slug": "How-to-start-OptiSigns-automatically-when-devices-boot-up",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360025626853-How-to-start-OptiSigns-automatically-when-devices-boot-up",
-    "updated_at": "2026-06-08T18:26:02Z"
-  },
-  "25607930101907": {
-    "hash": "8577d15a9ca5f4cb20dba51cb2879bf496c87c30756088276ba63d3c10305d5c",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/25607930101907howtogetthemo-8bfakw9wnr3s",
-    "path": "articles/How-to-get-the-most-out-of-your-Digital-Signs.md",
-    "slug": "How-to-get-the-most-out-of-your-Digital-Signs",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/25607930101907-How-to-get-the-most-out-of-your-Digital-Signs",
-    "updated_at": "2026-06-08T15:18:50Z"
-  },
-  "4404590815635": {
-    "hash": "f50b192be6188351f9d1daf7654c79239da4969e12b83a7361ac80cd882d05d0",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4404590815635howtosetupsaml-0wt9xbivkcka",
-    "path": "articles/How-to-set-up-SAML-2-0-with-OptiSigns-and-Okta.md",
-    "slug": "How-to-set-up-SAML-2-0-with-OptiSigns-and-Okta",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/4404590815635-How-to-set-up-SAML-2-0-with-OptiSigns-and-Okta",
-    "updated_at": "2026-06-08T15:02:21Z"
   },
   "360016174554": {
     "hash": "8098a08f974e132263472519bb72c77f2c12693cf46d51601d8fa9607ee4a7f7",
@@ -512,12 +480,12 @@
     "updated_at": "2026-07-18T01:28:41Z"
   },
   "33382537925267": {
-    "hash": "46bd79879f943cc7cbe4cd01fd3e6bcf174f9ad1ae2eea2307a35a8bab79c8a2",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/33382537925267makingavideow-wm8p8s2qkkur",
+    "hash": "2055706778bd23874d1d41ade52dd5747d0b7ff0a46aaf7cec200c8b86f5269c",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/33382537925267makingavideow-q8apzwwb1lcb",
     "path": "articles/Making-a-Video-Wall-with-OptiSigns-Video-Wall-App.md",
     "slug": "Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
-    "updated_at": "2026-07-17T16:59:32Z"
+    "updated_at": "2026-09-04T16:24:39Z"
   },
   "360016380053": {
     "hash": "1245bf000f9ac16a387f89669242df83da2b1fbb079778e063fae95019bcbb9d",
@@ -616,12 +584,12 @@
     "updated_at": "2026-08-12T01:53:55Z"
   },
   "1500003244381": {
-    "hash": "95ca9a72cc1947ba6cc31de27029bfa5605bb4ecc83a62d952a61450686274ed",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500003244381abouttheonhold-5n4esmqfcc84",
+    "hash": "66374f4e0d8d1238414db33068c9885a25b96654e222751f54028d6ef47f0252",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500003244381abouttheonhold-9j3on5ws2gc6",
     "path": "articles/About-the-OnHold-Devices-Folder.md",
     "slug": "About-the-OnHold-Devices-Folder",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder",
-    "updated_at": "2026-08-11T22:01:43Z"
+    "updated_at": "2026-09-04T16:45:10Z"
   },
   "42526907045651": {
     "hash": "b1d62141b8887fa2e8467ee4a06b174a501efdfed96717f1b4ecb5c37a60b6ce",
@@ -736,12 +704,12 @@
     "updated_at": "2026-08-24T21:20:19Z"
   },
   "4472060158355": {
-    "hash": "07036e5c82adf0eef3fa0c1b2b50f3909b524ce4a1bbf14b591cbd30e73155ba",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4472060158355howtogetthelis-wvs9o7ajajoy",
+    "hash": "91136ef8eba7243326010b60b5d70104b7c604acb4611aae28c8fd5e2630524b",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4472060158355howtogetthelis-sdrcatebd9j2",
     "path": "articles/How-to-get-the-list-of-playlists-where-the-asset-is-used.md",
     "slug": "How-to-get-the-list-of-playlists-where-the-asset-is-used",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/4472060158355-How-to-get-the-list-of-playlists-where-the-asset-is-used",
-    "updated_at": "2026-08-31T16:30:59Z"
+    "updated_at": "2026-09-04T11:19:07Z"
   },
   "360016375153": {
     "hash": "cd44d67b8801ad684cb5f47edff64b8080dce9715f7d03a39b0a6ddf830caf0d",
@@ -798,5 +766,37 @@
     "slug": "How-to-Preview-a-Screen",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen",
     "updated_at": "2026-09-03T10:41:51Z"
+  },
+  "1500006130902": {
+    "hash": "ddbc86eb9cdaf0179959868857ef1fb0c477e3e0ed294b29a56aa86d4661fd26",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500006130902howtousetheliv-povy7z17ce98",
+    "path": "articles/How-to-Use-the-Live-TV-with-Ads-App.md",
+    "slug": "How-to-Use-the-Live-TV-with-Ads-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/1500006130902-How-to-Use-the-Live-TV-with-Ads-App",
+    "updated_at": "2026-09-04T18:30:12Z"
+  },
+  "38680194603155": {
+    "hash": "400122f7883977cc6637d6e155ebe01ac0679ef1f2b4319c723eec3e29769f8f",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/38680194603155promax-uu97vqk4ocu0",
+    "path": "articles/ProMax.md",
+    "slug": "ProMax",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/38680194603155-ProMax",
+    "updated_at": "2026-09-04T16:55:12Z"
+  },
+  "32272215514131": {
+    "hash": "06613d284a7849fa00903dc8bc80f91b02e5095464c5f68ee68fb3bae64b475e",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/32272215514131proplayer-58zq36meyb14",
+    "path": "articles/ProPlayer.md",
+    "slug": "ProPlayer",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/32272215514131-ProPlayer",
+    "updated_at": "2026-09-04T16:24:05Z"
+  },
+  "20425113117459": {
+    "hash": "bac3d3557b5cdd13e62841439148fc799efcca8c6ebe62fd761394e859947c25",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/20425113117459navigatingthr-4i0tgvuk2h83",
+    "path": "articles/Navigating-Through-OptiSigns-Template-Library.md",
+    "slug": "Navigating-Through-OptiSigns-Template-Library",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/20425113117459-Navigating-Through-OptiSigns-Template-Library",
+    "updated_at": "2026-09-04T09:52:58Z"
   }
 }

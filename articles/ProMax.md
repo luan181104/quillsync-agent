@@ -2,7 +2,7 @@
 title: "ProMax"
 article_id: 38680194603155
 source_url: https://support.optisigns.com/hc/en-us/articles/38680194603155-ProMax
-updated_at: 2026-03-30T17:22:38Z
+updated_at: 2026-09-04T16:55:12Z
 ---
 
 # ProMax
@@ -52,7 +52,7 @@ This device is pre\-configured for easy setup, allowing you to manage content re
 
 ### How to Order the OptiSigns ProMax Digital Signage Player:
 
-- Buy directly from the OptiSigns [Website](https://shop.optisigns.com/products/optisigns-promax-signage-player) \- $699\.00 USD
+- Buy directly from the OptiSigns [Website](https://shop.optisigns.com/products/optisigns-promax-signage-player)
 	- Shipping time \- 3\-5 days to most locations in the US
 
 ---
