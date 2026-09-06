@@ -2,7 +2,7 @@
 title: "How to Contact OptiSigns Support"
 article_id: 35626165056787
 source_url: https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support
-updated_at: 2026-07-28T18:51:24Z
+updated_at: 2026-09-05T16:01:39Z
 ---
 
 # How to Contact OptiSigns Support

@@ -2,7 +2,7 @@
 title: "How to Perform Mass Provisioning with OptiSigns"
 article_id: 4416542923667
 source_url: https://support.optisigns.com/hc/en-us/articles/4416542923667-How-to-Perform-Mass-Provisioning-with-OptiSigns
-updated_at: 2026-07-23T09:04:57Z
+updated_at: 2026-09-05T10:20:27Z
 ---
 
 # How to Perform Mass Provisioning with OptiSigns
