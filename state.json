@@ -279,14 +279,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV",
     "updated_at": "2026-06-11T17:13:11Z"
   },
-  "30003143806099": {
-    "hash": "305206225d734c9259e244684843585a047c12743f6f2c6aa57e5ae8e77b39bd",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/30003143806099howtousetheop-gnjzbb1i9vms",
-    "path": "articles/How-to-Use-the-OptiSigns-Mobile-Admin-App.md",
-    "slug": "How-to-Use-the-OptiSigns-Mobile-Admin-App",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App",
-    "updated_at": "2026-06-11T11:49:35Z"
-  },
   "360016174554": {
     "hash": "8098a08f974e132263472519bb72c77f2c12693cf46d51601d8fa9607ee4a7f7",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016174554amazonfirestick-8sj5tkyoqxv7",
@@ -798,5 +790,13 @@
     "slug": "Navigating-Through-OptiSigns-Template-Library",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/20425113117459-Navigating-Through-OptiSigns-Template-Library",
     "updated_at": "2026-09-04T09:52:58Z"
+  },
+  "31860170199955": {
+    "hash": "937e23a2efd77d8feeb8dd31b2c70829f73997bbd3eb7a9c1a9f313f132f0e7b",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/31860170199955integratingpo-tnq49g6l51w0",
+    "path": "articles/Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync.md",
+    "slug": "Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync",
+    "updated_at": "2026-09-07T01:18:36Z"
   }
 }
