@@ -2,7 +2,7 @@
 title: "How to Preview a Screen"
 article_id: 360035739414
 source_url: https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen
-updated_at: 2026-09-03T10:41:51Z
+updated_at: 2026-09-07T08:20:47Z
 ---
 
 # How to Preview a Screen

@@ -2,7 +2,7 @@
 title: "Show Offline Indicator feature"
 article_id: 12498801963027
 source_url: https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-feature
-updated_at: 2026-09-02T15:47:19Z
+updated_at: 2026-09-07T11:26:19Z
 ---
 
 # Show Offline Indicator feature

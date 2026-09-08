@@ -2,7 +2,7 @@
 title: "How to Change Account Owners"
 article_id: 4404616314515
 source_url: https://support.optisigns.com/hc/en-us/articles/4404616314515-How-to-Change-Account-Owners
-updated_at: 2026-05-05T16:36:22Z
+updated_at: 2026-09-07T10:13:21Z
 ---
 
 # How to Change Account Owners
@@ -17,15 +17,15 @@ You can change owner to another user/admin in OptiSigns by:
 - Go to the [Account Member](https://app.optisigns.com/app/s/account-members) page:
 - Click the **Change Role** icon on the user or admin that you want to change to Owner.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4404609090451)
+![Account Members page with the Change Role pencil icon highlighted on a member row](https://support.optisigns.com/hc/article_attachments/55177275156627)
 
 - Modify the Change role to the "**Owner**" role, and update it.
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4404609100051)
+![Change Role dialog with Change role to set to Owner, and the Update button](https://support.optisigns.com/hc/article_attachments/55177302707987)
 
 - It will pop out a warning message. If you confirm it, please type "**CONTINUE**" and click OK to continue.
 
-### **mceclip2.png**
+### **Change Owner Account dialog asking you to type CONTINUE, with Cancel and OK buttons**
 
 **Note**:
 

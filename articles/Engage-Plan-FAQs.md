@@ -2,7 +2,7 @@
 title: "Engage Plan - FAQs"
 article_id: 23565267463315
 source_url: https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs
-updated_at: 2026-09-03T14:57:02Z
+updated_at: 2026-09-08T04:06:22Z
 ---
 
 # Engage Plan - FAQs
@@ -29,7 +29,7 @@ Yes, you try Engage out at no cost for one screen.
 
 Just log in or sign up for a trial if you don't have an account yet, and go to the Engage page in your dashboard.
 
-![](https://support.optisigns.com/hc/article_attachments/23565291422483)
+![OptiSigns portal top navigation with the Engage tab highlighted](https://support.optisigns.com/hc/article_attachments/55197710151827)
 
 This screen is the only one that will ever have Engage enabled, and it is a one\-time assignment. If you remove the Engage feature from that screen, you will not be able to add it to another.
 

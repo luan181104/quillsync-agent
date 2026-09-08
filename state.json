@@ -88,12 +88,12 @@
     "updated_at": "2026-06-29T19:26:02Z"
   },
   "23565267463315": {
-    "hash": "f177a65cb73223abb9e3abea98c81c80fb42b7828e24d7560ead9f400e6e367d",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/23565267463315engageplanfaq-23m391iee2fg",
+    "hash": "9b321a0fb1e1e7e312fe9e4e3346c0bd55e72ce282fbe4979d9948343a5a7c23",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/23565267463315engageplanfaq-0r2bhogqhdkg",
     "path": "articles/Engage-Plan-FAQs.md",
     "slug": "Engage-Plan-FAQs",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
-    "updated_at": "2026-09-03T14:57:02Z"
+    "updated_at": "2026-09-08T04:06:22Z"
   },
   "360042143753": {
     "hash": "5fbf25b2f91df49706fea35df61c258ff811f11b2a475791530579231be4ccb1",
@@ -239,14 +239,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360052088413-How-to-Use-the-Data-Studio-App",
     "updated_at": "2026-06-12T19:57:31Z"
   },
-  "52523606879251": {
-    "hash": "ce295de7657375a86d04a4784f3937c81042866fcf6b96b5f992f5863485ac77",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/52523606879251optisignsdigi-8v6ffzu548iq",
-    "path": "articles/OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App.md",
-    "slug": "OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App",
-    "updated_at": "2026-06-11T22:24:43Z"
-  },
   "52069065128723": {
     "hash": "bb24e02abd7881280054103fafb05bf165901dbc54c3b8f21da4d08495bd0037",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/52069065128723connectzoomro-1myabtz3moc6",
@@ -255,14 +247,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage",
     "updated_at": "2026-07-17T22:17:54Z"
   },
-  "360055549854": {
-    "hash": "ddbfe6658eaa8c090452165c2690b517e849ed6d0ba6347fa8fd7721b63f9724",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360055549854preconfigurewif-jpj1phsfdjis",
-    "path": "articles/Pre-configure-Wi-Fi-with-OptiSigns-devices.md",
-    "slug": "Pre-configure-Wi-Fi-with-OptiSigns-devices",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360055549854-Pre-configure-Wi-Fi-with-OptiSigns-devices",
-    "updated_at": "2026-06-11T17:53:34Z"
-  },
   "31960461758611": {
     "hash": "2f7682f4470950cd052bc0acb9e451509056ad29776ba8c7530083d505c6f04d",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/31960461758611howtoorderapr-aewk1mfedfua",
@@ -270,14 +254,6 @@
     "slug": "How-to-Order-a-Preconfigured-OptiSigns-Android-Stick",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Stick",
     "updated_at": "2026-08-25T21:52:40Z"
-  },
-  "15268811715347": {
-    "hash": "7b01affe6031be8f99d48ca064b5794eac74de1e7ca890ac8ae423fa5d572bd6",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/15268811715347cannotfindthe-7o0wv40wd0se",
-    "path": "articles/Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV.md",
-    "slug": "Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV",
-    "updated_at": "2026-06-11T17:13:11Z"
   },
   "360016174554": {
     "hash": "8098a08f974e132263472519bb72c77f2c12693cf46d51601d8fa9607ee4a7f7",
@@ -560,12 +536,12 @@
     "updated_at": "2026-08-05T18:22:19Z"
   },
   "4404608957075": {
-    "hash": "505321f7791e0540fee9de02bed44ecdc3e9e7e8495301ee9eb8928edea06006",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4404608957075howtodeleteyou-svl080j4tyx0",
+    "hash": "a9b3406069eec576b8d2a456c2bbe8af93b54192c5c78f95519d4cc4eb4239c2",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4404608957075howtodeleteyou-dt1p6hq6w03r",
     "path": "articles/How-to-Delete-Your-Account-from-OptiSigns.md",
     "slug": "How-to-Delete-Your-Account-from-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
-    "updated_at": "2026-08-27T15:33:20Z"
+    "updated_at": "2026-09-07T08:42:16Z"
   },
   "360039566974": {
     "hash": "f80daf3ba023c8157d39ade9b1f761cd18b7e74ae460a69be0ee67557c65b530",
@@ -576,12 +552,12 @@
     "updated_at": "2026-08-12T01:53:55Z"
   },
   "1500003244381": {
-    "hash": "66374f4e0d8d1238414db33068c9885a25b96654e222751f54028d6ef47f0252",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500003244381abouttheonhold-9j3on5ws2gc6",
+    "hash": "65a20ca41f0a249c95b3d04da0b9a1075120c20f6482c08a998b653b3a360831",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500003244381abouttheonhold-n3yoaapii1ib",
     "path": "articles/About-the-OnHold-Devices-Folder.md",
     "slug": "About-the-OnHold-Devices-Folder",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder",
-    "updated_at": "2026-09-04T16:45:10Z"
+    "updated_at": "2026-09-07T11:26:40Z"
   },
   "42526907045651": {
     "hash": "b1d62141b8887fa2e8467ee4a06b174a501efdfed96717f1b4ecb5c37a60b6ce",
@@ -728,12 +704,12 @@
     "updated_at": "2026-09-02T20:33:01Z"
   },
   "12498801963027": {
-    "hash": "0e47f7863a602ee97700913fa2c5d7a3dc0218eedbc9f316d403d8fea1df9ba0",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/12498801963027showofflinein-xmkklpf8yas5",
+    "hash": "4907e6cb9034bcaa74dfdb97cbcb6da62ed8632f55463a607e0c199b500f7e47",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/12498801963027showofflinein-g3w9kyfnuimk",
     "path": "articles/Show-Offline-Indicator-feature.md",
     "slug": "Show-Offline-Indicator-feature",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-feature",
-    "updated_at": "2026-09-02T15:47:19Z"
+    "updated_at": "2026-09-07T11:26:19Z"
   },
   "29465595849235": {
     "hash": "5f37baeb55103e5153c97e199390e4dbf5aad876c544341f0c57f0ac47af2d7a",
@@ -744,28 +720,28 @@
     "updated_at": "2026-09-03T16:49:43Z"
   },
   "33940834613139": {
-    "hash": "09deccdfdef5b970aefebabf9b4575fbee44bb817233df408f48d9eb7b764a16",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/33940834613139whatdoigetwit-pngadfa7oe6h",
+    "hash": "f429d3e23ee8ed0084fbe1daced47f586f861a37fb9905976a39c96474877edf",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/33940834613139whatdoigetwit-ur059hem9s1h",
     "path": "articles/What-Do-I-Get-With-an-OptiSigns-Free-Plan.md",
     "slug": "What-Do-I-Get-With-an-OptiSigns-Free-Plan",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-    "updated_at": "2026-09-03T14:57:58Z"
+    "updated_at": "2026-09-07T09:51:00Z"
   },
   "360035739414": {
-    "hash": "b2a2fddcde8937d14e4dccab348374c7291d6ed7040f17d1ab4cd3d7801a73ed",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360035739414howtopreviewasc-4xpsgaypmo6l",
+    "hash": "c710a3e532e83bec0360b79271bccc948d4f4777909c2536f1b0886bb68874ae",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360035739414howtopreviewasc-awspap5w26a6",
     "path": "articles/How-to-Preview-a-Screen.md",
     "slug": "How-to-Preview-a-Screen",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen",
-    "updated_at": "2026-09-03T10:41:51Z"
+    "updated_at": "2026-09-07T08:20:47Z"
   },
   "1500006130902": {
-    "hash": "ddbc86eb9cdaf0179959868857ef1fb0c477e3e0ed294b29a56aa86d4661fd26",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500006130902howtousetheliv-povy7z17ce98",
+    "hash": "99953c4a5679106aa705028c19f5f78b7ee82aa8bf946ee98c50e104774f811a",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500006130902howtousetheliv-y4dcdbun6cfy",
     "path": "articles/How-to-Use-the-Live-TV-with-Ads-App.md",
     "slug": "How-to-Use-the-Live-TV-with-Ads-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/1500006130902-How-to-Use-the-Live-TV-with-Ads-App",
-    "updated_at": "2026-09-04T18:30:12Z"
+    "updated_at": "2026-09-07T09:04:05Z"
   },
   "38680194603155": {
     "hash": "400122f7883977cc6637d6e155ebe01ac0679ef1f2b4319c723eec3e29769f8f",
@@ -798,5 +774,29 @@
     "slug": "Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync",
     "updated_at": "2026-09-07T01:18:36Z"
+  },
+  "360060049534": {
+    "hash": "546fadf17a5cc47bc88ca50a0efbea022225a0498eba563fdcda3c72a6bfb880",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360060049534howtoexporthigh-uzoxkzzph3wn",
+    "path": "articles/How-to-export-high-resolution-canvas-template-designs.md",
+    "slug": "How-to-export-high-resolution-canvas-template-designs",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360060049534-How-to-export-high-resolution-canvas-template-designs",
+    "updated_at": "2026-09-08T04:06:29Z"
+  },
+  "4404616314515": {
+    "hash": "cd2dc32319eaeed35698a92b5b5dcc6e50dfb60affddf78cf2f763be57e916d2",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4404616314515howtochangeacc-hbkqqjn6zmhe",
+    "path": "articles/How-to-Change-Account-Owners.md",
+    "slug": "How-to-Change-Account-Owners",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4404616314515-How-to-Change-Account-Owners",
+    "updated_at": "2026-09-07T10:13:21Z"
+  },
+  "4417940565139": {
+    "hash": "66585e5e290391681f580eb472617b524a8a89fcd8eb078174baa148e1bbd799",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4417940565139howtodisplaymi-u5n3n2pzq1c1",
+    "path": "articles/How-to-display-Microsoft-Teams-on-OptiSigns.md",
+    "slug": "How-to-display-Microsoft-Teams-on-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4417940565139-How-to-display-Microsoft-Teams-on-OptiSigns",
+    "updated_at": "2026-09-07T09:37:05Z"
   }
 }
