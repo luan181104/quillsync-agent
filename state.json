@@ -1,12 +1,4 @@
 {
-  "1500000493782": {
-    "hash": "b63ebe656da4400d4a71dbade1b8e960fce31151376b3122e3817e61d2c2773a",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500000493782billinghowdoic-evqzl253fk8g",
-    "path": "articles/Billing-How-Do-I-Change-my-Subscription-Plan.md",
-    "slug": "Billing-How-Do-I-Change-my-Subscription-Plan",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-How-Do-I-Change-my-Subscription-Plan",
-    "updated_at": "2026-07-08T04:10:51Z"
-  },
   "360035538093": {
     "hash": "45ef1c13d698dec5dab70679bf395ba71689d04fcbb21d332a12cfddc85ac829",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360035538093myimagecontenta-hpw40j5hqcsu",
@@ -14,14 +6,6 @@
     "slug": "My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360035538093-My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration",
     "updated_at": "2026-07-27T15:11:19Z"
-  },
-  "4412065189267": {
-    "hash": "c5682e2b142a530b7f3df4d360f29f802098b9a8c01bed6bc2171769983e166a",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4412065189267synchronizedpl-583c4f9z9al2",
-    "path": "articles/Synchronized-playback-Sync-Play-feature.md",
-    "slug": "Synchronized-playback-Sync-Play-feature",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/4412065189267-Synchronized-playback-Sync-Play-feature",
-    "updated_at": "2026-07-06T21:29:32Z"
   },
   "53095698149011": {
     "hash": "5808e1f2eabefe54ab05f02a4f8d6e5677a9dc44c6070172c5828813524c5573",
@@ -119,22 +103,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
     "updated_at": "2026-09-03T14:57:04Z"
   },
-  "52113036672403": {
-    "hash": "647c8729430b319c927e2bffc895a3e06c1c11cd42912af18bb6cc1f1555635d",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/52113036672403roomintegrati-bl9n6xpz96yb",
-    "path": "articles/Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage.md",
-    "slug": "Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage",
-    "updated_at": "2026-07-08T14:58:11Z"
-  },
-  "52069065128723": {
-    "hash": "bb24e02abd7881280054103fafb05bf165901dbc54c3b8f21da4d08495bd0037",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/52069065128723connectzoomro-1myabtz3moc6",
-    "path": "articles/Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage.md",
-    "slug": "Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage",
-    "updated_at": "2026-07-17T22:17:54Z"
-  },
   "31960461758611": {
     "hash": "2f7682f4470950cd052bc0acb9e451509056ad29776ba8c7530083d505c6f04d",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/31960461758611howtoorderapr-aewk1mfedfua",
@@ -191,22 +159,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360056087613-How-to-Clear-Cache-on-Your-Fire-Stick-device",
     "updated_at": "2026-08-22T13:10:02Z"
   },
-  "1500000480302": {
-    "hash": "16c0bc3c635a685839962b1ada184d514b93b37b5c20a875664be85904ac69a4",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500000480302advancedcustom-v2fpdw1gotja",
-    "path": "articles/Advanced-Custom-Domain-Mapping.md",
-    "slug": "Advanced-Custom-Domain-Mapping",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/1500000480302-Advanced-Custom-Domain-Mapping",
-    "updated_at": "2026-07-14T17:53:32Z"
-  },
-  "360056086653": {
-    "hash": "1c0361cef843e14f335e8164e0584e4f81d632430b58890287328c90ee1b749a",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360056086653howtochangetime-mlpuie1v0hc5",
-    "path": "articles/How-to-Change-Time-Zone-on-Your-Fire-Stick-device.md",
-    "slug": "How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
-    "updated_at": "2026-07-09T18:27:02Z"
-  },
   "360042736794": {
     "hash": "a233eac6302cdad53cfcfd81e08df4c72ab5749bb57248d8599bedf453755729",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360042736794howtosetanasset-6dtfs0h07sco",
@@ -239,22 +191,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/4416542923667-How-to-Perform-Mass-Provisioning-with-OptiSigns",
     "updated_at": "2026-09-05T10:20:27Z"
   },
-  "28295104605843": {
-    "hash": "51aca311380df951481fb91ed64fb827243ae1b37d833f475d6d7065e49c6821",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28295104605843howtocreateus-4p8yhdqe2epe",
-    "path": "articles/How-to-Create-Use-Playlists.md",
-    "slug": "How-to-Create-Use-Playlists",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists",
-    "updated_at": "2026-07-14T12:09:21Z"
-  },
-  "53293393593491": {
-    "hash": "5273d9b507a8b61340f8dc7464f048718614fb297ac6d28c03a2a10829e4702d",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/53293393593491referearnopti-jghoa0yklefh",
-    "path": "articles/Refer-Earn-OptiSigns-Referral-Program.md",
-    "slug": "Refer-Earn-OptiSigns-Referral-Program",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/53293393593491-Refer-Earn-OptiSigns-Referral-Program",
-    "updated_at": "2026-07-08T17:09:50Z"
-  },
   "360026559573": {
     "hash": "32d288c033c025566a4c4cc646208db6bcdfa2ec6b8fff9a42d1f68e91accbd1",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360026559573howtocreateandu-043ztyepxd46",
@@ -271,70 +207,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync",
     "updated_at": "2026-08-17T15:33:48Z"
   },
-  "6604468198291": {
-    "hash": "bf7d36a78b894ac40184c477b5e713f0a8fdeddb4d529d7b3b8eca2b220d142d",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/6604468198291howtousethecap-q1mujpf76b1v",
-    "path": "articles/How-to-Use-the-CAP-Alert-App.md",
-    "slug": "How-to-Use-the-CAP-Alert-App",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/6604468198291-How-to-Use-the-CAP-Alert-App",
-    "updated_at": "2026-07-13T17:44:57Z"
-  },
-  "360021855653": {
-    "hash": "4db691ab8593ffc86e7ef601224ccd8e801311a55c28efb7d3cbc7143d9c30a1",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360021855653whathardwareand-c479ak9trb8j",
-    "path": "articles/What-hardware-and-devices-are-supported.md",
-    "slug": "What-hardware-and-devices-are-supported",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported",
-    "updated_at": "2026-07-13T15:50:57Z"
-  },
-  "1500000485202": {
-    "hash": "eff9d6038db06d6e1093230ffa8a6c82bc0270f0630277215e43530c31cbdd96",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500000485202custombranding-9mbjjji0d87n",
-    "path": "articles/Custom-Branding-Settings.md",
-    "slug": "Custom-Branding-Settings",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings",
-    "updated_at": "2026-07-14T16:23:24Z"
-  },
-  "15313086319763": {
-    "hash": "a2388399e5b37ec37f17d88fb98ef70236f93d8477e949ddb3d13d1d4ffb55b3",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/15313086319763howtodesignki-mvgcyyn13n6i",
-    "path": "articles/How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro.md",
-    "slug": "How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro",
-    "updated_at": "2026-07-14T07:45:20Z"
-  },
-  "360016388733": {
-    "hash": "5804d0dea012652708898674d0f368c549fdb46b1922c7f09d5982652f055fb4",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016388733howtocreateandu-68y2fsy46aon",
-    "path": "articles/How-to-create-and-use-Instagram-Wall.md",
-    "slug": "How-to-create-and-use-Instagram-Wall",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-create-and-use-Instagram-Wall",
-    "updated_at": "2026-07-15T15:27:32Z"
-  },
-  "360053211594": {
-    "hash": "c76e0b911d4cbcb1cdd2bde18adf6e5c046ead6db817f5ef6f98a558844a0c97",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360053211594setoptisignsass-ilnm7tw1a3ks",
-    "path": "articles/Set-OptiSigns-as-ScreenSaver-on-Windows.md",
-    "slug": "Set-OptiSigns-as-ScreenSaver-on-Windows",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360053211594-Set-OptiSigns-as-ScreenSaver-on-Windows",
-    "updated_at": "2026-07-16T22:15:47Z"
-  },
-  "53497007807251": {
-    "hash": "6dfc0908932e92abadcb6b71431a3c4d954f1bf65bc3ed30e65ab2e8e9626b67",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/53497007807251devicemanagem-j975q2mei9y9",
-    "path": "articles/Device-Management-and-Mass-Provisioning.md",
-    "slug": "Device-Management-and-Mass-Provisioning",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning",
-    "updated_at": "2026-07-16T16:39:52Z"
-  },
-  "360052361293": {
-    "hash": "5345ccdfa8d5e656b59d0c6900ff47bd75a1cd972317764698bc02556dc5afa1",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360052361293howtoupdatefire-hutadz0kl53t",
-    "path": "articles/How-to-Update-Fire-TV-OS-to-latest-version.md",
-    "slug": "How-to-Update-Fire-TV-OS-to-latest-version",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360052361293-How-to-Update-Fire-TV-OS-to-latest-version",
-    "updated_at": "2026-07-18T01:28:41Z"
-  },
   "33382537925267": {
     "hash": "2055706778bd23874d1d41ade52dd5747d0b7ff0a46aaf7cec200c8b86f5269c",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/33382537925267makingavideow-q8apzwwb1lcb",
@@ -343,14 +215,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
     "updated_at": "2026-09-04T16:24:39Z"
   },
-  "360016380053": {
-    "hash": "1245bf000f9ac16a387f89669242df83da2b1fbb079778e063fae95019bcbb9d",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016380053howtocheckwifis-tbd1bm5ugvgy",
-    "path": "articles/How-to-Check-WiFi-Signal-Strength-on-the-Amazon-Fire-TV-Stick.md",
-    "slug": "How-to-Check-WiFi-Signal-Strength-on-the-Amazon-Fire-TV-Stick",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360016380053-How-to-Check-WiFi-Signal-Strength-on-the-Amazon-Fire-TV-Stick",
-    "updated_at": "2026-07-19T13:16:43Z"
-  },
   "360053993934": {
     "hash": "9968e9c98743af7f120f87f4ef8dbf23bb882338bb15c13a9f4f08732902eb2f",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360053993934howtousekioskli-ejh094ivwi9w",
@@ -358,14 +222,6 @@
     "slug": "How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360053993934-How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app",
     "updated_at": "2026-09-03T14:57:05Z"
-  },
-  "360055546594": {
-    "hash": "3a6a3c9970fc5fc168c481dc21d3b0c27a5d5c65dc57858abd45df82aaf99efc",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360055546594howdoespreconfi-b8hxe2sl6okx",
-    "path": "articles/How-does-pre-configured-devices-labeled-in-shipping-package.md",
-    "slug": "How-does-pre-configured-devices-labeled-in-shipping-package",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360055546594-How-does-pre-configured-devices-labeled-in-shipping-package",
-    "updated_at": "2026-07-20T15:15:23Z"
   },
   "360037463934": {
     "hash": "ca14b36d0e146afb7dbd2d6938b9df4360c912c5dc69dccad539546dd05506b4",
@@ -688,12 +544,12 @@
     "updated_at": "2026-09-07T09:37:05Z"
   },
   "34087061669523": {
-    "hash": "fe201c4f0f1d6556bb3cf75a3e88ff5de2a631985908a12544636dc492184bf6",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/34087061669523amazonsignage-1rprgk0pmb98",
+    "hash": "5f309713db95768a28ecfec69838265d9308b146d23e65ea1a2561ae3fda3ffe",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/34087061669523amazonsignage-hsi0khrzy7iy",
     "path": "articles/Amazon-Signage-Stick.md",
     "slug": "Amazon-Signage-Stick",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick",
-    "updated_at": "2026-09-09T07:45:52Z"
+    "updated_at": "2026-09-09T07:45:55Z"
   },
   "360054557434": {
     "hash": "fbcd13c90dca4641cbe923a55c09e96a476d87b80bda3d2fe5f1880a7bc6bd97",
@@ -736,12 +592,12 @@
     "updated_at": "2026-09-08T20:18:39Z"
   },
   "360038769394": {
-    "hash": "df8f9a47370b23da8145b6462cc5f295954a6631dd7ea56a35e9511585ec0de6",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360038769394howtocreateandu-xh3iarxxgbrl",
+    "hash": "8f7aca1e6ebf30a93c56d3ac2d0e78dee9398aed071a35046b6e740837ee7804",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360038769394howtocreateandu-2giz3h88has1",
     "path": "articles/How-to-Create-and-Use-the-Yelp-App.md",
     "slug": "How-to-Create-and-Use-the-Yelp-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360038769394-How-to-Create-and-Use-the-Yelp-App",
-    "updated_at": "2026-09-08T20:18:24Z"
+    "updated_at": "2026-09-10T06:59:29Z"
   },
   "360026559613": {
     "hash": "c01f31f89ae5f5154d8256b6751ae4204d523391c1de256b625b60197ee5776e",
@@ -798,5 +654,149 @@
     "slug": "FireOS-TVs-Amazon-Insigna-Toshiba-TCL",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/1500009042742-FireOS-TVs-Amazon-Insigna-Toshiba-TCL",
     "updated_at": "2026-09-08T08:33:10Z"
+  },
+  "360016376793": {
+    "hash": "e8fb86c49e20db89e0f7377f29ab75100ab10211dc4600ccfc478c3737475c03",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016376793whathappenifint-18w8377mpos0",
+    "path": "articles/What-happen-if-internet-connection-is-lost.md",
+    "slug": "What-happen-if-internet-connection-is-lost",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360016376793-What-happen-if-internet-connection-is-lost",
+    "updated_at": "2026-09-10T04:00:57Z"
+  },
+  "360023848334": {
+    "hash": "fa7a25fae5973be08527c916f64c272d145c8a05f10960568a2e71d0fbee8dcc",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360023848334howtousetheface-4t63gnos64vp",
+    "path": "articles/How-to-Use-the-Facebook-Page-App.md",
+    "slug": "How-to-Use-the-Facebook-Page-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360023848334-How-to-Use-the-Facebook-Page-App",
+    "updated_at": "2026-09-10T02:49:33Z"
+  },
+  "360049872414": {
+    "hash": "0beacf9ebc6564ad59352734246c1997466aa2f2d07d93135dc14d1f2f75b693",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360049872414howtousefaceboo-5db4zain1dnv",
+    "path": "articles/How-to-use-Facebook-Video-App.md",
+    "slug": "How-to-use-Facebook-Video-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360049872414-How-to-use-Facebook-Video-App",
+    "updated_at": "2026-09-10T02:31:21Z"
+  },
+  "360040991474": {
+    "hash": "6b970badc813e213b52c10807bef681aab1a0b9c8676259f55ed465d9e7ce90b",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360040991474howtousetheespn-rq01z85o1b3c",
+    "path": "articles/How-to-Use-the-ESPN-News-App.md",
+    "slug": "How-to-Use-the-ESPN-News-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360040991474-How-to-Use-the-ESPN-News-App",
+    "updated_at": "2026-09-09T21:57:39Z"
+  },
+  "360022393473": {
+    "hash": "7ea0db08ea56272e0d7d96985546588edbf21b7be520cf586cf83d8284ac38eb",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360022393473howtousethenews-a2zn7qldy6gm",
+    "path": "articles/How-to-Use-the-News-App.md",
+    "slug": "How-to-Use-the-News-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360022393473-How-to-Use-the-News-App",
+    "updated_at": "2026-09-09T21:52:52Z"
+  },
+  "4414563797139": {
+    "hash": "a6732e157ef11051fad25583d135e8c34f1396d371f07182e1340e6c0653e083",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4414563797139generatemanage-xwlw9sxe8cpe",
+    "path": "articles/Generate-Manage-an-OptiSigns-API-Key.md",
+    "slug": "Generate-Manage-an-OptiSigns-API-Key",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4414563797139-Generate-Manage-an-OptiSigns-API-Key",
+    "updated_at": "2026-09-09T21:49:12Z"
+  },
+  "360044613874": {
+    "hash": "52089b63220a6ae4fac5768cceadd92acb53a8eeb7f5a715295b7e4564ffa7df",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360044613874howtousetheguar-s1xefqz5mz04",
+    "path": "articles/How-to-Use-the-Guardian-News-App.md",
+    "slug": "How-to-Use-the-Guardian-News-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360044613874-How-to-Use-the-Guardian-News-App",
+    "updated_at": "2026-09-09T21:32:02Z"
+  },
+  "24338756617747": {
+    "hash": "712d0e1763d3efdb84902874637c9a015cce07628180d240d565c77dd91c7d25",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/24338756617747feedsandhowto-b3fwb92udd9g",
+    "path": "articles/Feeds-and-How-to-Use-Them.md",
+    "slug": "Feeds-and-How-to-Use-Them",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/24338756617747-Feeds-and-How-to-Use-Them",
+    "updated_at": "2026-09-09T21:11:45Z"
+  },
+  "360040991534": {
+    "hash": "04b1dea70614395125fb3e43e7451e774cad2913da4e05792a3fd922ed9f2b70",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360040991534howtousethetech-p0yl730v6jo8",
+    "path": "articles/How-to-use-the-TechCrunch-News-App.md",
+    "slug": "How-to-use-the-TechCrunch-News-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360040991534-How-to-use-the-TechCrunch-News-App",
+    "updated_at": "2026-09-09T20:54:43Z"
+  },
+  "360049030453": {
+    "hash": "3f27978b9676b5a82e6e22edd976ce7f1cee61399070dc262941abcff89dda78",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360049030453howtousethemoti-0hvwj1kyvzdm",
+    "path": "articles/How-to-use-the-Motivational-Quote-App.md",
+    "slug": "How-to-use-the-Motivational-Quote-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360049030453-How-to-use-the-Motivational-Quote-App",
+    "updated_at": "2026-09-09T20:46:35Z"
+  },
+  "1500011611322": {
+    "hash": "eb2ea3c3361d0051310bd1359b787dd5dc8c634f873ae613ed7bcbee8169eeee",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500011611322howtousethecbc-hxpcpmdl0e9e",
+    "path": "articles/How-to-use-the-CBC-News-App.md",
+    "slug": "How-to-use-the-CBC-News-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/1500011611322-How-to-use-the-CBC-News-App",
+    "updated_at": "2026-09-09T19:26:10Z"
+  },
+  "360044115513": {
+    "hash": "3dd6fb34fdeb9df96620d004a0537749da6e90d3ba3cf852325ad26f23767ac1",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360044115513howtousethestoc-ar0n33u38miu",
+    "path": "articles/How-to-Use-the-Stock-App.md",
+    "slug": "How-to-Use-the-Stock-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360044115513-How-to-Use-the-Stock-App",
+    "updated_at": "2026-09-09T19:22:54Z"
+  },
+  "7592123111699": {
+    "hash": "fa46f1da8d34f69830a163e1fa126b66013085f5184230cb26a629b686b636d5",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/7592123111699hostyourhtmljs-5xwr6f8gnrge",
+    "path": "articles/Host-your-HTML-JS-or-Create-your-own-Web-App-with-Hosted-Website.md",
+    "slug": "Host-your-HTML-JS-or-Create-your-own-Web-App-with-Hosted-Website",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/7592123111699-Host-your-HTML-JS-or-Create-your-own-Web-App-with-Hosted-Website",
+    "updated_at": "2026-09-09T19:14:29Z"
+  },
+  "360041476213": {
+    "hash": "09c948f04e6d3eb662861c0e805abcbd5113d1b959189591a3f66c9d88756d25",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360041476213howtousethecnnw-41ahje1pdapy",
+    "path": "articles/How-to-use-the-CNN-Wall-App.md",
+    "slug": "How-to-use-the-CNN-Wall-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360041476213-How-to-use-the-CNN-Wall-App",
+    "updated_at": "2026-09-09T17:00:22Z"
+  },
+  "360017964153": {
+    "hash": "4800ea84b854d0a0621eb520198b1ad9aa5074d43df0bb4888ceddeb3b27f522",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360017964153howtouseweather-j2uz7ss0o2ic",
+    "path": "articles/How-to-Use-Weather-Apps-in-OptiSigns.md",
+    "slug": "How-to-Use-Weather-Apps-in-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360017964153-How-to-Use-Weather-Apps-in-OptiSigns",
+    "updated_at": "2026-09-09T16:30:11Z"
+  },
+  "360044619014": {
+    "hash": "87afbed707acab1095488fb398b6ef8209ef7a471a88e57949478f4be60914a1",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360044619014howtousetheface-sc923ytx9j5j",
+    "path": "articles/How-to-Use-the-Facebook-Counter-App.md",
+    "slug": "How-to-Use-the-Facebook-Counter-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360044619014-How-to-Use-the-Facebook-Counter-App",
+    "updated_at": "2026-09-09T15:32:49Z"
+  },
+  "4408052949139": {
+    "hash": "17d34be045d893fa3528b359bd0081d8cc5935ac90ae4aae95b28acef6d67e83",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4408052949139howtousethecal-r0i8vsomzsjc",
+    "path": "articles/How-to-Use-the-Calendar-Mix-app.md",
+    "slug": "How-to-Use-the-Calendar-Mix-app",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4408052949139-How-to-Use-the-Calendar-Mix-app",
+    "updated_at": "2026-09-09T15:32:17Z"
+  },
+  "20153471319187": {
+    "hash": "6a39a7d79ed4e04a512341054650ad762b0dcbb6419a0f7aa8f6f5eb81ddb6b1",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/20153471319187externalstora-db99bvosqwsb",
+    "path": "articles/External-Storage-on-OptiSigns-Devices.md",
+    "slug": "External-Storage-on-OptiSigns-Devices",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/20153471319187-External-Storage-on-OptiSigns-Devices",
+    "updated_at": "2026-09-09T14:46:27Z"
   }
 }

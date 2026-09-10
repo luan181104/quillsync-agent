@@ -2,23 +2,27 @@
 title: "External Storage on OptiSigns Devices"
 article_id: 20153471319187
 source_url: https://support.optisigns.com/hc/en-us/articles/20153471319187-External-Storage-on-OptiSigns-Devices
-updated_at: 2026-06-05T16:36:27Z
+updated_at: 2026-09-09T14:46:27Z
 ---
 
 # External Storage on OptiSigns Devices
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/20153471319187-External-Storage-on-OptiSigns-Devices
 
-**NOTE:** In order to use External Storage, you must be a [Pro Plus subscriber or above](https://www.optisigns.com/pricing). This also only applies to ***OptiSigns Devices***, and will not appear on any devices not manufactured by OptiSigns.
+| **NOTE** |
+| --- |
+| In order to use External Storage, you must be a [Pro Plus subscriber or above](https://www.optisigns.com/pricing). External Storage is only available on OptiSigns hardware, Windows/Linux devices, and MacOS devices. |
 
 If you feel there is not enough storage on your device, you can use the USB drive or micro SD card as extra storage to add additional storage capacity to it.
 
-After you plug in the USB drive or micro SD card on your device, go to the **Edit Screen** tab.
+After you plug in the USB drive or micro SD card on your device, go to **Edit Screen** on the **Screens** tab.
 
 Click **Advanced**, then click **More:**  
-![](https://support.optisigns.com/hc/article_attachments/20153104606995)
+![Edit Screen More section with Use External Storage ticked and the Storage Path box revealed below it](https://support.optisigns.com/hc/article_attachments/55247275469715)
 
-Check "**Use external Storage**" and select Auto Detect in the "**External Storage Path**".
+Check "**Use external Storage**".
+
+With this checked, a Storage Path field will be enabled. Leave this empty in order to auto\-detect the path of your External Storage device, or fill the path in to force it to a certain location.
 
 After that, the OptiSigns app will use the external storage on this device.
 

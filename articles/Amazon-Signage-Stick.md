@@ -2,7 +2,7 @@
 title: "Amazon Signage Stick"
 article_id: 34087061669523
 source_url: https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick
-updated_at: 2026-09-09T07:45:52Z
+updated_at: 2026-09-09T07:45:55Z
 ---
 
 # Amazon Signage Stick

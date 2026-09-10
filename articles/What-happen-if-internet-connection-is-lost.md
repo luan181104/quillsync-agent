@@ -2,7 +2,7 @@
 title: "What happen if internet connection is lost?"
 article_id: 360016376793
 source_url: https://support.optisigns.com/hc/en-us/articles/360016376793-What-happen-if-internet-connection-is-lost
-updated_at: 2026-05-26T18:14:07Z
+updated_at: 2026-09-10T04:00:57Z
 ---
 
 # What happen if internet connection is lost?

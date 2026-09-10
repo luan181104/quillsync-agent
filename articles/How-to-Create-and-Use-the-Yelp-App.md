@@ -2,7 +2,7 @@
 title: "How to Create and Use the Yelp App"
 article_id: 360038769394
 source_url: https://support.optisigns.com/hc/en-us/articles/360038769394-How-to-Create-and-Use-the-Yelp-App
-updated_at: 2026-09-08T20:18:24Z
+updated_at: 2026-09-10T06:59:29Z
 ---
 
 # How to Create and Use the Yelp App
