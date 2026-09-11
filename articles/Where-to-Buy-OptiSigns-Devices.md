@@ -2,7 +2,7 @@
 title: "Where to Buy OptiSigns Devices"
 article_id: 32129032857875
 source_url: https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices
-updated_at: 2026-03-30T17:22:38Z
+updated_at: 2026-09-10T09:51:39Z
 ---
 
 # Where to Buy OptiSigns Devices

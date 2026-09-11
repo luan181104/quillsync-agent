@@ -2,7 +2,7 @@
 title: "Handle OAuth Authentication using API Gateway Pre-request Configuration"
 article_id: 39080869746067
 source_url: https://support.optisigns.com/hc/en-us/articles/39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration
-updated_at: 2026-07-28T20:42:44Z
+updated_at: 2026-09-10T10:46:28Z
 ---
 
 # Handle OAuth Authentication using API Gateway Pre-request Configuration

@@ -2,7 +2,7 @@
 title: "How to Set Up Dynamic Data Mapping with OptiSync"
 article_id: 29217646663187
 source_url: https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync
-updated_at: 2026-08-17T15:33:48Z
+updated_at: 2026-09-10T09:51:11Z
 ---
 
 # How to Set Up Dynamic Data Mapping with OptiSync

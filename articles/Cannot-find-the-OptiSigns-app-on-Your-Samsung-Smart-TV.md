@@ -2,7 +2,7 @@
 title: "Cannot find the OptiSigns app on Your Samsung Smart TV"
 article_id: 15268811715347
 source_url: https://support.optisigns.com/hc/en-us/articles/15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV
-updated_at: 2026-06-11T17:13:11Z
+updated_at: 2026-09-10T09:49:21Z
 ---
 
 # Cannot find the OptiSigns app on Your Samsung Smart TV

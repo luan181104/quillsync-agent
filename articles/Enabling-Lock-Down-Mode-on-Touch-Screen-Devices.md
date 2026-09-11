@@ -2,7 +2,7 @@
 title: "Enabling Lock Down Mode on Touch Screen Devices"
 article_id: 30310366838803
 source_url: https://support.optisigns.com/hc/en-us/articles/30310366838803-Enabling-Lock-Down-Mode-on-Touch-Screen-Devices
-updated_at: 2026-04-21T19:22:05Z
+updated_at: 2026-09-10T09:51:32Z
 ---
 
 # Enabling Lock Down Mode on Touch Screen Devices

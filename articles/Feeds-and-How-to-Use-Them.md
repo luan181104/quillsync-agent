@@ -2,7 +2,7 @@
 title: "Feeds and How to Use Them"
 article_id: 24338756617747
 source_url: https://support.optisigns.com/hc/en-us/articles/24338756617747-Feeds-and-How-to-Use-Them
-updated_at: 2026-09-09T21:11:45Z
+updated_at: 2026-09-10T09:50:35Z
 ---
 
 # Feeds and How to Use Them

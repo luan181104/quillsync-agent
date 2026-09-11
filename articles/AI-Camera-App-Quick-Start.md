@@ -2,7 +2,7 @@
 title: "AI Camera App - Quick Start"
 article_id: 27690296225555
 source_url: https://support.optisigns.com/hc/en-us/articles/27690296225555-AI-Camera-App-Quick-Start
-updated_at: 2026-06-29T19:26:02Z
+updated_at: 2026-09-10T09:50:56Z
 ---
 
 # AI Camera App - Quick Start

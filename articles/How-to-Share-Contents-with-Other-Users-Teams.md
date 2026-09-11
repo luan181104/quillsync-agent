@@ -2,7 +2,7 @@
 title: "How to Share Contents with Other Users/Teams"
 article_id: 18986181635859
 source_url: https://support.optisigns.com/hc/en-us/articles/18986181635859-How-to-Share-Contents-with-Other-Users-Teams
-updated_at: 2026-05-29T17:35:48Z
+updated_at: 2026-09-10T09:49:58Z
 ---
 
 # How to Share Contents with Other Users/Teams

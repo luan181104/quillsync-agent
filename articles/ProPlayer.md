@@ -2,7 +2,7 @@
 title: "ProPlayer"
 article_id: 32272215514131
 source_url: https://support.optisigns.com/hc/en-us/articles/32272215514131-ProPlayer
-updated_at: 2026-09-04T16:24:05Z
+updated_at: 2026-09-10T09:51:42Z
 ---
 
 # ProPlayer

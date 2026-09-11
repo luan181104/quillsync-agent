@@ -2,7 +2,7 @@
 title: "How to manage Sub-Account billing with OptiSigns"
 article_id: 17129313173395
 source_url: https://support.optisigns.com/hc/en-us/articles/17129313173395-How-to-manage-Sub-Account-billing-with-OptiSigns
-updated_at: 2026-06-24T17:40:46Z
+updated_at: 2026-09-10T09:49:34Z
 ---
 
 # How to manage Sub-Account billing with OptiSigns

@@ -2,7 +2,7 @@
 title: "Integrating Point-of-Sale (POS) Systems to Build Digital Menu Boards with OptiSync"
 article_id: 31860170199955
 source_url: https://support.optisigns.com/hc/en-us/articles/31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync
-updated_at: 2026-09-07T01:18:36Z
+updated_at: 2026-09-10T09:51:36Z
 ---
 
 # Integrating Point-of-Sale (POS) Systems to Build Digital Menu Boards with OptiSync

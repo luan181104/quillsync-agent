@@ -2,7 +2,7 @@
 title: "How to Use the Facebook Counter App"
 article_id: 360044619014
 source_url: https://support.optisigns.com/hc/en-us/articles/360044619014-How-to-Use-the-Facebook-Counter-App
-updated_at: 2026-09-09T15:32:49Z
+updated_at: 2026-09-10T14:23:21Z
 ---
 
 # How to Use the Facebook Counter App
@@ -36,7 +36,7 @@ Select **Facebook Counter**:
 
 ![Add App dialog searched for Facebook, with the Facebook Counter app highlighted](https://support.optisigns.com/hc/article_attachments/55247227965587)
 
-Login to Facebook. If this is the first time registering it with OptiSigns, you will need to hit **Connect Facebook Pages** then log in. ![Facebook Counter - Wall setup showing Login with Facebook and Connect Facebook Pages](https://support.optisigns.com/hc/article_attachments/55247212222355)
+Login to Facebook. If this is the first time registering it with OptiSigns, you will need to hit **Connect Facebook Pages** then log in. ![Facebook Counter setup with the Connect Facebook Pages button highlighted](https://support.optisigns.com/hc/article_attachments/55283329530387)
 
  
 The Facebook Counter App allows you to register numerous Facebook accounts. If you have already registered your account, you can choose it with the **Select** option.
@@ -48,7 +48,7 @@ After logging on with Facebook in the Facebook popup window, select the Pages yo
 Click **Next**, then Click **Done**.
  
 Whether you connect a new Facebook page or choose it from an existing on, you'll see the below screen:
-![Facebook Counter settings: Name, Page, Type, Title, Text and Theme fields with preview](https://support.optisigns.com/hc/article_attachments/55247212223891)
+![Facebook Counter settings filled in, with the Save button highlighted](https://support.optisigns.com/hc/article_attachments/55283336270483)
 
 After that, you can enter information for your wall.- **Name**: Name of your Facebook Counter Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 - **Page**: Page you want to use (if you have more than 1\). **Important**: you can only set this one time during the creation of the asset, if you want to change this later, you should delete the old asset and create a new one.
@@ -59,7 +59,7 @@ This field is required.
 - **Theme**: Select Light (Facebook blue background) or Dark Theme (black background).
 - **Show QR Code**: When checked, allows you to add a QR code. You can choose for the QR code to go to the Facebook page, or to any other page by choosing **Custom**.
 
-![Show QR Code checked, QR Code set to Custom with the Custom URL field and Choose button](https://support.optisigns.com/hc/article_attachments/55247227971091)
+![Show QR Code ticked, with the QR Code dropdown set to Custom](https://support.optisigns.com/hc/article_attachments/55283360530323)
 
  Finally, hit **Save**. You've created a Facebook Counter asset.
 
@@ -71,7 +71,7 @@ You can deploy your new Facebook Counter app as an individual asset, or as part 
 
 To get your new Facebook Counter asset to a screen, go to the **Screens** tab, then click the screen you want to assign it to.
 
-![Screens list row with the Edit button highlighted](https://support.optisigns.com/hc/article_attachments/55247212225939)
+![Screens list row with the Edit pencil highlighted](https://support.optisigns.com/hc/article_attachments/55283336525843)
 
 This opens the **Edit Screen** dialog:
 
@@ -81,7 +81,7 @@ Here, select **Asset** under **Content Type**, then click **Change**.
 
 Then, select your created Facebook Counter Asset:
 
-![Select Asset dialog showing the asset grid and preview pane](https://support.optisigns.com/hc/article_attachments/55247212228499)
+![Select Asset dialog with the Facebook Counter asset highlighted and previewed](https://support.optisigns.com/hc/article_attachments/55283360785939)
 
 Now hit **Save**. Your Facebook Counter asset will now display on screen.
 

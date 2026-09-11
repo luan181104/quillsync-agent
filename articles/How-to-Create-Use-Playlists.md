@@ -2,7 +2,7 @@
 title: "How to Create & Use Playlists"
 article_id: 28295104605843
 source_url: https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists
-updated_at: 2026-07-14T12:09:21Z
+updated_at: 2026-09-10T09:51:04Z
 ---
 
 # How to Create & Use Playlists

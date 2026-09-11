@@ -2,7 +2,7 @@
 title: "Samsung Smart Signage Platform (SSSP) Supported Model List"
 article_id: 17882306279315
 source_url: https://support.optisigns.com/hc/en-us/articles/17882306279315-Samsung-Smart-Signage-Platform-SSSP-Supported-Model-List
-updated_at: 2026-08-11T10:19:33Z
+updated_at: 2026-09-10T09:49:46Z
 ---
 
 # Samsung Smart Signage Platform (SSSP) Supported Model List

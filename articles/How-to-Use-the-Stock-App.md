@@ -2,7 +2,7 @@
 title: "How to Use the Stock App"
 article_id: 360044115513
 source_url: https://support.optisigns.com/hc/en-us/articles/360044115513-How-to-Use-the-Stock-App
-updated_at: 2026-09-09T19:22:54Z
+updated_at: 2026-09-10T11:36:53Z
 ---
 
 # How to Use the Stock App

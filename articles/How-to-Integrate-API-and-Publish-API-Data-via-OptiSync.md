@@ -2,7 +2,7 @@
 title: "How to Integrate API and Publish API Data via OptiSync"
 article_id: 22875592994195
 source_url: https://support.optisigns.com/hc/en-us/articles/22875592994195-How-to-Integrate-API-and-Publish-API-Data-via-OptiSync
-updated_at: 2026-08-17T15:33:02Z
+updated_at: 2026-09-10T09:50:23Z
 ---
 
 # How to Integrate API and Publish API Data via OptiSync

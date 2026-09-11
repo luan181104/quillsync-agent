@@ -2,7 +2,7 @@
 title: "Pagination"
 article_id: 4414558369811
 source_url: https://support.optisigns.com/hc/en-us/articles/4414558369811-Pagination
-updated_at: 2026-09-08T21:23:42Z
+updated_at: 2026-09-10T11:36:50Z
 ---
 
 # Pagination

@@ -2,7 +2,7 @@
 title: "How to cancel subscription or pause subscription for Seasonal Use Case"
 article_id: 17639078588691
 source_url: https://support.optisigns.com/hc/en-us/articles/17639078588691-How-to-cancel-subscription-or-pause-subscription-for-Seasonal-Use-Case
-updated_at: 2026-05-28T20:38:07Z
+updated_at: 2026-09-10T09:49:44Z
 ---
 
 # How to cancel subscription or pause subscription for Seasonal Use Case

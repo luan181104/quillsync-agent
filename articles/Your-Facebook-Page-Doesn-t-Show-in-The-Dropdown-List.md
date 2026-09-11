@@ -2,7 +2,7 @@
 title: "Your Facebook Page Doesn't Show in The Dropdown List"
 article_id: 20750060900883
 source_url: https://support.optisigns.com/hc/en-us/articles/20750060900883-Your-Facebook-Page-Doesn-t-Show-in-The-Dropdown-List
-updated_at: 2026-04-30T20:24:48Z
+updated_at: 2026-09-10T09:50:14Z
 ---
 
 # Your Facebook Page Doesn't Show in The Dropdown List

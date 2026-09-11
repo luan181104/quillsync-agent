@@ -2,7 +2,7 @@
 title: "How to Use the Mobile App for Remote Control"
 article_id: 30304278652563
 source_url: https://support.optisigns.com/hc/en-us/articles/30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control
-updated_at: 2026-09-02T20:41:23Z
+updated_at: 2026-09-10T09:51:30Z
 ---
 
 # How to Use the Mobile App for Remote Control

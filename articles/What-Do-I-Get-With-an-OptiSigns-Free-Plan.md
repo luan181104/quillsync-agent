@@ -2,7 +2,7 @@
 title: "What Do I Get With an OptiSigns Free Plan?"
 article_id: 33940834613139
 source_url: https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan
-updated_at: 2026-09-07T09:51:00Z
+updated_at: 2026-09-10T09:51:52Z
 ---
 
 # What Do I Get With an OptiSigns Free Plan?

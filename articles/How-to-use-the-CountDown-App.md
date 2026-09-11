@@ -2,7 +2,7 @@
 title: "How to use the CountDown App"
 article_id: 360041638433
 source_url: https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-use-the-CountDown-App
-updated_at: 2026-05-05T17:08:12Z
+updated_at: 2026-09-11T04:37:51Z
 ---
 
 # How to use the CountDown App
@@ -36,11 +36,11 @@ The clock can display any title you like, and when it goes off, can display any 
 
 From the OptiSigns portal, go to **Files/Assets** **→ Apps:**
 
-![optisigns files and assets](https://support.optisigns.com/hc/article_attachments/45147769375379)
+![OptiSigns portal with the Files/Assets tab and the Apps button highlighted](https://support.optisigns.com/hc/article_attachments/55311088686611)
 
 On the Apps menu, select **CountDown:**
 
-![Countdown app location in optisigns](https://support.optisigns.com/hc/article_attachments/45147743659795)
+![Add App dialog with CountDown in the search box and the CountDown app highlighted](https://support.optisigns.com/hc/article_attachments/55311060248467)
 
 The below screen should open up:
 

@@ -2,7 +2,7 @@
 title: "How to Share Playlist and Folder with External Users"
 article_id: 21708242980755
 source_url: https://support.optisigns.com/hc/en-us/articles/21708242980755-How-to-Share-Playlist-and-Folder-with-External-Users
-updated_at: 2026-06-26T13:56:08Z
+updated_at: 2026-09-10T09:50:19Z
 ---
 
 # How to Share Playlist and Folder with External Users
