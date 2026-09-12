@@ -2,7 +2,7 @@
 title: "How to install OptiSigns Player on Apple TV"
 article_id: 6636047009427
 source_url: https://support.optisigns.com/hc/en-us/articles/6636047009427-How-to-install-OptiSigns-Player-on-Apple-TV
-updated_at: 2026-09-11T07:28:25Z
+updated_at: 2026-09-11T11:00:02Z
 ---
 
 # How to install OptiSigns Player on Apple TV

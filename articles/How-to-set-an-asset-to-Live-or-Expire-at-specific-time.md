@@ -2,7 +2,7 @@
 title: "How to set an asset to Live or Expire at specific time"
 article_id: 360042736794
 source_url: https://support.optisigns.com/hc/en-us/articles/360042736794-How-to-set-an-asset-to-Live-or-Expire-at-specific-time
-updated_at: 2026-07-29T17:54:19Z
+updated_at: 2026-09-11T20:37:05Z
 ---
 
 # How to set an asset to Live or Expire at specific time

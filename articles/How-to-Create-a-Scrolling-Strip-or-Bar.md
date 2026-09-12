@@ -2,7 +2,7 @@
 title: "How to Create a Scrolling Strip or Bar"
 article_id: 360026559613
 source_url: https://support.optisigns.com/hc/en-us/articles/360026559613-How-to-Create-a-Scrolling-Strip-or-Bar
-updated_at: 2026-09-08T20:13:08Z
+updated_at: 2026-09-11T08:02:40Z
 ---
 
 # How to Create a Scrolling Strip or Bar
