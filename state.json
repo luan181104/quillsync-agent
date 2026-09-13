@@ -743,14 +743,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/17342932920211-Event-logging-and-analytics-for-External-Communication-RS-232",
     "updated_at": "2026-09-10T09:49:39Z"
   },
-  "17129313173395": {
-    "hash": "ffc7fe9231bf8ebd8dd49dba86c56b375bdcf5392ff2d68f8636f0802d9f0fae",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/17129313173395howtomanagesu-if1203ra5ceu",
-    "path": "articles/How-to-manage-Sub-Account-billing-with-OptiSigns.md",
-    "slug": "How-to-manage-Sub-Account-billing-with-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/17129313173395-How-to-manage-Sub-Account-billing-with-OptiSigns",
-    "updated_at": "2026-09-10T09:49:34Z"
-  },
   "28598173096723": {
     "hash": "124b329fe6b8b653b60c3bd1082f6c86eea4c4e5b51303f99b1a1165c08fbcc9",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28598173096723howtocreatean-t4b5ljz895xq",
@@ -798,5 +790,13 @@
     "slug": "How-to-Create-a-Scrolling-Strip-or-Bar",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360026559613-How-to-Create-a-Scrolling-Strip-or-Bar",
     "updated_at": "2026-09-11T08:02:40Z"
+  },
+  "27267311796243": {
+    "hash": "a6afb38f920de9df19169ddae852decb210f73a46bb957813ace142b08584772",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/27267311796243optistick-e7z2cbchfg2q",
+    "path": "articles/OptiStick.md",
+    "slug": "OptiStick",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick",
+    "updated_at": "2026-09-13T02:35:58Z"
   }
 }
