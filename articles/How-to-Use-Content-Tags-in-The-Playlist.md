@@ -2,7 +2,7 @@
 title: "How to Use Content Tags in The Playlist"
 article_id: 20879903340947
 source_url: https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-Content-Tags-in-The-Playlist
-updated_at: 2026-09-11T11:22:47Z
+updated_at: 2026-09-14T02:42:33Z
 ---
 
 # How to Use Content Tags in The Playlist

@@ -632,12 +632,12 @@
     "updated_at": "2026-09-11T17:02:25Z"
   },
   "20879903340947": {
-    "hash": "7d57aa7c96f168bea37e2cdc280e1f3528fadd2152d2cdc6f3b47eacb5b6a3fd",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/20879903340947howtouseconte-kr0ezvhocazg",
+    "hash": "aeaecceb8400b0c72de3cf91dd0a3cc5cc6035d1ef0de54ef0afb9abb4206234",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/20879903340947howtouseconte-smdfsosguy5p",
     "path": "articles/How-to-Use-Content-Tags-in-The-Playlist.md",
     "slug": "How-to-Use-Content-Tags-in-The-Playlist",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-Content-Tags-in-The-Playlist",
-    "updated_at": "2026-09-11T11:22:47Z"
+    "updated_at": "2026-09-14T02:42:33Z"
   },
   "20750060900883": {
     "hash": "acb8bf9e6774095fa7c2ad140bacc6feef02cd0cec55babe2a8f89e62158cfc9",
@@ -735,14 +735,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/17604055961747-How-to-Create-a-Content-Library-Kiosk",
     "updated_at": "2026-09-10T09:49:41Z"
   },
-  "17342932920211": {
-    "hash": "9b9a3469b3adae9dd75f4c8220e1a546f838bef8b32c623a995a0f25d1b77ef7",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/17342932920211eventlogginga-4bgo0g7o3z9s",
-    "path": "articles/Event-logging-and-analytics-for-External-Communication-RS-232.md",
-    "slug": "Event-logging-and-analytics-for-External-Communication-RS-232",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/17342932920211-Event-logging-and-analytics-for-External-Communication-RS-232",
-    "updated_at": "2026-09-10T09:49:39Z"
-  },
   "28598173096723": {
     "hash": "124b329fe6b8b653b60c3bd1082f6c86eea4c4e5b51303f99b1a1165c08fbcc9",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28598173096723howtocreatean-t4b5ljz895xq",
@@ -798,5 +790,13 @@
     "slug": "OptiStick",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick",
     "updated_at": "2026-09-13T02:35:58Z"
+  },
+  "360016313754": {
+    "hash": "eeac265833e3b4f516e0c4f9ef7b5474d027cebf35fa06c4962a994990afe191",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016313754howtoinstallana-nakd2y2ybo25",
+    "path": "articles/How-to-Install-an-APK-file-on-your-Fire-TV.md",
+    "slug": "How-to-Install-an-APK-file-on-your-Fire-TV",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
+    "updated_at": "2026-09-13T15:02:03Z"
   }
 }
