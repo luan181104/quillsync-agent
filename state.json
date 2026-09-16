@@ -55,14 +55,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/42526907045651-Photos-GIFs-and-QR-Codes-in-Designer",
     "updated_at": "2026-09-10T10:46:45Z"
   },
-  "22875592994195": {
-    "hash": "f38dd20d7c18a67b8606c508769958daef22c70e8c9057fe174a416b09be0ff8",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/22875592994195howtointegrat-r8vyz9z5mwz7",
-    "path": "articles/How-to-Integrate-API-and-Publish-API-Data-via-OptiSync.md",
-    "slug": "How-to-Integrate-API-and-Publish-API-Data-via-OptiSync",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/22875592994195-How-to-Integrate-API-and-Publish-API-Data-via-OptiSync",
-    "updated_at": "2026-09-10T09:50:23Z"
-  },
   "44669013147923": {
     "hash": "10f33f747d5effbbf6d3451dc31c3e7b9077ff5c7ad28eea205f52247f9a2f70",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/44669013147923kiosk32-q4k1b0p1uyc4",
@@ -158,14 +150,6 @@
     "slug": "How-to-Use-the-Facebook-Counter-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360044619014-How-to-Use-the-Facebook-Counter-App",
     "updated_at": "2026-09-10T14:23:21Z"
-  },
-  "20153471319187": {
-    "hash": "a5f514d0fed98988d96bfc43f0255fa684bbca1de770428ba0d57f5229a8c43a",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/20153471319187externalstora-ufajcao520e2",
-    "path": "articles/External-Storage-on-OptiSigns-Devices.md",
-    "slug": "External-Storage-on-OptiSigns-Devices",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/20153471319187-External-Storage-on-OptiSigns-Devices",
-    "updated_at": "2026-09-10T09:50:04Z"
   },
   "6636047009427": {
     "hash": "9950e835aa4cce99a96ea448a8a8e3e0f3a8351abbc50c375d5d4ad03f82df5d",
@@ -591,14 +575,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/23566927217939-How-to-use-Check-in-app-with-SMS-follow-up",
     "updated_at": "2026-09-10T09:50:30Z"
   },
-  "23274673797139": {
-    "hash": "61c056972c7032f0aab51fb7b0aa392904d5282682db281cac6d26397386c500",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/23274673797139howtoenableau-barjx4c2vye9",
-    "path": "articles/How-to-enable-auto-start-on-FireOS-8-devices-like-Amazon-Fire-TV-Stick-4K-Gen-2-2023-model.md",
-    "slug": "How-to-enable-auto-start-on-FireOS-8-devices-like-Amazon-Fire-TV-Stick-4K-Gen-2-2023-model",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/23274673797139-How-to-enable-auto-start-on-FireOS-8-devices-like-Amazon-Fire-TV-Stick-4K-Gen-2-2023-model",
-    "updated_at": "2026-09-10T09:50:28Z"
-  },
   "23030445716883": {
     "hash": "eeb3c56d33fcf2d073f28a22dd10954d0a78c99dcbcf791cc3181a968ee4d9d1",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/23030445716883howtosetupaer-q24l6aqiwzye",
@@ -606,14 +582,6 @@
     "slug": "How-to-setup-AeriCast-Meet-Wireless-Video-Conferencing",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/23030445716883-How-to-setup-AeriCast-Meet-Wireless-Video-Conferencing",
     "updated_at": "2026-09-11T17:16:28Z"
-  },
-  "22474034993043": {
-    "hash": "55d818a44b3506c43b2d65cea75815700607a0fd9d4737638ff4c7dd5f474d8c",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/22474034993043advancedplayl-5p4rkmwsssuq",
-    "path": "articles/Advanced-Playlist-Item-Playback-Control-Campaign-Management.md",
-    "slug": "Advanced-Playlist-Item-Playback-Control-Campaign-Management",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/22474034993043-Advanced-Playlist-Item-Playback-Control-Campaign-Management",
-    "updated_at": "2026-09-10T09:50:21Z"
   },
   "21708242980755": {
     "hash": "8c8812c634b2597d2b102d00ad78d234abda90a7e3bcbf1763baabd9101fff2e",
@@ -630,30 +598,6 @@
     "slug": "How-to-Use-Content-Tags-in-The-Playlist",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-Content-Tags-in-The-Playlist",
     "updated_at": "2026-09-14T02:42:33Z"
-  },
-  "20750060900883": {
-    "hash": "acb8bf9e6774095fa7c2ad140bacc6feef02cd0cec55babe2a8f89e62158cfc9",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/20750060900883yourfacebookp-5u7t8t13xgl7",
-    "path": "articles/Your-Facebook-Page-Doesn-t-Show-in-The-Dropdown-List.md",
-    "slug": "Your-Facebook-Page-Doesn-t-Show-in-The-Dropdown-List",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/20750060900883-Your-Facebook-Page-Doesn-t-Show-in-The-Dropdown-List",
-    "updated_at": "2026-09-10T09:50:14Z"
-  },
-  "20428606424723": {
-    "hash": "9287d25f21b1a726d233ccfd975fb101e6611e09a927e13f6162a34643c4f0b8",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/20428606424723howtousecoord-tfpnfz09tkwj",
-    "path": "articles/How-to-Use-Coordinate-Based-Positioning-and-Sizing-of-Elements-in-OptiSigns-Designer.md",
-    "slug": "How-to-Use-Coordinate-Based-Positioning-and-Sizing-of-Elements-in-OptiSigns-Designer",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/20428606424723-How-to-Use-Coordinate-Based-Positioning-and-Sizing-of-Elements-in-OptiSigns-Designer",
-    "updated_at": "2026-09-10T09:50:08Z"
-  },
-  "20062273670163": {
-    "hash": "590436c71ee29df9610af772ece72050749eb5416a76dcbd8d650c89d312b302",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/20062273670163howtocontrola-r1qcx8fyufza",
-    "path": "articles/How-to-Control-and-Schedule-Playlist-Items.md",
-    "slug": "How-to-Control-and-Schedule-Playlist-Items",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/20062273670163-How-to-Control-and-Schedule-Playlist-Items",
-    "updated_at": "2026-09-10T09:50:02Z"
   },
   "28598173096723": {
     "hash": "124b329fe6b8b653b60c3bd1082f6c86eea4c4e5b51303f99b1a1165c08fbcc9",
@@ -798,5 +742,61 @@
     "slug": "Show-YouTube-video-s-subtitle-closed-caption",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360051014773-Show-YouTube-video-s-subtitle-closed-caption",
     "updated_at": "2026-09-14T11:06:00Z"
+  },
+  "360050664913": {
+    "hash": "3342f09c42ae2620c84bdc90a7e6cb15fc26200e098667d3699fb17fcddf0217",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360050664913howtousegooglet-64zscpa5yj63",
+    "path": "articles/How-to-use-Google-Trends-App.md",
+    "slug": "How-to-use-Google-Trends-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360050664913-How-to-use-Google-Trends-App",
+    "updated_at": "2026-09-16T03:55:59Z"
+  },
+  "55450681344915": {
+    "hash": "ec44380dc044eba6d25706b9fd6a2395006b3905eadbf42107974b5b3bc139a3",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/55450681344915connectsharep-0ol2m8hmiqcs",
+    "path": "articles/Connect-SharePoint-News-to-OptiSigns-Digital-Signage.md",
+    "slug": "Connect-SharePoint-News-to-OptiSigns-Digital-Signage",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/55450681344915-Connect-SharePoint-News-to-OptiSigns-Digital-Signage",
+    "updated_at": "2026-09-15T23:09:01Z"
+  },
+  "55416186918163": {
+    "hash": "ab1762e498656edc210c3f1cf45102a5f212a08ccc8a6d8ba8058de343ce8066",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/55416186918163howtogetamicr-6s1jw7pl5lwx",
+    "path": "articles/How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast.md",
+    "slug": "How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast",
+    "updated_at": "2026-09-15T17:33:06Z"
+  },
+  "55416185869331": {
+    "hash": "b5973967d133c4f65489ab606327c52e798c5beee2bd228bc76f07de9b9e5d44",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/55416185869331broadcastsend-mv3mip98c0pu",
+    "path": "articles/Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards.md",
+    "slug": "Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards",
+    "updated_at": "2026-09-15T15:34:23Z"
+  },
+  "360056977214": {
+    "hash": "a07abba83b8c3817ed34224f54a2bbe774db1050bfa00d9b85aa7d9d4aff7863",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360056977214howtousegoogles-noc7voq0l8gd",
+    "path": "articles/How-to-use-Google-Sheets-with-OptiSigns.md",
+    "slug": "How-to-use-Google-Sheets-with-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360056977214-How-to-use-Google-Sheets-with-OptiSigns",
+    "updated_at": "2026-09-15T14:05:54Z"
+  },
+  "360047499893": {
+    "hash": "7ae9f5f458e82ebaeda044ab1bf44e509955eff325f68796db5e4440e184a42b",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360047499893howtousegooglet-g854ub23xe32",
+    "path": "articles/How-to-use-Google-Traffic-App.md",
+    "slug": "How-to-use-Google-Traffic-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360047499893-How-to-use-Google-Traffic-App",
+    "updated_at": "2026-09-15T11:32:26Z"
+  },
+  "360051014713": {
+    "hash": "a3c11878283f373dc9fed5bbf7a83a47d9ebd511ab02f08f1505b5b8512acbf8",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360051014713howtouseyoutube-vb4f7dmckfn9",
+    "path": "articles/How-to-Use-YouTube-with-OptiSigns.md",
+    "slug": "How-to-Use-YouTube-with-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
+    "updated_at": "2026-09-15T09:51:14Z"
   }
 }
