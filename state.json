@@ -127,14 +127,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360016376793-What-happen-if-internet-connection-is-lost",
     "updated_at": "2026-09-10T15:27:50Z"
   },
-  "24338756617747": {
-    "hash": "bc36f39607738c473c5a5274651066032c025f4300a5a8dd09537bf34cb84dfe",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/24338756617747feedsandhowto-qpdshrox9nsx",
-    "path": "articles/Feeds-and-How-to-Use-Them.md",
-    "slug": "Feeds-and-How-to-Use-Them",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/24338756617747-Feeds-and-How-to-Use-Them",
-    "updated_at": "2026-09-10T09:50:35Z"
-  },
   "360044115513": {
     "hash": "49b9e6138a4457e4e92d573df2e8304ea7cf54385d1a538400f8ddface26c153",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360044115513howtousethestoc-k0l6hc19rslm",
@@ -559,22 +551,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/25607930101907-How-to-get-the-most-out-of-your-Digital-Signs",
     "updated_at": "2026-09-10T09:50:43Z"
   },
-  "25273043501587": {
-    "hash": "6d61a7768ce9eaf4eddfd802f4682bf96a23ddc17ea1ceaf3f2eead82612fbe4",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/25273043501587howtolockdown-msiqcbfpw1v8",
-    "path": "articles/How-to-Lockdown-iPad-Single-App-with-Guided-Accessibility.md",
-    "slug": "How-to-Lockdown-iPad-Single-App-with-Guided-Accessibility",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/25273043501587-How-to-Lockdown-iPad-Single-App-with-Guided-Accessibility",
-    "updated_at": "2026-09-10T09:50:40Z"
-  },
-  "23566927217939": {
-    "hash": "2a968b8d8de2f9007f1eec7abb85b6de44d6ecea57e6862eb0d81892139a8f21",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/23566927217939howtousecheck-llv5smrkhw6v",
-    "path": "articles/How-to-use-Check-in-app-with-SMS-follow-up.md",
-    "slug": "How-to-use-Check-in-app-with-SMS-follow-up",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/23566927217939-How-to-use-Check-in-app-with-SMS-follow-up",
-    "updated_at": "2026-09-10T09:50:30Z"
-  },
   "23030445716883": {
     "hash": "eeb3c56d33fcf2d073f28a22dd10954d0a78c99dcbcf791cc3181a968ee4d9d1",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/23030445716883howtosetupaer-q24l6aqiwzye",
@@ -798,5 +774,29 @@
     "slug": "How-to-Use-YouTube-with-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
     "updated_at": "2026-09-15T09:51:14Z"
+  },
+  "360047275934": {
+    "hash": "d21b10c1630fcd1117d46920ed0bb4cdea23dbfcd50b8c0b64e3ffc0dd7ff1fd",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360047275934whitelistoptisi-29h5k3g8r4xq",
+    "path": "articles/Whitelist-OptiSigns-IP-addresses-ports.md",
+    "slug": "Whitelist-OptiSigns-IP-addresses-ports",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
+    "updated_at": "2026-09-17T05:36:01Z"
+  },
+  "10159088954387": {
+    "hash": "7b0ac0d2962c736cda9185c56a723bfb3ace1045339d180f382b7ceb61a2426e",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/10159088954387howtoputlivet-jkgdo22iwezv",
+    "path": "articles/How-to-put-Live-TV-on-your-screens-with-OptiSigns.md",
+    "slug": "How-to-put-Live-TV-on-your-screens-with-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/10159088954387-How-to-put-Live-TV-on-your-screens-with-OptiSigns",
+    "updated_at": "2026-09-17T05:00:57Z"
+  },
+  "360016833514": {
+    "hash": "503a4d93b974ecf540611d17a1334bceddf62c258ed737644d5ae7c4d83a8720",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016833514changingscreens-62cxvcjeqgj5",
+    "path": "articles/Changing-screen-s-orientation-portrait-landscape.md",
+    "slug": "Changing-screen-s-orientation-portrait-landscape",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360016833514-Changing-screen-s-orientation-portrait-landscape",
+    "updated_at": "2026-09-17T04:18:56Z"
   }
 }
