@@ -2,7 +2,7 @@
 title: "Assign content to your screens"
 article_id: 360016375153
 source_url: https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens
-updated_at: 2026-09-01T22:55:42Z
+updated_at: 2026-09-17T10:07:46Z
 ---
 
 # Assign content to your screens
@@ -14,26 +14,26 @@ The steps below are for you to assign a playlist, but you can follow the same pr
 
 ### 1\) Assign content to your screen
 
-To assign the playlist to your screen: Go to the **Screen** tab.
+To assign the playlist to your screen: Go to the **Screens** tab.
 
-![](https://support.optisigns.com/hc/article_attachments/19315187359123)
+![OptiSigns top navigation with the Screens tab highlighted](https://support.optisigns.com/hc/article_attachments/55502788583059)
 
 Click "**Edit**" button on the screen you want to change.
 
-![](https://support.optisigns.com/hc/article_attachments/19315221562387)
+![Screens list row with the Edit button highlighted](https://support.optisigns.com/hc/article_attachments/55502827546899)
 
-Click the Type drop\-down list and select Playlist.
+Click the Content Type drop\-down list and select Playlist.
 
-![](https://support.optisigns.com/hc/article_attachments/19315265234067)
+![Edit Screen dialog, Content Type list open: Asset, Playlist, Schedule, Stop Playing](https://support.optisigns.com/hc/article_attachments/55502816170131)
  
 
-Click the Selected Playlist drop\-down and select the playlist you've created. In this case, we select "Lobby TV Playlist"
+Click the Selected Playlist drop\-down and select the playlist you've created. In this case, we select "Playlist 2"
 
-![](https://support.optisigns.com/hc/article_attachments/19315320625555)
+![Edit Screen dialog, Selected Playlist search list open with a playlist highlighted](https://support.optisigns.com/hc/article_attachments/55502801613459)
 
 Click **Save**
 
-![](https://support.optisigns.com/hc/article_attachments/19315343621395)
+![Edit Screen dialog with a playlist selected and the Save button highlighted](https://support.optisigns.com/hc/article_attachments/55502831505299)
  
 
 That's all, the Screen will be updated.
@@ -42,12 +42,12 @@ That's all, the Screen will be updated.
 
 After you select your content, you can click the **Schedule** button.
 
-![](https://support.optisigns.com/hc/article_attachments/19315402767763)
+![Edit Screen dialog with the Schedule button highlighted beside Close and Save](https://support.optisigns.com/hc/article_attachments/55502831690899)
 
 Then you can set up the schedule to go\-live  
-![](https://support.optisigns.com/hc/article_attachments/19315466202003)
+![Schedule dialog with Go-Live Date and Time highlighted above the expiration fields](https://support.optisigns.com/hc/article_attachments/55502816505363)
 
-- **Schedule go\-live time**:
+- **Go\-Live Date \& Time**:
 	- Set a time when you want the screens to start playing this content. The screen(s) will play this content from this time onward.
 	- An Expiration feature will also be provided to stop the content that is temporarily assigned.
 
