@@ -7,14 +7,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Stick",
     "updated_at": "2026-09-10T09:51:37Z"
   },
-  "27463953562899": {
-    "hash": "200ac643a806e61590a86fd44844844db3c62fe6f6fa03d433eb27d155d54b07",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/27463953562899amazontvfires-ni3q3zobcthw",
-    "path": "articles/Amazon-TV-FireStick-Troubleshooting-Guide.md",
-    "slug": "Amazon-TV-FireStick-Troubleshooting-Guide",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide",
-    "updated_at": "2026-09-10T09:50:48Z"
-  },
   "29217646663187": {
     "hash": "6f7650d413724a30cc0a53871a054a590ddb10a119cd852cd65c76593ef19531",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/29217646663187howtosetupdyn-si5bl42l1o1c",
@@ -320,12 +312,12 @@
     "updated_at": "2026-09-10T10:46:39Z"
   },
   "40671590645651": {
-    "hash": "25ceb9382a66267fe5eb67dd8a52b08bc8d3056486971110f974b31088e7f95d",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/40671590645651howtoplaylice-ggr7q48yp582",
+    "hash": "591cef587d3b11b2fd1efc7a156071d2f8311bdf47b67b8d09c001dca3f1d8fb",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/40671590645651howtoplaylice-6dmsfeodx1mk",
     "path": "articles/How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound.md",
     "slug": "How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound",
-    "updated_at": "2026-09-10T10:46:35Z"
+    "updated_at": "2026-09-18T13:02:26Z"
   },
   "40212027797523": {
     "hash": "c239daac3d38912cc4cd205859e15b23b16af12a5789354f731eb86ce3820302",
@@ -518,30 +510,6 @@
     "slug": "AI-Camera-App-Quick-Start",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/27690296225555-AI-Camera-App-Quick-Start",
     "updated_at": "2026-09-10T09:50:56Z"
-  },
-  "27676133574547": {
-    "hash": "50aaac3f73e82e6e0d46357350324f3642e926fa0cc93038814113f972deb947",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/27676133574547ireceivedtheo-nd2dgyvw8w30",
-    "path": "articles/I-received-the-OptiSigns-device-but-it-s-OnHold-and-cannot-assign-content.md",
-    "slug": "I-received-the-OptiSigns-device-but-it-s-OnHold-and-cannot-assign-content",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/27676133574547-I-received-the-OptiSigns-device-but-it-s-OnHold-and-cannot-assign-content",
-    "updated_at": "2026-09-10T09:50:55Z"
-  },
-  "27607906766483": {
-    "hash": "ecd0e161a608e1b75d00dfcd0834e61e11349ae22765c6f23c356bbb6667603f",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/27607906766483howtofixthesc-5bzc0x9wj3ps",
-    "path": "articles/How-to-Fix-The-Scaling-Issue-on-OptiSigns-Android-Device.md",
-    "slug": "How-to-Fix-The-Scaling-Issue-on-OptiSigns-Android-Device",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/27607906766483-How-to-Fix-The-Scaling-Issue-on-OptiSigns-Android-Device",
-    "updated_at": "2026-09-10T09:50:53Z"
-  },
-  "27458261258387": {
-    "hash": "7bffde918f425229f5f4aaedd441eaf89c444a239016a7ce68b03bb66d266e36",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/27458261258387movescreensor-hukpb1s6liud",
-    "path": "articles/Move-Screens-or-Devices-from-One-Account-to-Another.md",
-    "slug": "Move-Screens-or-Devices-from-One-Account-to-Another",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/27458261258387-Move-Screens-or-Devices-from-One-Account-to-Another",
-    "updated_at": "2026-09-10T09:50:47Z"
   },
   "23030445716883": {
     "hash": "eeb3c56d33fcf2d073f28a22dd10954d0a78c99dcbcf791cc3181a968ee4d9d1",
@@ -744,12 +712,12 @@
     "updated_at": "2026-09-15T15:34:23Z"
   },
   "360056977214": {
-    "hash": "a07abba83b8c3817ed34224f54a2bbe774db1050bfa00d9b85aa7d9d4aff7863",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360056977214howtousegoogles-noc7voq0l8gd",
-    "path": "articles/How-to-use-Google-Sheets-with-OptiSigns.md",
-    "slug": "How-to-use-Google-Sheets-with-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360056977214-How-to-use-Google-Sheets-with-OptiSigns",
-    "updated_at": "2026-09-15T14:05:54Z"
+    "hash": "145422c339bdb1d4b9e84eea920a60fd12a4de3a64a07bbfe6cc92116cf5f331",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360056977214howtousegoogles-5tldaavw23qs",
+    "path": "articles/How-to-Use-Google-Sheets-with-OptiSigns.md",
+    "slug": "How-to-Use-Google-Sheets-with-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360056977214-How-to-Use-Google-Sheets-with-OptiSigns",
+    "updated_at": "2026-09-18T19:56:41Z"
   },
   "360047499893": {
     "hash": "7ae9f5f458e82ebaeda044ab1bf44e509955eff325f68796db5e4440e184a42b",
@@ -792,11 +760,43 @@
     "updated_at": "2026-09-17T04:18:56Z"
   },
   "360016375153": {
-    "hash": "012186df27b3b62e9851e1e891722eb0c1a43c671b8da7ab5252ac8cb13062ae",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016375153assigncontentto-7hmk6797a3s4",
+    "hash": "19c4a4d08b8adc5420622c222d9879c41bb3776d4cf08b78ba3f7fe3b81cf7c2",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016375153assigncontentto-z94eu60chzra",
     "path": "articles/Assign-content-to-your-screens.md",
     "slug": "Assign-content-to-your-screens",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens",
-    "updated_at": "2026-09-17T10:07:46Z"
+    "updated_at": "2026-09-18T08:49:43Z"
+  },
+  "6604468198291": {
+    "hash": "bf6c43be38d96272a4919ea53c3f4ba92c07c5e150322ff531d254528dfd2868",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/6604468198291howtousethecap-0udi7a6bddsk",
+    "path": "articles/How-to-Use-the-CAP-Alert-App.md",
+    "slug": "How-to-Use-the-CAP-Alert-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/6604468198291-How-to-Use-the-CAP-Alert-App",
+    "updated_at": "2026-09-18T20:09:38Z"
+  },
+  "4404608957075": {
+    "hash": "b2fc4573b16e79b8fba50b7695cd5b2a663fc18ecc39589ce4a04381644bddb8",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4404608957075howtodeleteyou-josrxo4ddxy6",
+    "path": "articles/How-to-Delete-Your-Account-from-OptiSigns.md",
+    "slug": "How-to-Delete-Your-Account-from-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
+    "updated_at": "2026-09-18T13:52:14Z"
+  },
+  "360055900513": {
+    "hash": "e0942cc235709ddb419721bcc4d803c637acf0a0b153f2fa217658173140a680",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360055900513howtocreateandu-97i9l2o4qexj",
+    "path": "articles/How-to-create-and-use-Virtual-Screen-App.md",
+    "slug": "How-to-create-and-use-Virtual-Screen-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360055900513-How-to-create-and-use-Virtual-Screen-App",
+    "updated_at": "2026-09-18T11:46:30Z"
+  },
+  "360034883113": {
+    "hash": "455bc6dd9ca8666653cb1d7770e6e116b1fa334c4a7340efab6ea9c5ea7da917",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360034883113workingwithteam-m8hcm4x981av",
+    "path": "articles/Working-with-Teams-and-Security-Levels.md",
+    "slug": "Working-with-Teams-and-Security-Levels",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
+    "updated_at": "2026-09-18T10:36:31Z"
   }
 }

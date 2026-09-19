@@ -2,7 +2,7 @@
 title: "Assign content to your screens"
 article_id: 360016375153
 source_url: https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens
-updated_at: 2026-09-17T10:07:46Z
+updated_at: 2026-09-18T08:49:43Z
 ---
 
 # Assign content to your screens
@@ -45,7 +45,7 @@ After you select your content, you can click the **Schedule** button.
 ![Edit Screen dialog with the Schedule button highlighted beside Close and Save](https://support.optisigns.com/hc/article_attachments/55502831690899)
 
 Then you can set up the schedule to go\-live  
-![Schedule dialog with Go-Live Date and Time highlighted above the expiration fields](https://support.optisigns.com/hc/article_attachments/55502816505363)
+![Schedule dialog: Go-Live Date and Time highlighted, Set expiration time ticked with End Date filled](https://support.optisigns.com/hc/article_attachments/55538857051411)
 
 - **Go\-Live Date \& Time**:
 	- Set a time when you want the screens to start playing this content. The screen(s) will play this content from this time onward.
