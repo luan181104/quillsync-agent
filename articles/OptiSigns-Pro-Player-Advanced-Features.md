@@ -2,7 +2,7 @@
 title: "OptiSigns Pro Player Advanced Features"
 article_id: 35577511423635
 source_url: https://support.optisigns.com/hc/en-us/articles/35577511423635-OptiSigns-Pro-Player-Advanced-Features
-updated_at: 2026-03-30T17:22:38Z
+updated_at: 2026-09-21T15:11:34Z
 ---
 
 # OptiSigns Pro Player Advanced Features
@@ -38,7 +38,7 @@ But there’s even more to the [**Pro Player than its standard features**](https
 
 The OptiSigns Pro Player makes use of OTA updates to receive security patches, platform enhancements, additional feature support, and more.
 
-![](https://support.optisigns.com/hc/article_attachments/35577511371795)
+![Pro Player OTA dialog: Enable Device OTA Update and Reset device after OTA on, with hour, minute and day pickers](https://support.optisigns.com/hc/article_attachments/35577511371795)
 
 By default, the Pro Player can be set to check for updates once per week at a time you specify from the device itself. If an update is available, it will be automatically downloaded as long as the player has an internet connection. It’s also possible to force an OTA update if necessary.
 
@@ -46,17 +46,21 @@ By default, the Pro Player can be set to check for updates once per week at a ti
 
 To change the OTA Update time from the portal or across multiple devices, read on.
 
-| **NOTE** |
-| --- |
-| This has to be done on the original 1\.0 OptiSigns portal. |
-
 First, find your screen. Navigate to **Advanced** → **Down Arrow** → **OTA Update.**
 
-![](https://support.optisigns.com/hc/article_attachments/49004214269459)The below window will appear:
+**EDITOR’S NOTE — Route confirmed, image re\-shot. For a Pro / Pro Max the OTA Update item is deliberately HIDDEN from the Edit Screen footer menu and surfaced in the Advanced section's more\-commands dropdown instead (MdmButtonRow.tsx, comment '\#1094'), which is exactly the Advanced then down\-arrow then OTA Update path described here. Two changes inside that menu: 'Get used storage/free storage' is now 'Storage Details', and an Enable/Disable Auto Update item has been added. (delete before publishing)**
 
-![](https://support.optisigns.com/hc/article_attachments/49004214271123)Here, choose the day of the week and time of day for your OTA update. You can choose from various builds as well under the **Channel** option:
+![Edit Screen dialog, Advanced more-commands menu open, arrow on OTA Update](https://support.optisigns.com/hc/article_attachments/55627986414099)
 
-![](https://support.optisigns.com/hc/article_attachments/49004252034451)You can also **Reset after OTA**, which will automatically restart the Pro or ProMax player after the OTA Update is complete.
+The below window will appear:
+
+![OTA Update dialog: Channel, Day, Time of Day, Restart after OTA, and Save](https://support.optisigns.com/hc/article_attachments/55628000995219)
+
+Here, choose the day of the week and time of day for your OTA update. You can choose from various builds as well under the **Channel** option:
+
+![OTA Update Channel list open, Latest Stable ticked and Beta Test below it](https://support.optisigns.com/hc/article_attachments/55628000998035)
+
+You can also **Restart after OTA**, which will automatically restart the Pro or ProMax player after the OTA Update is complete.
 
 Finally, you'll be able to check for an update and automatically apply it here, or receive instructions on how to manually reimage your Pro/ProMax Player.
 
@@ -66,15 +70,15 @@ If your device misses its update window, either due to being powered off, or lac
 
 In order to do this, you’ll need access to the OptiSigns Portal. From the **Screens tab**, click the **3 Dots** **→ Execute Remote Commands**.
 
-![](https://support.optisigns.com/hc/article_attachments/35577511373587)
+![Screens toolbar menu open, arrow on Execute Remote Commands](https://support.optisigns.com/hc/article_attachments/55627986422035)
 
-You’ll be taken to the below screen:
+This will open the following options:
 
-![](https://support.optisigns.com/hc/article_attachments/35577555668755)
+![Execute Remote Commands dialog with the Command field highlighted, above the execution history table](https://support.optisigns.com/hc/article_attachments/55628001004947)
 
 Target the screen you’ve paired with your OptiSigns Pro Player, then enter the **forceOTA** command in the highlighted field. After a few seconds, you should see the following:
 
-![](https://support.optisigns.com/hc/article_attachments/35577511382803)
+![Execute Remote Commands dialog after sending forceOTA to a Pro Player, shown as Executed](https://support.optisigns.com/hc/article_attachments/55628001007891)
 
 This means the OptiSigns Pro Player has received the command and executed it. It should now be receiving its update.
 
@@ -85,9 +89,9 @@ This means the OptiSigns Pro Player has received the command and executed it. It
 
 ## The ‘About’ Option
 
-The **About** option provides data on your Pro Player, in addition to different options.
+The **About** option provides data on your Pro Player, in addition to different options. This option is accessed from the Side Menu.
 
-![](https://support.optisigns.com/hc/article_attachments/35577555680659)
+![Pro Player About screen: version, device info, CPU, RAM and storage, with Reboot and Advanced Settings](https://support.optisigns.com/hc/article_attachments/35577555680659)
 
 This lets you know everything from the name attached to your screen, to whether the Player is connected to the internet, to the storage used.
 
@@ -102,17 +106,17 @@ It also provides further options.
 
 The device log option allows you to export the device log into an external device. In order to use this option, you’ll need a USB drive or MicroSD card plugged into your Pro Player. When you hit the **Device Log** option with an external drive plugged in, you’ll see the following message:
 
-![](https://support.optisigns.com/hc/article_attachments/35577555683603)
+![Pro Player message confirming the device log was exported to a zip file, with a Close button](https://support.optisigns.com/hc/article_attachments/35577555683603)
 
 You can then take your external device and do whatever you like with the device log.
 
 ### Advanced Settings
 
-![](https://support.optisigns.com/hc/article_attachments/44646006336915)
+![Pro Player Advanced Settings: Hostname plus toggles for proxy, NTP, keyboard, SSH, static IP and 802.1x](https://support.optisigns.com/hc/article_attachments/44646006336915)
 
 On the **Advanced Settings** screen, you can perform various functions such as enabling/disabling Network Proxy, NTP, the On\-screen Keyboard, SSH, configuring a Static IP for either WLAN or Ethernet, and enabling 802\.1x Ethernet. Selecting any of these options will enable further options in the window:
 
-![](https://support.optisigns.com/hc/article_attachments/44646006339731)
+![Advanced Settings fields: certificate, NTP server, Wi-Fi SSH IP and port, proxy, keyboard layout, WLAN static IP](https://support.optisigns.com/hc/article_attachments/44646006339731)
 
 - **Certificate File** **\-** Allows you to [install a root certificate](https://support.optisigns.com/hc/en-us/articles/35184720136595-How-to-Install-a-Root-Certificate-and-Display-an-Internal-Website-on-Screens) for displaying an internal website. The certificate will need to be present locally on the device in order for it to be installed.
 - **NTP Server \-** Input server information for your Network Time Protocol (NTP). This can be used to ensure the OptiSigns Pro Player has its computer clock time with other time sources in your network.
@@ -125,7 +129,7 @@ On the **Advanced Settings** screen, you can perform various functions such as e
 	- **Subnet Mask**\- Set the Subnet Mask for the Static IP. Usually, this number is 255\.255\.255\.0 or some variant of this.
 	- **DNS Server**\- Lets you set up your DNS server for the Static IP address.
 
-![](https://support.optisigns.com/hc/article_attachments/44646006341779)
+![802.1x fields for UserName, Password and Certificate with a Browse button, above Cancel and OK](https://support.optisigns.com/hc/article_attachments/44646006341779)
 
 - **802\.1x UserName**\- Username of the 802\.1x Enterprise Ethernet network
 - **802\.1x Password**\- Password of the 802\.1x Enterprise Ethernet network
@@ -141,24 +145,24 @@ The OptiSigns Pro Player has a console you can use to input commands directly. T
 
 Remote Command Execution is disabled by default. To use it, it will need to be turned on. To do this, navigate to [the Preferences section](https://app.optisigns.com/app/s/preference-settings) in the OptiSigns portal.
 
-| For security reasons, **only the account owner** can enable or disable Remote Command Execution. |
+| For security reasons, **only the account owner or Super Admin** can enable or disable Remote Command Execution. |
 | --- |
 
-[![](https://support.optisigns.com/hc/article_attachments/45161221791635)](https://support.optisigns.com/hc/article_attachments/45161221791635)
+[![Preferences, General section, with Enable Remote Command ticked and highlighted](https://support.optisigns.com/hc/article_attachments/55627986425491)](https://support.optisigns.com/hc/article_attachments/45161221791635)
 
 ### Executing Remote Commands
 
-Now we can actually send Remote Commands from the OptiSigns portal to your Pro or ProMax player. From the **Screens tab**, click the **3 Dots** **→ Execute Remote Commands**.
+Now we can actually send Remote Commands from the OptiSigns portal to your Pro or ProMax player. From the **Screens tab**, click the **3 Dots** **→ Execute Remote Commands.**
 
-![](https://support.optisigns.com/hc/article_attachments/35577555693075)
+![Screens toolbar menu open, arrow on Execute Remote Commands](https://support.optisigns.com/hc/article_attachments/55627986422035)
 
-You’ll be taken to the below screen:
+This will open the following options:
 
-![](https://support.optisigns.com/hc/article_attachments/35577555668755)
+![Execute Remote Commands dialog with the Command field highlighted, above the execution history table](https://support.optisigns.com/hc/article_attachments/55628001004947)
 
 Target the screen you’ve paired with your OptiSigns Pro Player, then enter the **showTerminal** command in the highlighted field. After a few seconds, you should see the following:
 
-![](https://support.optisigns.com/hc/article_attachments/35577511404819)
+![Execute Remote Commands dialog after sending showTerminal to a Pro Player, shown as Executed](https://support.optisigns.com/hc/article_attachments/55627986427283)
 
 This means the OptiSigns Pro Player has received the command and executed it. Your console terminal should now be visible on your screen and can be interacted with.
 
@@ -170,15 +174,15 @@ Pro Players allow remoting into devices using SSH. Here's how to set that up.
 
 First, enable **SSH**in your Advanced Settings.
 
-![ssh advanced settings](https://support.optisigns.com/hc/article_attachments/40985616289939)
+![Pro Player Advanced Settings with the SSH toggle switched on, marked by an arrow](https://support.optisigns.com/hc/article_attachments/40985616289939)
 
 This will provide you with the SSH IP and Port number. By default, the port is **3000**, but it can be changed to whatever you like.
 
-![ssh ip and port](https://support.optisigns.com/hc/article_attachments/40985596548243)
+![Advanced Settings showing the Wi-Fi SSH IP field and its port, set to 3000](https://support.optisigns.com/hc/article_attachments/40985596548243)
 
-Now that SSH is enabled and you have the IP and Port, you can use a computer terminal to remote into the device.
+Now that SSH is enabled and you have the IP and Port, you can use another computer terminal to remote into the device.
 
-Type the following command:
+Type the following command in that computer terminal:
 
 ```
 SSH [optisigns@<ip-address-here>](mailto:optisigns@<ip-address-here>) -p <port-number-here>
@@ -192,7 +196,7 @@ passwd
 ```
 This will ask you to type the current password, then new, then to type in the new password again.
 
-![](https://support.optisigns.com/hc/article_attachments/41021980486931)
+![Terminal running passwd, prompting for the current password then a new one twice](https://support.optisigns.com/hc/article_attachments/41021980486931)
 
 | **NOTE** |
 | --- |
@@ -208,11 +212,11 @@ Sometimes, it might be necessary to perform a factory reset on your OptiSigns Pr
 
 To do this, attach a keyboard to the Player. Then, **Reboot** it. As it restarts, rapidly tap the **↑ arrow**. It will boot into this screen:
 
-![](https://support.optisigns.com/hc/article_attachments/35577555703187)
+![Pro Player boot menu: Repair Device, Factory Reset, boot, and Reboot Into Firmware Interface](https://support.optisigns.com/hc/article_attachments/35577555703187)
 
 Here, you have several additional options. Hit **Factory Reset**. You’ll receive this prompt:
 
-![](https://support.optisigns.com/hc/article_attachments/35577555704723)
+![Black player console prompting for the admin password to restore factory settings](https://support.optisigns.com/hc/article_attachments/35577555704723)
 
 You’ll need to enter your **admin password.**
 
@@ -222,7 +226,7 @@ You’ll need to enter your **admin password.**
 
 Once entered, you’ll see a screen like this:
 
-![](https://support.optisigns.com/hc/article_attachments/35577555707923)
+![Player console showing RESTORE FACTORY and RESTORE SYSTEM progress messages](https://support.optisigns.com/hc/article_attachments/35577555707923)
 
 Afterwards, your factory defaults will be restored.
 

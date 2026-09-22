@@ -471,46 +471,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/28427819992979-Performance-Stability-issues-on-Android-devices-and-Best-Practices",
     "updated_at": "2026-09-10T09:51:09Z"
   },
-  "28424138317971": {
-    "hash": "5203bf744ba03d2f6b92d434a158a767470fdafc312d534d159030d736effe69",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28424138317971samsungtizent-fjqxes97p8xd",
-    "path": "articles/Samsung-Tizen-TVs-Troubleshooting-Guide.md",
-    "slug": "Samsung-Tizen-TVs-Troubleshooting-Guide",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/28424138317971-Samsung-Tizen-TVs-Troubleshooting-Guide",
-    "updated_at": "2026-09-10T09:51:08Z"
-  },
-  "28421615261971": {
-    "hash": "8bd191e0c0207fae1fb884399ec1c10bdfb290b8cd7c45b804d209771e89f92b",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28421615261971rokutroublesh-idlwhom05lc0",
-    "path": "articles/Roku-Troubleshooting-guide.md",
-    "slug": "Roku-Troubleshooting-guide",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/28421615261971-Roku-Troubleshooting-guide",
-    "updated_at": "2026-09-10T09:51:05Z"
-  },
-  "28295104605843": {
-    "hash": "824bf0d46f4f031b91bce395a94909c16b15c0b126642d185c02931f7d02d5b4",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28295104605843howtocreateus-azlt9r4srsai",
-    "path": "articles/How-to-Create-Use-Playlists.md",
-    "slug": "How-to-Create-Use-Playlists",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists",
-    "updated_at": "2026-09-10T09:51:04Z"
-  },
-  "28026588373139": {
-    "hash": "4674acbcd87bfc8603c53289765094f47863b8eb16482d6e067b571381252a1a",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28026588373139howtofixthesc-azzgpu3btg7r",
-    "path": "articles/How-to-Fix-The-Scaling-Issue-on-OptiSigns-Android-Device-Gen-3.md",
-    "slug": "How-to-Fix-The-Scaling-Issue-on-OptiSigns-Android-Device-Gen-3",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/28026588373139-How-to-Fix-The-Scaling-Issue-on-OptiSigns-Android-Device-Gen-3",
-    "updated_at": "2026-09-10T09:50:58Z"
-  },
-  "27690296225555": {
-    "hash": "c5e2635230a0eb0f68aa8fcc95ea5122969a06c7bd4ea97c6c79cf5d6686a6e2",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/27690296225555aicameraappqu-29v4egtjxlzn",
-    "path": "articles/AI-Camera-App-Quick-Start.md",
-    "slug": "AI-Camera-App-Quick-Start",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/27690296225555-AI-Camera-App-Quick-Start",
-    "updated_at": "2026-09-10T09:50:56Z"
-  },
   "23030445716883": {
     "hash": "eeb3c56d33fcf2d073f28a22dd10954d0a78c99dcbcf791cc3181a968ee4d9d1",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/23030445716883howtosetupaer-q24l6aqiwzye",
@@ -798,5 +758,45 @@
     "slug": "Working-with-Teams-and-Security-Levels",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
     "updated_at": "2026-09-18T10:36:31Z"
+  },
+  "4403332894867": {
+    "hash": "dbdb31ddac281bc4be41ffcfb961792f32a67f382c58244ebb2feabc7f3375ae",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4403332894867settingupaudit-d06rio08qjr1",
+    "path": "articles/Setting-Up-Audit-Logging.md",
+    "slug": "Setting-Up-Audit-Logging",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4403332894867-Setting-Up-Audit-Logging",
+    "updated_at": "2026-09-21T20:44:11Z"
+  },
+  "55640830295187": {
+    "hash": "24fb2fb1b15286819031de9138e6696de4be8b49a0049170bb904a3c04cde177",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/55640830295187usingthejapan-y89kdanl1j91",
+    "path": "articles/Using-the-Japan-Transit-App.md",
+    "slug": "Using-the-Japan-Transit-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/55640830295187-Using-the-Japan-Transit-App",
+    "updated_at": "2026-09-21T20:41:52Z"
+  },
+  "31695220475283": {
+    "hash": "c597ab7cbcbe635b919b9c676f1cd6619a6ee15ab13e47fb7e8430f9115560cf",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/31695220475283configuringma-uzppuihb1bil",
+    "path": "articles/Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices.md",
+    "slug": "Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices",
+    "updated_at": "2026-09-21T19:42:14Z"
+  },
+  "4411762539027": {
+    "hash": "94c59c7203819a3437b48d207d9b8bc5168594861ef9d13c76f403b72be037ec",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4411762539027multilingualan-6mr0spaq4ckl",
+    "path": "articles/Multilingual-and-Multi-Currency-Options.md",
+    "slug": "Multilingual-and-Multi-Currency-Options",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4411762539027-Multilingual-and-Multi-Currency-Options",
+    "updated_at": "2026-09-21T17:51:53Z"
+  },
+  "35577511423635": {
+    "hash": "48757b2189ecad2e54fd52cbf5c60440d538748c584c05545ada847fe8d857b2",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/35577511423635optisignsprop-z7cskdm50zql",
+    "path": "articles/OptiSigns-Pro-Player-Advanced-Features.md",
+    "slug": "OptiSigns-Pro-Player-Advanced-Features",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/35577511423635-OptiSigns-Pro-Player-Advanced-Features",
+    "updated_at": "2026-09-21T15:11:34Z"
   }
 }
