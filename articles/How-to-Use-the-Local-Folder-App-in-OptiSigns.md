@@ -2,7 +2,7 @@
 title: "How to Use the Local Folder App in OptiSigns"
 article_id: 1500001985341
 source_url: https://support.optisigns.com/hc/en-us/articles/1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns
-updated_at: 2026-09-11T11:30:23Z
+updated_at: 2026-09-22T15:01:01Z
 ---
 
 # How to Use the Local Folder App in OptiSigns
@@ -14,7 +14,7 @@ Article URL: https://support.optisigns.com/hc/en-us/articles/1500001985341-How-t
 - [How to Set Up the Local Folder App](#Setup)
 	- [For Windows](#Windows)
 	- [For Mac/Linux/Ubuntu/Raspberry Pi](#Mac)
-	- [For the OptiSigns Android Stick](#Stick)
+	- [For the OptiStick](#Stick)
 	- [For the OptiSigns Pro Player](#ProPlayer)
 
 Sometimes, due to network limitations or security reasons, you'll have content you'd rather keep locally at your device. The Local Folder app allows you to access content stored locally.
@@ -42,12 +42,12 @@ Then log on to our portal: <https://app.optisigns.com/>
 
 Go to **Files/Assets** and click on **"Apps"**:
 
-![OptiSigns Files/Assets page with a red arrow pointing at the Apps button in the left sidebar](https://support.optisigns.com/hc/article_attachments/55316511607955)
+![Files/Assets page with a red arrow pointing at the Apps button in the left sidebar](https://support.optisigns.com/hc/article_attachments/55666381491987)
 Find the **Local Folder** app:
-![Add App dialog searched for Local Folder, red arrow pointing at the Local Folder app tile](https://support.optisigns.com/hc/article_attachments/55316458711059)
+![Add App dialog searched for Local Folder, red arrow pointing at the Local Folder app tile](https://support.optisigns.com/hc/article_attachments/55666355587603)
  
-Enter the path to your local folder (explained in more detail below) and other settings:
-![Local Folder settings form: Name, Local Folder path, transitions, durations, scaling, Shuffle](https://support.optisigns.com/hc/article_attachments/55316529788051)
+Enter your **local folder path** (detailed instructions per platform below) and configure the app settings:
+![Local Folder settings form: Name, Local Folder, transition, duration, scaling and Shuffle fields](https://support.optisigns.com/hc/article_attachments/55666355588627)
 
 - **Name** \- Name of your Local Folder app. This will be displayed on your asset list, and will **not** be displayed on your screens.
 - **Local Folder** \- Path to the folder on your device. We will provide detailed instructions per platform later in this article.
@@ -63,15 +63,17 @@ Click **Save**.
 
 You now can assign the Local Folder app to your device. It can also be placed in a Playlist or Schedule.
 
+## Finding Your Local Folder Path by Operating System
+
 ### For Windows:
 
 If using a Windows device to display your content, the path to your Local Folder will be similar to C:\\ D:\\Media Folder etc. Find the path by looking at the folder's Properties, like so:
 
-![windows folder highlighting folder path](https://support.optisigns.com/hc/article_attachments/33807447378707)
+![Windows folder Properties dialog, the Location row boxed in red showing the folder's path](https://support.optisigns.com/hc/article_attachments/33807447378707)
 
 You'll then use this path to fill in the Local Folder value within the Local Folder App:
 
-![Local Folder dialog with Name set to Windows Media Folder and the path C:\Users\OptiSigns\Media](https://support.optisigns.com/hc/article_attachments/55316529893523)
+![Local Folder form with Name 'Windows Media Folder' and path C:\Users\OptiSigns\Media](https://support.optisigns.com/hc/article_attachments/55666355590547)
 
 This will vary depending on the location of the folder on your drive.
 
@@ -81,34 +83,34 @@ If using a Mac, Linux, or Ubuntu device, the path to your folder will be similar
 
 For Mac users, find this using **Get Info**. It will look similar to this:
 
-![mac folder highlighting folder path](https://support.optisigns.com/hc/article_attachments/33807447394067)
+![macOS Get Info window for a folder, red arrow pointing at the Where row showing Users then Desktop](https://support.optisigns.com/hc/article_attachments/33807447394067)
 
 This comes out to /Users/{username}/Desktop as a path filename.
 
 In Linux/Ubuntu, you can find this information in **Properties.**
 
-![ubuntu folder highlighting folder path](https://support.optisigns.com/hc/article_attachments/33807672236819)
+![Ubuntu folder Properties window, red arrow pointing at the Parent folder row reading /home/optisigns](https://support.optisigns.com/hc/article_attachments/33807672236819)
 
 The path in this example would be /home/optisigns .
 
 For Raspberry Pi, the path can also be found in **Properties**.
 
-![raspberry pi folder highlighting folder path](https://support.optisigns.com/hc/article_attachments/33807431768339)
+![Raspberry Pi File Properties window, red arrow pointing at the Location row reading /home/pi](https://support.optisigns.com/hc/article_attachments/33807431768339)
 
 In this example, that's /home/pi.
 
 You'll then use this path to fill in the Local Folder value within the Local Folder App:
 
-![Local Folder dialog with Name set to Raspberry Pi Images and the path /home/pi/images](https://support.optisigns.com/hc/article_attachments/55316489458195)
+![Local Folder form with Name 'Raspberry Pi Images' and path /home/pi/images](https://support.optisigns.com/hc/article_attachments/55666355590803)
 
 This will vary depending on the location of the folder on your drive. However, it's important to note that Mac, Linux, Ubuntu, and Raspberry Pi paths all have the same format.
 
-### For OptiSigns Android Stick Digital Signage Player
+### For OptiStick Digital Signage Player
 
-| **IMPORTANT:** To use the Local Folder App on your Android Stick player, make sure its firmware version is 5\.17\.23 or later. |
+| **IMPORTANT:** To use the Local Folder App on your OptiStick, make sure its firmware version is 5\.17\.23 or later. |
 | --- |
 
-To use the Local Folder app on an [OptiSigns Android stick](https://shop.optisigns.com/products/optisigns-android-stick-player-2), first install whatever you'd like to display on a USB drive or MicroSD. Attach the device to your Android stick, then navigate using a [Remote Control](https://support.optisigns.com/hc/en-us/articles/30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control) to **Device Storage** on the side menu:
+To use the Local Folder app on an [OptiStick](https://shop.optisigns.com/products/optisigns-android-stick-player-2), first install whatever you'd like to display on a USB drive or MicroSD. Attach the device to your Android stick, then navigate using a [Remote Control](https://support.optisigns.com/hc/en-us/articles/30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control) to **Device Storage** on the side menu:
 
 ![optisigns android stick player menu with arrow pointing toward device storage option](https://support.optisigns.com/hc/article_attachments/33807431790995)
 
@@ -118,53 +120,34 @@ Once there, you should be able to see your External storage device listed:
 
 Simply copy this and place this in your Local Folder value within the Local Folder App:
 
-![Local Folder dialog with Name set to Android Stick USB and the path /storage/6847-88F0](https://support.optisigns.com/hc/article_attachments/55316512244115)
+![Local Folder form with Name 'Android Stick USB' and path /storage/6847-88F0](https://support.optisigns.com/hc/article_attachments/55666355599507)
 
 This path will vary depending on the type of external storage device, and will always be different.
 
-### For OptiSigns Pro Digital Signage Player
+### For OptiSigns Pro and ProMax Digital Signage Player
 
-The OptiSigns Pro Player is an Ubuntu enabled device, so it runs the same way. You'll have a slightly different path depending on whether you're using a USB device or MicroSD card as your external storage, or if you have multiple USB drives plugged into the player.
+The OptiSigns Pro/Pro Max Player is an Ubuntu enabled device, so it runs the same way. You'll have a slightly different path depending on whether you're using a USB device or MicroSD card as your external storage, or if you have multiple USB drives plugged into the player.
 
-The path for a single USB device when plugged into the OptiSigns Pro Player will be:
+| **Devices connected** | **Local Folder path on the Pro player** | **Local Folder path on the Promax player** |
+| --- | --- | --- |
+| USB drive \#1 | /home/optisigns/external/{USB name}\-sdb1 | /home/optisigns/external/{USB name}\-sda1 |
+| USB drive \#2 | /home/optisigns/external/{USB name}\-sdc1 | /home/optisigns/external/{USB name}\-sdb1 |
+| USB drive \#3 | /home/optisigns/external/{USB name}\-sdd1 | /home/optisigns/external/{USB name}\-sdc1 |
+| Micro SD card | /home/optisigns/external/{SDcard name}\-mmcblk0p1 | |
 
-```
-/home/optisigns/external/sdb1
-```
+**Note:** The first USB drive mounts as `sdb1` on Pro players, but as `sda1` on Promax players.
 
-If your device has a label, it will be:
+Examples (Assuming 3 USB drives named USB1, USB2, USB3, and an SD card named SDCARD):
 
-```
-/home/optisigns/external/{label}-sdb1
-```
+| **Devices connected** | **Local Folder path on the Pro player** | **Local Folder path on the Promax player** |
+| --- | --- | --- |
+| 1 USB Connected | /home/optisigns/external/USB1\-sdb1 | /home/optisigns/external/USB1\-sda1 |
+| 2 USBs Connected | /home/optisigns/external/USB1\-sdb1 /home/optisigns/external/USB2\-sdc1 | /home/optisigns/external/USB1\-sda1 /home/optisigns/external/USB2\-sdb1 |
+| 3 USBs Connected | /home/optisigns/external/USB1\-sdb1 /home/optisigns/external/USB2\-sdc1 /home/optisigns/external/USB3\-sdd1 | /home/optisigns/external/USB1\-sda1 /home/optisigns/external/USB2\-sdb1 /home/optisigns/external/USB3\-sdc1 |
+| SD card connectd | /home/optisigns/external/SDCARD\-mmcblk0p1 | |
 
-Where {label} is the name/label of the USB drive.
+ 
 
-Should you plug in a second USB drive, the path will be:
-
-```
-/home/optisigns/external/sdc1
-```
-
-Similarly, a third USB drive will have a path of:
-
-```
-/home/optisigns/external/sdd1
-```
-
-Again, remember to add the label to the path if your drive has one.
-
-Lastly, if you're using a MicroSD card, your path will be:
-
-```
- /home/optisigns/external/{label}-mmcblk0p1
-```
-
-Where {label} is the name/label of the MicroSD card.
-
-Then, use this path to fill in the Local Folder value within the Local Folder App:
-
-![Local Folder dialog with Name set to Pro Player MicroSD and the path /home/optisigns/external/MEDIA-mmcblk0p1](https://support.optisigns.com/hc/article_attachments/55316459322387)
 ### **That's all!**
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

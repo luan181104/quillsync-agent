@@ -7,14 +7,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Stick",
     "updated_at": "2026-09-10T09:51:37Z"
   },
-  "29217646663187": {
-    "hash": "6f7650d413724a30cc0a53871a054a590ddb10a119cd852cd65c76593ef19531",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/29217646663187howtosetupdyn-si5bl42l1o1c",
-    "path": "articles/How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync.md",
-    "slug": "How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync",
-    "updated_at": "2026-09-10T09:51:11Z"
-  },
   "33382537925267": {
     "hash": "65cd77504f32570f822320f98c43a46c73a182c9373a13e71a9375bb8a1659e3",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/33382537925267makingavideow-hk7venql81ho",
@@ -455,22 +447,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/29792081890323-Guide-for-Creating-Content-with-OptiSigns",
     "updated_at": "2026-09-10T09:51:20Z"
   },
-  "29238381023123": {
-    "hash": "efea616fecf6a50f5aa3ef8f1b7d6c891e40c339cea1e0c3ca7ef41c9be20a4d",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/29238381023123howtoclearcac-d98hxa96wx4f",
-    "path": "articles/How-to-Clear-Cache-on-a-BrightSign-Player.md",
-    "slug": "How-to-Clear-Cache-on-a-BrightSign-Player",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/29238381023123-How-to-Clear-Cache-on-a-BrightSign-Player",
-    "updated_at": "2026-09-10T09:51:13Z"
-  },
-  "28427819992979": {
-    "hash": "53b23301c174ee977998399b6bd40f02460cdbd45918ba779e48d6ee1b257dc7",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28427819992979performancest-ui9phkkvpucs",
-    "path": "articles/Performance-Stability-issues-on-Android-devices-and-Best-Practices.md",
-    "slug": "Performance-Stability-issues-on-Android-devices-and-Best-Practices",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/28427819992979-Performance-Stability-issues-on-Android-devices-and-Best-Practices",
-    "updated_at": "2026-09-10T09:51:09Z"
-  },
   "23030445716883": {
     "hash": "eeb3c56d33fcf2d073f28a22dd10954d0a78c99dcbcf791cc3181a968ee4d9d1",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/23030445716883howtosetupaer-q24l6aqiwzye",
@@ -520,12 +496,12 @@
     "updated_at": "2026-09-11T16:16:33Z"
   },
   "1500001985341": {
-    "hash": "419c16a5fbd63ab6bb9b32c70059d844f86e151db8b059d0a2ff81e673926398",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500001985341howtousetheloc-2mib0ukh3yja",
+    "hash": "8faa72c08f3973c929c8c3c70d746941a184fe342a77a73fccd23852b02c6352",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500001985341howtousetheloc-h4kzfio5dohu",
     "path": "articles/How-to-Use-the-Local-Folder-App-in-OptiSigns.md",
     "slug": "How-to-Use-the-Local-Folder-App-in-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns",
-    "updated_at": "2026-09-11T11:30:23Z"
+    "updated_at": "2026-09-22T15:01:01Z"
   },
   "4414558295955": {
     "hash": "16598995cb32180a2cf1e50ebffcb1badde8fd3edff053188db5776cf4326a9d",
@@ -798,5 +774,29 @@
     "slug": "OptiSigns-Pro-Player-Advanced-Features",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/35577511423635-OptiSigns-Pro-Player-Advanced-Features",
     "updated_at": "2026-09-21T15:11:34Z"
+  },
+  "55669121864979": {
+    "hash": "6657cddad34d0f47487df246adb46291c92660300732409a61d17c2d0a16eb14",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/55669121864979usingthefligh-5tolj84rm0sz",
+    "path": "articles/Using-the-Flight-Schedule-App.md",
+    "slug": "Using-the-Flight-Schedule-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/55669121864979-Using-the-Flight-Schedule-App",
+    "updated_at": "2026-09-22T18:59:24Z"
+  },
+  "55447693635731": {
+    "hash": "8d62e593bce70b4a70d51623d661c1e6687fa1bf0af7ce5d0bbd3afec485c92a",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/55447693635731howtodisplayg-v34iedrhvau7",
+    "path": "articles/How-to-Display-Grafana-Dashboards-on-OptiSigns.md",
+    "slug": "How-to-Display-Grafana-Dashboards-on-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns",
+    "updated_at": "2026-09-22T14:14:49Z"
+  },
+  "360048660813": {
+    "hash": "79c6124ae172f5f6f41d41f20e8f85ebda7abf23a984160bf596242c6bb7a12e",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360048660813howtousefaceboo-g8nxemdn63d7",
+    "path": "articles/How-to-use-Facebook-Live-Stream-App.md",
+    "slug": "How-to-use-Facebook-Live-Stream-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360048660813-How-to-use-Facebook-Live-Stream-App",
+    "updated_at": "2026-09-22T09:12:00Z"
   }
 }
