@@ -2,7 +2,7 @@
 title: "How to Use the Calendar Mix app"
 article_id: 4408052949139
 source_url: https://support.optisigns.com/hc/en-us/articles/4408052949139-How-to-Use-the-Calendar-Mix-app
-updated_at: 2026-09-09T15:32:17Z
+updated_at: 2026-09-25T07:45:20Z
 ---
 
 # How to Use the Calendar Mix app

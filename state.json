@@ -415,30 +415,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/29979283289235-How-to-Display-Birthday-Lists-with-OptiSync-Data-Mapping-and-Google-Sheets",
     "updated_at": "2026-09-10T09:51:28Z"
   },
-  "29863080711059": {
-    "hash": "6ce377b9134edb1bf10c2e3762c8e2e458bc3acae083bddd47862553f6be35e9",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/29863080711059howtoaddamicr-adw1uztqtifp",
-    "path": "articles/How-to-add-a-Microsoft-365-Excel-Spreadsheet-as-a-DataSource-for-OptiSync.md",
-    "slug": "How-to-add-a-Microsoft-365-Excel-Spreadsheet-as-a-DataSource-for-OptiSync",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/29863080711059-How-to-add-a-Microsoft-365-Excel-Spreadsheet-as-a-DataSource-for-OptiSync",
-    "updated_at": "2026-09-10T09:51:23Z"
-  },
-  "29838866920211": {
-    "hash": "8931ff940f26c2bb1f569323dd7b4771c56ae729c3ae738ed5bb2534fe7e763c",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/29838866920211howtoaddgoogl-n3eqyvm6pokl",
-    "path": "articles/How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync.md",
-    "slug": "How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/29838866920211-How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync",
-    "updated_at": "2026-09-10T09:51:21Z"
-  },
-  "29792081890323": {
-    "hash": "df0c39f212a08df5c599eebd3d9563cc8cf86efbb9a8219b7861e9498931135b",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/29792081890323guideforcreat-v7vnze9paz3n",
-    "path": "articles/Guide-for-Creating-Content-with-OptiSigns.md",
-    "slug": "Guide-for-Creating-Content-with-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/29792081890323-Guide-for-Creating-Content-with-OptiSigns",
-    "updated_at": "2026-09-10T09:51:20Z"
-  },
   "23030445716883": {
     "hash": "eeb3c56d33fcf2d073f28a22dd10954d0a78c99dcbcf791cc3181a968ee4d9d1",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/23030445716883howtosetupaer-q24l6aqiwzye",
@@ -656,12 +632,12 @@
     "updated_at": "2026-09-15T11:32:26Z"
   },
   "360051014713": {
-    "hash": "a3c11878283f373dc9fed5bbf7a83a47d9ebd511ab02f08f1505b5b8512acbf8",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360051014713howtouseyoutube-vb4f7dmckfn9",
+    "hash": "b8648fd80fa256dafb6637decdcec8fe578d3f06a5488faf1889b1a80ece889e",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360051014713howtouseyoutube-7h09fwe2r2fj",
     "path": "articles/How-to-Use-YouTube-with-OptiSigns.md",
     "slug": "How-to-Use-YouTube-with-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
-    "updated_at": "2026-09-15T09:51:14Z"
+    "updated_at": "2026-09-24T14:52:18Z"
   },
   "360047275934": {
     "hash": "91d47710b59bae549b9ce8174955e243e385379923197340e72320071a81ee5f",
@@ -798,5 +774,29 @@
     "slug": "Using-the-X-Social-App-Add-On",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/55709616003219-Using-the-X-Social-App-Add-On",
     "updated_at": "2026-09-23T19:58:50Z"
+  },
+  "4408052949139": {
+    "hash": "2f095c416a175c99f92ae67b022874dc1ee4396cbaaa5281a0bc089ba8ff413a",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4408052949139howtousethecal-v7iwkqmx08pf",
+    "path": "articles/How-to-Use-the-Calendar-Mix-app.md",
+    "slug": "How-to-Use-the-Calendar-Mix-app",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4408052949139-How-to-Use-the-Calendar-Mix-app",
+    "updated_at": "2026-09-25T07:45:20Z"
+  },
+  "55719322614803": {
+    "hash": "22e07e4157e3e187440391f127ebd420dbd4850ed7b89d126cf02c6430d1b9bd",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/55719322614803inboundwebhoo-gmo2yc73droz",
+    "path": "articles/Inbound-Webhook-DataSources-in-Designer.md",
+    "slug": "Inbound-Webhook-DataSources-in-Designer",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/55719322614803-Inbound-Webhook-DataSources-in-Designer",
+    "updated_at": "2026-09-24T17:00:10Z"
+  },
+  "19171222981523": {
+    "hash": "98e020275322c50d11c34ddf3304ce8aacbf39b0cd1e2171cb6231afed8292f7",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/19171222981523howtousethevi-7tpv3zzspmu4",
+    "path": "articles/How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns.md",
+    "slug": "How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
+    "updated_at": "2026-09-24T08:59:57Z"
   }
 }
