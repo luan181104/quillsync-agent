@@ -1,12 +1,4 @@
 {
-  "31960461758611": {
-    "hash": "8d3b2f8416779dbc487980cedcd4337ff12966e5e96e18c158981181a7e80933",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/31960461758611howtoorderapr-96z7k3ln7yvj",
-    "path": "articles/How-to-Order-a-Preconfigured-OptiSigns-Android-Stick.md",
-    "slug": "How-to-Order-a-Preconfigured-OptiSigns-Android-Stick",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Stick",
-    "updated_at": "2026-09-10T09:51:37Z"
-  },
   "33382537925267": {
     "hash": "65cd77504f32570f822320f98c43a46c73a182c9373a13e71a9375bb8a1659e3",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/33382537925267makingavideow-hk7venql81ho",
@@ -47,14 +39,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/44669013147923-Kiosk32",
     "updated_at": "2026-09-10T10:46:50Z"
   },
-  "30304278652563": {
-    "hash": "fe75381433336fcc88fd249a238a6c8c2b793000c6e0d639c343df034d3820b6",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/30304278652563howtousethemo-bmhj8wfvmpl9",
-    "path": "articles/How-to-Use-the-Mobile-App-for-Remote-Control.md",
-    "slug": "How-to-Use-the-Mobile-App-for-Remote-Control",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control",
-    "updated_at": "2026-09-10T09:51:30Z"
-  },
   "33940834613139": {
     "hash": "90e4d1fb84a725818c5399fbeab13e59ce13aadb362a91448fb605e995491ee1",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/33940834613139whatdoigetwit-ge624nlss43q",
@@ -70,14 +54,6 @@
     "slug": "ProPlayer",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/32272215514131-ProPlayer",
     "updated_at": "2026-09-10T09:51:42Z"
-  },
-  "31860170199955": {
-    "hash": "0c3b38a48f7a5264477a5b4a27b3b87688901d1512c8d2f6cddcbfe7746636a2",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/31860170199955integratingpo-grbhzdaejfqa",
-    "path": "articles/Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync.md",
-    "slug": "Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync",
-    "updated_at": "2026-09-10T09:51:36Z"
   },
   "4414558369811": {
     "hash": "dc55a478c075fa9c5d9ea2f603805c915d6076868f538c22e15575948c9057d6",
@@ -368,12 +344,12 @@
     "updated_at": "2026-09-10T10:46:19Z"
   },
   "32860569148819": {
-    "hash": "f15896d301e71a4dc1792f5d7f02c25efafe9a2ba472ea0b2f8a40e3cae37ab1",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/32860569148819howtosetupapo-taf05p4poaue",
+    "hash": "67aa7246a4aedace2aa68775f02cc1c4996ea9fae28bc96eaed8c1f231c9ea2f",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/32860569148819howtosetupapo-1sx3jzjhzx3j",
     "path": "articles/How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns.md",
     "slug": "How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns",
-    "updated_at": "2026-09-10T09:51:45Z"
+    "updated_at": "2026-09-28T20:24:07Z"
   },
   "32839794222099": {
     "hash": "dcf8a97d49435f967cc4d120347a5b9993f10d919a24aba25c3d977a968906d9",
@@ -390,30 +366,6 @@
     "slug": "Where-to-Buy-OptiSigns-Devices",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices",
     "updated_at": "2026-09-23T19:17:01Z"
-  },
-  "31449657955347": {
-    "hash": "9b9c0df5c9faed37d5abff067805a9201b7af09b0920455c2ab12c35e930dd7d",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/31449657955347gettingstarte-l1hr5odpny2x",
-    "path": "articles/Getting-Started-with-Touch-Screen-Kiosks.md",
-    "slug": "Getting-Started-with-Touch-Screen-Kiosks",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/31449657955347-Getting-Started-with-Touch-Screen-Kiosks",
-    "updated_at": "2026-09-10T09:51:34Z"
-  },
-  "30310366838803": {
-    "hash": "a803e5d85e009cdd83ca6c929caf84108b0dd101cf9bc4159bc51abd300811d6",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/30310366838803enablinglockd-brmnabrxt1gh",
-    "path": "articles/Enabling-Lock-Down-Mode-on-Touch-Screen-Devices.md",
-    "slug": "Enabling-Lock-Down-Mode-on-Touch-Screen-Devices",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/30310366838803-Enabling-Lock-Down-Mode-on-Touch-Screen-Devices",
-    "updated_at": "2026-09-10T09:51:32Z"
-  },
-  "29979283289235": {
-    "hash": "c8ef48ae4c46128c4739d401b292845a15900c1be2dd6d3f2852ffc73c77432b",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/29979283289235howtodisplayb-w7j91ksbrk49",
-    "path": "articles/How-to-Display-Birthday-Lists-with-OptiSync-Data-Mapping-and-Google-Sheets.md",
-    "slug": "How-to-Display-Birthday-Lists-with-OptiSync-Data-Mapping-and-Google-Sheets",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/29979283289235-How-to-Display-Birthday-Lists-with-OptiSync-Data-Mapping-and-Google-Sheets",
-    "updated_at": "2026-09-10T09:51:28Z"
   },
   "23030445716883": {
     "hash": "eeb3c56d33fcf2d073f28a22dd10954d0a78c99dcbcf791cc3181a968ee4d9d1",
@@ -798,5 +750,53 @@
     "slug": "How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
     "updated_at": "2026-09-24T08:59:57Z"
+  },
+  "23566927217939": {
+    "hash": "8db0f4862cc4d1287fd4477a51aeda6ec852f65c9091c01aa2a989eb2ea54b81",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/23566927217939howtousecheck-6mn2yvql60hn",
+    "path": "articles/How-to-use-Check-in-app-with-SMS-follow-up.md",
+    "slug": "How-to-use-Check-in-app-with-SMS-follow-up",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/23566927217939-How-to-use-Check-in-app-with-SMS-follow-up",
+    "updated_at": "2026-09-28T22:24:04Z"
+  },
+  "360061576673": {
+    "hash": "90cca7360e8ab607a118086ef3e3d847530dc0eaa771a79031b6ff7533bac197",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360061576673advancedenforce-61yn1emkxxsa",
+    "path": "articles/Advanced-Enforce-SSO-login-for-your-account.md",
+    "slug": "Advanced-Enforce-SSO-login-for-your-account",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360061576673-Advanced-Enforce-SSO-login-for-your-account",
+    "updated_at": "2026-09-28T21:53:26Z"
+  },
+  "360024859713": {
+    "hash": "7ec5253b54b31107b2a3f7616dec265882df65a51dd243108757ae6d07dd6609",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360024859713howtodisplaymic-e8t9aisxxwxu",
+    "path": "articles/How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns.md",
+    "slug": "How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
+    "updated_at": "2026-09-28T20:24:16Z"
+  },
+  "1500000493782": {
+    "hash": "e9dfc239ace1896543b5fa30ea83c63af52f5e59f17e34ec9497d4d74f73256b",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500000493782billinghowdoic-4dhxr8gy6wmx",
+    "path": "articles/Billing-How-Do-I-Change-my-Subscription-Plan.md",
+    "slug": "Billing-How-Do-I-Change-my-Subscription-Plan",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-How-Do-I-Change-my-Subscription-Plan",
+    "updated_at": "2026-09-28T19:34:27Z"
+  },
+  "29838866920211": {
+    "hash": "9568794b5871a9628c60175d8fcbaaf80776295aeb2bf921c4a850e8399db707",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/29838866920211howtoaddgoogl-i348rxyojwoc",
+    "path": "articles/How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync.md",
+    "slug": "How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/29838866920211-How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync",
+    "updated_at": "2026-09-28T19:13:38Z"
+  },
+  "1500010436341": {
+    "hash": "718d0dfad0da27283adaf36926298c5f1496a29d0366aa9606bead840fd78635",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500010436341adjustthegpume-dwgv16gjrxy8",
+    "path": "articles/Adjust-the-GPU-memory-on-the-Raspberry-Pi.md",
+    "slug": "Adjust-the-GPU-memory-on-the-Raspberry-Pi",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/1500010436341-Adjust-the-GPU-memory-on-the-Raspberry-Pi",
+    "updated_at": "2026-09-28T17:02:14Z"
   }
 }

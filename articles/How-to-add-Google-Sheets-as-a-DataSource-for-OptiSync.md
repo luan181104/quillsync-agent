@@ -2,7 +2,7 @@
 title: "How to add Google Sheets as a DataSource for OptiSync"
 article_id: 29838866920211
 source_url: https://support.optisigns.com/hc/en-us/articles/29838866920211-How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync
-updated_at: 2026-09-10T09:51:21Z
+updated_at: 2026-09-28T19:13:38Z
 ---
 
 # How to add Google Sheets as a DataSource for OptiSync

@@ -2,7 +2,7 @@
 title: "Billing: How Do I Change my Subscription Plan?"
 article_id: 1500000493782
 source_url: https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-How-Do-I-Change-my-Subscription-Plan
-updated_at: 2026-07-08T04:10:51Z
+updated_at: 2026-09-28T19:34:27Z
 ---
 
 # Billing: How Do I Change my Subscription Plan?
