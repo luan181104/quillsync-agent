@@ -1,12 +1,4 @@
 {
-  "33382537925267": {
-    "hash": "65cd77504f32570f822320f98c43a46c73a182c9373a13e71a9375bb8a1659e3",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/33382537925267makingavideow-hk7venql81ho",
-    "path": "articles/Making-a-Video-Wall-with-OptiSigns-Video-Wall-App.md",
-    "slug": "Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
-    "updated_at": "2026-09-10T09:51:47Z"
-  },
   "39080869746067": {
     "hash": "142b2324012998baacd3248b1920c6a0d3e74b0494c5cf5f903528ad20a9f426",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/39080869746067handleoauthau-o0sn79xa5fca",
@@ -14,14 +6,6 @@
     "slug": "Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration",
     "updated_at": "2026-09-10T10:46:28Z"
-  },
-  "35626165056787": {
-    "hash": "ddcdf66a1f5cfaeb8a65fe52ea5d15e0f1f624af5686ec8682993c37cd932598",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/35626165056787howtocontacto-ksnorf8mac6e",
-    "path": "articles/How-to-Contact-OptiSigns-Support.md",
-    "slug": "How-to-Contact-OptiSigns-Support",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support",
-    "updated_at": "2026-09-10T10:46:17Z"
   },
   "42526907045651": {
     "hash": "eae76053c5c04280cd1d2af5d1e04b13ac65b270911559c837429e352b10d888",
@@ -38,22 +22,6 @@
     "slug": "Kiosk32",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/44669013147923-Kiosk32",
     "updated_at": "2026-09-10T10:46:50Z"
-  },
-  "33940834613139": {
-    "hash": "90e4d1fb84a725818c5399fbeab13e59ce13aadb362a91448fb605e995491ee1",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/33940834613139whatdoigetwit-ge624nlss43q",
-    "path": "articles/What-Do-I-Get-With-an-OptiSigns-Free-Plan.md",
-    "slug": "What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-    "updated_at": "2026-09-10T09:51:52Z"
-  },
-  "32272215514131": {
-    "hash": "4ae6dc02c1a639b129d0595345726b8867f629de388460432831579762ca5d9a",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/32272215514131proplayer-5jbasvnspzz1",
-    "path": "articles/ProPlayer.md",
-    "slug": "ProPlayer",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/32272215514131-ProPlayer",
-    "updated_at": "2026-09-10T09:51:42Z"
   },
   "4414558369811": {
     "hash": "dc55a478c075fa9c5d9ea2f603805c915d6076868f538c22e15575948c9057d6",
@@ -350,14 +318,6 @@
     "slug": "How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns",
     "updated_at": "2026-09-28T20:24:07Z"
-  },
-  "32839794222099": {
-    "hash": "dcf8a97d49435f967cc4d120347a5b9993f10d919a24aba25c3d977a968906d9",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/32839794222099displaysalesf-4g7kqw1fhncl",
-    "path": "articles/Display-Salesforce-Dashboards-with-MFA-using-Web-Scripting.md",
-    "slug": "Display-Salesforce-Dashboards-with-MFA-using-Web-Scripting",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/32839794222099-Display-Salesforce-Dashboards-with-MFA-using-Web-Scripting",
-    "updated_at": "2026-09-10T09:51:44Z"
   },
   "32129032857875": {
     "hash": "8a6dd4073f145b9766885e8f231a671b54bb5848766beff04471b8d71547237d",
@@ -798,5 +758,45 @@
     "slug": "Adjust-the-GPU-memory-on-the-Raspberry-Pi",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/1500010436341-Adjust-the-GPU-memory-on-the-Raspberry-Pi",
     "updated_at": "2026-09-28T17:02:14Z"
+  },
+  "360017964153": {
+    "hash": "959b8fee6fd8cc4340591b4c65360c728cd3b30f4c5a4c4421254bbbe56f7aee",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360017964153howtouseweather-os6xx0jik2g8",
+    "path": "articles/How-to-Use-Weather-Apps-in-OptiSigns.md",
+    "slug": "How-to-Use-Weather-Apps-in-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360017964153-How-to-Use-Weather-Apps-in-OptiSigns",
+    "updated_at": "2026-09-29T19:54:35Z"
+  },
+  "55895814798739": {
+    "hash": "230956d67ec62bcbefa15e8b7a4eb19e4ca310cd10ffa0243f88542093aaac6e",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/55895814798739howtodisplays-6iuw9e46o28u",
+    "path": "articles/How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns.md",
+    "slug": "How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns",
+    "updated_at": "2026-09-29T19:44:32Z"
+  },
+  "55906396437523": {
+    "hash": "25c5ae4a71ef998f71ee9bd33ee989fbede77a8c217a4c3d2864a82825706972",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/55906396437523howtousethewe-zujh6gwk9y4c",
+    "path": "articles/How-to-Use-the-Weather-Radar-App.md",
+    "slug": "How-to-Use-the-Weather-Radar-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/55906396437523-How-to-Use-the-Weather-Radar-App",
+    "updated_at": "2026-09-29T19:04:57Z"
+  },
+  "360016252654": {
+    "hash": "8b7b383658b24c561eee6644b46fe4c7bbcf4c5529bdeb197d09138bac7a0171",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016252654doesoptisignsof-15v461hxtln8",
+    "path": "articles/Does-OptiSigns-offer-Non-profit-Education-discount.md",
+    "slug": "Does-OptiSigns-offer-Non-profit-Education-discount",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360016252654-Does-OptiSigns-offer-Non-profit-Education-discount",
+    "updated_at": "2026-09-29T17:04:04Z"
+  },
+  "44650391786131": {
+    "hash": "a32d119dc23debc7eff50e2682095885ed2976c2b073a19a3b5036dbcb412e9e",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/44650391786131kiosksetuphub-57hx5hrjoiuz",
+    "path": "articles/Kiosk-Setup-Hub.md",
+    "slug": "Kiosk-Setup-Hub",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/44650391786131-Kiosk-Setup-Hub",
+    "updated_at": "2026-09-29T12:54:41Z"
   }
 }

@@ -2,7 +2,7 @@
 title: "Kiosk Setup Hub"
 article_id: 44650391786131
 source_url: https://support.optisigns.com/hc/en-us/articles/44650391786131-Kiosk-Setup-Hub
-updated_at: 2026-03-30T17:22:38Z
+updated_at: 2026-09-29T12:54:41Z
 ---
 
 # Kiosk Setup Hub
@@ -49,6 +49,6 @@ Very large interactive free\-standing display.
 
 ## Where to Buy the OptiKiosk
 
-| **OptiKiosk 10 \- Priced at $199\.99 USD** | **OptiKiosk 32 \- Priced at $799\.99 USD** |
+| **OptiKiosk 10 \- Priced at $249\.99 USD** | **OptiKiosk 32 \- Priced at $799\.99 USD** |
 | --- | --- |
 | **US:**- [**Amazon**](https://www.amazon.com/dp/B0FM8KFZP2) - [**Shopify**](https://shop.optisigns.com/products/optisound-music-player-all-in-one-background-music-digital-signage-solution) | **US:**- [**Amazon**](https://www.amazon.com/dp/B0FGKMVRP7) - [**Shopify**](https://shop.optisigns.com/products/optikiosk-32-32-touchscreen-digital-signage-kiosk-with-optisigns-software-wall-mount-stand-variants) |

@@ -2,7 +2,7 @@
 title: "How to Use Weather Apps in OptiSigns"
 article_id: 360017964153
 source_url: https://support.optisigns.com/hc/en-us/articles/360017964153-How-to-Use-Weather-Apps-in-OptiSigns
-updated_at: 2026-09-09T16:30:11Z
+updated_at: 2026-09-29T19:54:35Z
 ---
 
 # How to Use Weather Apps in OptiSigns
@@ -19,8 +19,10 @@ Article URL: https://support.optisigns.com/hc/en-us/articles/360017964153-How-to
 
 1. [What are our Weather apps?](#What)
 2. [Weather Wall App](#Wall)
-3. [Weather Radar App](#Radar)
+3. [Windy App](#Radar)
 4. [Push to Screens](#Push)
+
+---
 
 ## What are our Weather Apps?
 
@@ -28,11 +30,14 @@ We offer a variety of weather apps to utilize for your digital signage, keeping 
 
 - **Weather Wall:** Provides current weather forecasts tailored to your location.
 - **Weather Alert:** Set up weather alerts provided by the National Weather Service.
-- **Weather Radar:** A detailed and customizable weather radar
+- **Weather Radar:** A detailed and customizable weather radar. We have a [full article](https://support.optisigns.com/hc/en-us/articles/55906396437523-How-to-Use-the-Weather-Radar-App) on this app.
+- **Windy:** Another detailed and customizable weather radar.
 
 The source for our Weather app is [**http://openweathermap.org/**](http://openweathermap.org/)**.**
 
 In this article, we will teach you how to set up each app.
+
+---
 
 ## Weather Wall App
 
@@ -132,9 +137,9 @@ To enhance the user experience with the Weather Wall app, we have added the City
 
 The **Sun**and **Moon**icons display if it is day or night, respectively.
 
-## Weather Radar App
+## Windy App
 
-Staying informed about incoming weather conditions is crucial for planning activities, travel, and being prepared for any potential storms or severe weather events. Weather radar apps are invaluable tools for providing real\-time updates and visualizations of precipitation, cloud cover, and storm systems in your local area.
+Staying informed about incoming weather conditions is crucial for planning activities, travel, and being prepared for any potential storms or severe weather events. The Windy app is an invaluable tools for providing real\-time updates and visualizations of precipitation, cloud cover, and storm systems in your local area.
 
 With the weather app radar feature, you can quickly see if rain, snow, or thunderstorms are headed your way and roughly how soon to expect the changeable conditions.
 
@@ -143,7 +148,7 @@ With the weather app radar feature, you can quickly see if rain, snow, or thunde
 
 ![Weather Radar app output: a green precipitation map over Houston with an hourly forecast strip](https://support.optisigns.com/hc/article_attachments/30279572010899)
 
-### Let's create your Weather Radar App
+### Let's create your Windy App
 
 | Note: This weather app may not display 100% correctly on FireStick 2nd Gen (2019\) or older. |
 | --- |
@@ -152,26 +157,30 @@ First, you will need to have your screens set up and paired. For more informatio
 
 Then, log on to our portal: <http://app.optisigns.com/>
 
-Go to **Files/Assets**, Click on "**App**" and add **Weather Radar** to your Account.
+Go to **Files/Assets**, Click on "**App**" and add **Windy** to your Account.
 
-![Searching the Add App dialog for radar and selecting the Weather Radar app](https://support.optisigns.com/hc/article_attachments/55251687029779)
+![Add App dialog searched for windy, showing the Windy tile with an arrow pointing to it](https://support.optisigns.com/hc/article_attachments/55908908634259)
 
-Then fill out the information in the Weather Radar app:
+Then fill out the information in the Windy app:
 
-![The Weather Radar form: Name, Location, Layer, Show Weather Detail, Auto-play Forecast, Zoom, Refresh Interval](https://support.optisigns.com/hc/article_attachments/55251687033619)
+![The Windy app form: Name, Location, Layer, Show Weather Detail, Auto-play Forecast, Zoom and Refresh Interval](https://support.optisigns.com/hc/article_attachments/55908932044819)
 
-- **Name:** name of your Scrolling Website App, this is only for use in File/Asset list, it will not be displayed on your screen.
+- **Name:** name of your Windy App, this is only for use in File/Asset list, it will not be displayed on your screen.
 - **Location:** Center of the map where you want to display weather radar around it.
-- **Layer:** Display the weather layer. There are four type of weather layers: Wind, Wind Gusts, Weather Radar, and Satellite.
+- **Layer:** Display the weather layer. There are twenty\-two available weather layers.
 - **Show Weather Details:** display an overlay layer to show forecast day by day, hour by hour details.
 - **Auto\-play Forecast:** play the forecast radar movement like you would see on TVs.
 - **Zoom:** select zoom level for the map view.
 - **Refreshinterval:** The default is 600 seconds, or 10 minutes. This means the app will refresh the link every 10 mins for any changes in your presentation. You can adjust this interval by typing in a different value.
 - **Advanced Settings:** In this section, you can adjust the metric system for **Wind Speed, Temperature, Rain, Waves, Snow, and Pressure.**
 
-![Advanced Options for Weather Radar: Wind Speed, Temperature, Rain / Snow, Waves, Snow and Pressure units](https://support.optisigns.com/hc/article_attachments/55251687035411)
+![Advanced Options expanded: Wind Speed, Temperature, Rain / Snow, Waves, Snow and Pressure units](https://support.optisigns.com/hc/article_attachments/55908932046739)
 
-After setting up your information, click **Save** to add your Weather Radar app to your account. If you'd like to tailor it to your specific location, see our article on [how to use weather apps based on device location](https://support.optisigns.com/hc/en-us/articles/4408052029587-How-to-use-weather-app-based-on-devices-location).
+After setting up your information, click **Save** to add your Windy app to your account. If you'd like to tailor it to your specific location, see our article on [how to use weather apps based on device location](https://support.optisigns.com/hc/en-us/articles/4408052029587-How-to-use-weather-app-based-on-devices-location).
+
+| **IMPORTANT** |
+| --- |
+| Occasionally when using the Windy app, a pop\-up may appear on screen. If this happens more than you would like, you can use our in\-house [**Weather Radar** app](https://support.optisigns.com/hc/en-us/articles/55906396437523-How-to-Use-the-Weather-Radar-App). |
 
 ## Push to Screens
 
