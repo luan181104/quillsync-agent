@@ -272,44 +272,12 @@
     "updated_at": "2026-09-10T10:46:25Z"
   },
   "36911639377683": {
-    "hash": "4f1f48dd95bede93d3738581c297d4676155b1881c56409659ca71bce3cdaee9",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/36911639377683howtouseoptis-e421mu3c2gsd",
+    "hash": "814eb5604c2d59e4371f7602f5f04831104748d4b5e6e28c968bfaf603730782",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/36911639377683howtouseoptis-8iab3pcadttk",
     "path": "articles/How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms.md",
     "slug": "How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms",
-    "updated_at": "2026-09-10T10:46:24Z"
-  },
-  "36562094987795": {
-    "hash": "8cea8f8f29adbb898f428db3ad1d716f6bf7a606812e24f810b6bbdb8d3f30fe",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/36562094987795tutorialcreat-3omnvq1mzbb3",
-    "path": "articles/Tutorial-Creating-or-Updating-Website-Assets-Using-GraphQL.md",
-    "slug": "Tutorial-Creating-or-Updating-Website-Assets-Using-GraphQL",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/36562094987795-Tutorial-Creating-or-Updating-Website-Assets-Using-GraphQL",
-    "updated_at": "2026-09-10T10:46:23Z"
-  },
-  "36558834998291": {
-    "hash": "f86e40d3942aae1c05b19effd92af3f3b5b844116cf4ab379dd545f22c322ca6",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/36558834998291tutorialcreat-t3omt7n1dudr",
-    "path": "articles/Tutorial-Creating-Schedules-and-Adding-Schedule-Items-Using-GraphQL.md",
-    "slug": "Tutorial-Creating-Schedules-and-Adding-Schedule-Items-Using-GraphQL",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/36558834998291-Tutorial-Creating-Schedules-and-Adding-Schedule-Items-Using-GraphQL",
-    "updated_at": "2026-09-10T10:46:21Z"
-  },
-  "36558469962643": {
-    "hash": "23563fd79f09f4ecadfbbb949095d0e0ecd7288cda3d219d6ade472ae36a64a9",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/36558469962643subscriptionf-ttw729qq3qbm",
-    "path": "articles/Subscription-Function-in-GraphQL.md",
-    "slug": "Subscription-Function-in-GraphQL",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/36558469962643-Subscription-Function-in-GraphQL",
-    "updated_at": "2026-09-10T10:46:20Z"
-  },
-  "35749502945555": {
-    "hash": "bdc2d6bd7afcfd7ec46e67fc023dc36bb667da6a99b0240812f5f6f5acbf1906",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/35749502945555howtousingsep-m1969vuvlxmy",
-    "path": "articles/How-to-Using-SEPA-and-iDEAL-for-EUR-Currency-Subscription-Payments.md",
-    "slug": "How-to-Using-SEPA-and-iDEAL-for-EUR-Currency-Subscription-Payments",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/35749502945555-How-to-Using-SEPA-and-iDEAL-for-EUR-Currency-Subscription-Payments",
-    "updated_at": "2026-09-10T10:46:19Z"
+    "updated_at": "2026-09-30T21:54:02Z"
   },
   "32860569148819": {
     "hash": "67aa7246a4aedace2aa68775f02cc1c4996ea9fae28bc96eaed8c1f231c9ea2f",
@@ -798,5 +766,37 @@
     "slug": "Kiosk-Setup-Hub",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/44650391786131-Kiosk-Setup-Hub",
     "updated_at": "2026-09-29T12:54:41Z"
+  },
+  "4529298306963": {
+    "hash": "de4dfbc7fb072c7124add8192ffbbeb0e08791e47355dde61f632d6c634b8127",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4529298306963howtousemicros-g0c0h9ifbwgd",
+    "path": "articles/How-to-Use-Microsoft-Excel-Online-with-OptiSigns.md",
+    "slug": "How-to-Use-Microsoft-Excel-Online-with-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4529298306963-How-to-Use-Microsoft-Excel-Online-with-OptiSigns",
+    "updated_at": "2026-09-30T20:03:12Z"
+  },
+  "4411530012307": {
+    "hash": "e985e0a56a7bff576a22c37fd007e2ef05ffaff0b4abfcb6965b84f772c20219",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4411530012307howtousemicros-ro57y1yd7wst",
+    "path": "articles/How-to-Use-Microsoft-Teams-Live-app-with-OptiSigns.md",
+    "slug": "How-to-Use-Microsoft-Teams-Live-app-with-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4411530012307-How-to-Use-Microsoft-Teams-Live-app-with-OptiSigns",
+    "updated_at": "2026-09-30T18:46:41Z"
+  },
+  "360050665253": {
+    "hash": "b9470b652a65182918270b25bed5cce670d123dcd5f2d7f6886052ed1fe66646",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360050665253howtousetheoned-r1lwg3iatiar",
+    "path": "articles/How-to-Use-the-OneDrive-App.md",
+    "slug": "How-to-Use-the-OneDrive-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360050665253-How-to-Use-the-OneDrive-App",
+    "updated_at": "2026-09-30T18:35:21Z"
+  },
+  "4414355658899": {
+    "hash": "b0675829e45001a8109200fae1faf30d9915918e620fb12413aea3ab968e702e",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4414355658899howtousemicros-ad28cpjurc96",
+    "path": "articles/How-to-Use-Microsoft-PowerPoint-with-OptiSigns.md",
+    "slug": "How-to-Use-Microsoft-PowerPoint-with-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4414355658899-How-to-Use-Microsoft-PowerPoint-with-OptiSigns",
+    "updated_at": "2026-09-30T15:53:27Z"
   }
 }
