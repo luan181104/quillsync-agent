@@ -2,7 +2,7 @@
 title: "How to Use the CountUp App"
 article_id: 360041222994
 source_url: https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App
-updated_at: 2026-05-05T17:07:53Z
+updated_at: 2026-10-01T17:24:51Z
 ---
 
 # How to Use the CountUp App

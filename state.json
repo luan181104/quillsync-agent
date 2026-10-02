@@ -1,28 +1,4 @@
 {
-  "39080869746067": {
-    "hash": "142b2324012998baacd3248b1920c6a0d3e74b0494c5cf5f903528ad20a9f426",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/39080869746067handleoauthau-o0sn79xa5fca",
-    "path": "articles/Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration.md",
-    "slug": "Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration",
-    "updated_at": "2026-09-10T10:46:28Z"
-  },
-  "42526907045651": {
-    "hash": "eae76053c5c04280cd1d2af5d1e04b13ac65b270911559c837429e352b10d888",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/42526907045651photosgifsand-ti612zyfdeuc",
-    "path": "articles/Photos-GIFs-and-QR-Codes-in-Designer.md",
-    "slug": "Photos-GIFs-and-QR-Codes-in-Designer",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/42526907045651-Photos-GIFs-and-QR-Codes-in-Designer",
-    "updated_at": "2026-09-10T10:46:45Z"
-  },
-  "44669013147923": {
-    "hash": "10f33f747d5effbbf6d3451dc31c3e7b9077ff5c7ad28eea205f52247f9a2f70",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/44669013147923kiosk32-q4k1b0p1uyc4",
-    "path": "articles/Kiosk32.md",
-    "slug": "Kiosk32",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/44669013147923-Kiosk32",
-    "updated_at": "2026-09-10T10:46:50Z"
-  },
   "4414558369811": {
     "hash": "dc55a478c075fa9c5d9ea2f603805c915d6076868f538c22e15575948c9057d6",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4414558369811pagination-e5ue3v7kjlwh",
@@ -215,30 +191,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/4414552808467-Introduction",
     "updated_at": "2026-09-10T11:36:51Z"
   },
-  "360043670633": {
-    "hash": "72be01492cf79e43275a09fd4ee4c2f66aa7414a0a865c29e3aacf52842eb75d",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360043670633organizingyourf-x9vg1g3lvukj",
-    "path": "articles/Organizing-your-files-assets-playlists-and-schedules-by-using-Folders.md",
-    "slug": "Organizing-your-files-assets-playlists-and-schedules-by-using-Folders",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360043670633-Organizing-your-files-assets-playlists-and-schedules-by-using-Folders",
-    "updated_at": "2026-09-10T11:06:09Z"
-  },
-  "42157810188179": {
-    "hash": "5f0528f28322167a81c51f8ff846d390c6670b48402e88d2e20c217345f77dd3",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/42157810188179customizetext-s85unzk22h3r",
-    "path": "articles/Customize-Text.md",
-    "slug": "Customize-Text",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/42157810188179-Customize-Text",
-    "updated_at": "2026-09-10T10:46:42Z"
-  },
-  "42087942047379": {
-    "hash": "889764e25d54e37750e87795eb02dd72595c2d9c1b9c7960b2ea3c713059ffc7",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/42087942047379gettingstarte-wtc7jo93vted",
-    "path": "articles/Getting-Started-with-Designer.md",
-    "slug": "Getting-Started-with-Designer",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/42087942047379-Getting-Started-with-Designer",
-    "updated_at": "2026-09-10T10:46:39Z"
-  },
   "40671590645651": {
     "hash": "591cef587d3b11b2fd1efc7a156071d2f8311bdf47b67b8d09c001dca3f1d8fb",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/40671590645651howtoplaylice-6dmsfeodx1mk",
@@ -246,30 +198,6 @@
     "slug": "How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound",
     "updated_at": "2026-09-18T13:02:26Z"
-  },
-  "40212027797523": {
-    "hash": "c239daac3d38912cc4cd205859e15b23b16af12a5789354f731eb86ce3820302",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/40212027797523diskencryptio-ag50cujn99cs",
-    "path": "articles/Disk-Encryption.md",
-    "slug": "Disk-Encryption",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/40212027797523-Disk-Encryption",
-    "updated_at": "2026-09-10T10:46:32Z"
-  },
-  "39488874989587": {
-    "hash": "510996c8f60183c8753fa932d846252b17db95736fc9aa1598088711091d5f4b",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/39488874989587fixingunexpec-9lft8bn26xeg",
-    "path": "articles/Fixing-Unexpected-Screen-Rotation-Incorrect-Orientation-with-OptiSigns-Android-Stick.md",
-    "slug": "Fixing-Unexpected-Screen-Rotation-Incorrect-Orientation-with-OptiSigns-Android-Stick",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/39488874989587-Fixing-Unexpected-Screen-Rotation-Incorrect-Orientation-with-OptiSigns-Android-Stick",
-    "updated_at": "2026-09-10T10:46:30Z"
-  },
-  "37966066335891": {
-    "hash": "e4ccec65a15213c1e1c63e90a12c44191cb5fd0d8627df653ce190de43134478",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/37966066335891gettingstarte-1ukf8u4hfog8",
-    "path": "articles/Getting-Started-with-an-OptiSigns-Free-Trial.md",
-    "slug": "Getting-Started-with-an-OptiSigns-Free-Trial",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial",
-    "updated_at": "2026-09-10T10:46:25Z"
   },
   "36911639377683": {
     "hash": "814eb5604c2d59e4371f7602f5f04831104748d4b5e6e28c968bfaf603730782",
@@ -798,5 +726,77 @@
     "slug": "How-to-Use-Microsoft-PowerPoint-with-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/4414355658899-How-to-Use-Microsoft-PowerPoint-with-OptiSigns",
     "updated_at": "2026-09-30T15:53:27Z"
+  },
+  "4407335862931": {
+    "hash": "54416a9559ee220ba553443f98dd5a67e5fba57392da87c4d176a2278fd8995a",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4407335862931howtousethesla-8utlb46bb4ae",
+    "path": "articles/How-to-Use-the-Slack-App.md",
+    "slug": "How-to-Use-the-Slack-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4407335862931-How-to-Use-the-Slack-App",
+    "updated_at": "2026-10-01T21:46:16Z"
+  },
+  "360050665413": {
+    "hash": "d13ef855a1b20ea1260f4e3b71278d5f1b6bdfd8367f1ec5e073cc5b6747f09a",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360050665413howtousethedrop-lwdaip0788ex",
+    "path": "articles/How-to-Use-the-Dropbox-App.md",
+    "slug": "How-to-Use-the-Dropbox-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360050665413-How-to-Use-the-Dropbox-App",
+    "updated_at": "2026-10-01T21:20:35Z"
+  },
+  "4408946045715": {
+    "hash": "75d31780a3e5cee95e357b50511e4288fabbf75626702b236fce5cac7da4e9fb",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4408946045715howtointegrate-273idgif9nly",
+    "path": "articles/How-to-Integrate-Bonusly-Digital-Signage-with-Optisigns.md",
+    "slug": "How-to-Integrate-Bonusly-Digital-Signage-with-Optisigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4408946045715-How-to-Integrate-Bonusly-Digital-Signage-with-Optisigns",
+    "updated_at": "2026-10-01T20:21:01Z"
+  },
+  "4417940565139": {
+    "hash": "8c1ac51e596b5c5961a718af17b2dd55a9b071e4003aa3b8ef91b82e0bba2f45",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4417940565139howtodisplaymi-d6pg1me4opg9",
+    "path": "articles/How-to-Display-Microsoft-Teams-Chat-on-OptiSigns.md",
+    "slug": "How-to-Display-Microsoft-Teams-Chat-on-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4417940565139-How-to-Display-Microsoft-Teams-Chat-on-OptiSigns",
+    "updated_at": "2026-10-01T20:13:18Z"
+  },
+  "27356288211859": {
+    "hash": "ffac293566432b9dbfcc223241efe1803511b4b56a7d7492472cf9bb396f2070",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/27356288211859howtouseiclou-7kua8n3411aj",
+    "path": "articles/How-to-Use-iCloud-Calendar-with-OptiSigns.md",
+    "slug": "How-to-Use-iCloud-Calendar-with-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/27356288211859-How-to-Use-iCloud-Calendar-with-OptiSigns",
+    "updated_at": "2026-10-01T19:37:52Z"
+  },
+  "4404053129619": {
+    "hash": "a1459e945e694c2ba7d3e11e4ed021de637986e4b7452a96aa323f41e92638a0",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4404053129619howtousethemic-j8ixwqii8cv0",
+    "path": "articles/How-to-Use-the-Microsoft-Teams-Meeting-App.md",
+    "slug": "How-to-Use-the-Microsoft-Teams-Meeting-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4404053129619-How-to-Use-the-Microsoft-Teams-Meeting-App",
+    "updated_at": "2026-10-01T19:33:01Z"
+  },
+  "360041222994": {
+    "hash": "2efa065ebc95f02c00ba6269f70965da464d574689f684e55f2b8bd543b60616",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360041222994howtousethecoun-s8bkvhkz6prg",
+    "path": "articles/How-to-Use-the-CountUp-App.md",
+    "slug": "How-to-Use-the-CountUp-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App",
+    "updated_at": "2026-10-01T17:24:51Z"
+  },
+  "4414539282067": {
+    "hash": "a8e29812d3eddd270c6958a13712f0268c2707f3c38fdd5eff1c6e9609a2d251",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4414539282067displayingshar-dxxvrdnhmv3h",
+    "path": "articles/Displaying-SharePoint-Sites-on-OptiSigns.md",
+    "slug": "Displaying-SharePoint-Sites-on-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns",
+    "updated_at": "2026-10-01T16:01:20Z"
+  },
+  "360036250853": {
+    "hash": "ef6748bae991d06a1927894e05d2f195fb9d42769104fd001cd3be6f9c706e98",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360036250853howtousemicroso-qfl0po1bk6gf",
+    "path": "articles/How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns.md",
+    "slug": "How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360036250853-How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns",
+    "updated_at": "2026-10-01T15:00:40Z"
   }
 }

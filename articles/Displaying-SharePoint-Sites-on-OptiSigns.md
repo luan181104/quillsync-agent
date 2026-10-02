@@ -2,7 +2,7 @@
 title: "Displaying SharePoint Sites on OptiSigns"
 article_id: 4414539282067
 source_url: https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns
-updated_at: 2026-07-29T21:56:37Z
+updated_at: 2026-10-01T16:01:20Z
 ---
 
 # Displaying SharePoint Sites on OptiSigns
@@ -21,7 +21,9 @@ Article URL: https://support.optisigns.com/hc/en-us/articles/4414539282067-Displ
 
 With OptiSigns, it's possible to showcase your SharePoint site on any of your screens. Even gated sites requiring login can be shown. All you'll need is a URL to your SharePoint site and a valid Microsoft account.
 
-![sharepoint website example on optisigns](https://support.optisigns.com/hc/article_attachments/4414531378451)
+![SharePoint communication site home page with hero tiles and a News section](https://support.optisigns.com/hc/article_attachments/4414531378451)
+
+Note that if you want to display SharePoint News, you'll want to check out our article on [Connecting SharePoint News to OptiSigns](https://support.optisigns.com/hc/en-us/articles/55450681344915).
 
 ---
 
@@ -38,15 +40,15 @@ With OptiSigns, it's possible to showcase your SharePoint site on any of your sc
 
 First, head to the SharePoint webpage you'd like to display on your screens.
 
-![](https://support.optisigns.com/hc/article_attachments/37403530778515)
+![SharePoint site page with the Share button in the top-right toolbar](https://support.optisigns.com/hc/article_attachments/37403530778515)
 
 Next, hit **Share**. Click **Copy link to page**.
 
-![](https://support.optisigns.com/hc/article_attachments/37403516098835)
+![SharePoint Share menu open with Copy link to page selected](https://support.optisigns.com/hc/article_attachments/37403516098835)
 
 The below screen should appear. Hit **Copy**.
 
-![](https://support.optisigns.com/hc/article_attachments/37403530789651)
+![SharePoint Link created dialog with an arrow on the Copy button](https://support.optisigns.com/hc/article_attachments/37403530789651)
 
 This is the URL you will be using to set up a SharePoint app within OptiSigns.
 
@@ -54,22 +56,22 @@ Next, log on to the [OptiSigns Portal](http://app.optisigns.com/).
 
 Go to **Files/Assets**, then click the **Apps** button on the left side of the screen.
 
-![](https://support.optisigns.com/hc/article_attachments/37403516103571)
+![OptiSigns Files/Assets page with the Files/Assets tab and the Apps button highlighted](https://support.optisigns.com/hc/article_attachments/55984266866963)
 Find and click on **SharePoint.**
 
-![](https://support.optisigns.com/hc/article_attachments/37403530798611)
+![Add App dialog searched for SharePoint, with the SharePoint app highlighted](https://support.optisigns.com/hc/article_attachments/55984266868883)
  
 Enter details for your SharePoint site. The URL will be the one you copied earlier.
-![](https://support.optisigns.com/hc/article_attachments/37403516113939)
+![SharePoint app settings with Name, URL and the Sign in with Credential switch turned on](https://support.optisigns.com/hc/article_attachments/55984259183123)
 
 - **Name \-** Name of your app asset, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 - **URL \-** The URL address to your SharePoint site. This is the URL we copied earlier.
 
-Click **Sign In** for a dropdown with more options. Most SharePoint sites require a Sign In before they can be viewed. Here, you'll input that information.
+Click **Sign In with Credential** to open a Sign In section. Most SharePoint sites require a Sign In. This is where you'll input that information.
 
 - **Master Password \-** When checked, this will prompt you to enter a Master Password for use on OptiSigns.
 	- While your password is encrypted with OptiSigns, this adds an extra layer of encryption. This way, even OptiSigns cannot decrypt your password. We will go into more detail on our encryption methods in our [FAQ section.](#FAQs)
-- **Username \-** Your Microsoft account username.
+- **Username/Email \-** Your Microsoft account username.
 - **Password \-** Your Microsoft account password.
 
 Please note that the Username and Password input will need access to the SharePoint document URL.
@@ -108,7 +110,7 @@ If you have one of these TVs and wish to display SharePoint, we recommend our [P
 
 Here's how the encryption flow works:
 
-[![](https://support.optisigns.com/hc/article_attachments/37403516119187)](https://support.optisigns.com/hc/article_attachments/37403516119187)
+[![Diagram of your login script encrypted in the portal, stored on OptiSigns servers and decrypted on the player](https://support.optisigns.com/hc/article_attachments/37403516119187)](https://support.optisigns.com/hc/article_attachments/37403516119187)
 
 When you input your Username and Password into the OptiSigns SharePoint app, it is being utilized as a [Web Script](https://support.optisigns.com/hc/en-us/articles/1500012522362-How-to-use-the-Web-Scripting-App). This script is encrypted at your browser, and transferred securely using HTTPS/SSL during transits and stored on our servers.
 
@@ -121,11 +123,11 @@ If you want to add additional security by utilizing a Master Password and our Ze
 
 The Master Password can be input on each device under the **Advanced Options** menu under **Master Password**.
 
-![](https://support.optisigns.com/hc/article_attachments/37403530810387)
+![OptiSigns player Advanced Options menu with Master Password highlighted](https://support.optisigns.com/hc/article_attachments/37403530810387)
 
 The Master Password can then be input. It will need to match the Master Password field input on your assets.
 
-**![](https://support.optisigns.com/hc/article_attachments/37403516129043)**
+**![OptiSigns player Master Password prompt with Cancel and OK buttons](https://support.optisigns.com/hc/article_attachments/37403516129043)**
 
 This will ensure no one, not even OptiSigns, can decrypt your password under any circumstance.
 
