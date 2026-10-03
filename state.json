@@ -1,12 +1,4 @@
 {
-  "4414558369811": {
-    "hash": "dc55a478c075fa9c5d9ea2f603805c915d6076868f538c22e15575948c9057d6",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4414558369811pagination-e5ue3v7kjlwh",
-    "path": "articles/Pagination.md",
-    "slug": "Pagination",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/4414558369811-Pagination",
-    "updated_at": "2026-09-10T11:36:50Z"
-  },
   "360043621953": {
     "hash": "bf21630cd23093e6827b3974b19084055f893e73dcd06160baea9cc4f0837b75",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360043621953howtocreateandu-3tusartp9qci",
@@ -22,14 +14,6 @@
     "slug": "What-happen-if-internet-connection-is-lost",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360016376793-What-happen-if-internet-connection-is-lost",
     "updated_at": "2026-09-10T15:27:50Z"
-  },
-  "360044115513": {
-    "hash": "49b9e6138a4457e4e92d573df2e8304ea7cf54385d1a538400f8ddface26c153",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360044115513howtousethestoc-k0l6hc19rslm",
-    "path": "articles/How-to-Use-the-Stock-App.md",
-    "slug": "How-to-Use-the-Stock-App",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360044115513-How-to-Use-the-Stock-App",
-    "updated_at": "2026-09-10T11:36:53Z"
   },
   "360044619014": {
     "hash": "8b5138315041494d0aafbed4249f9e97fa76afb155dcebd8240d7e1d05b8e6fa",
@@ -166,30 +150,6 @@
     "slug": "Get-Started-with-OptiSigns-API",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/4414563863827-Get-Started-with-OptiSigns-API",
     "updated_at": "2026-09-10T12:22:43Z"
-  },
-  "42830652820115": {
-    "hash": "13970f7890e20eb65282763a9305771b047f7b6c75c2d8425c91fcab00c176a7",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/42830652820115yourtemplates-oc67xq8af9b7",
-    "path": "articles/Your-Templates.md",
-    "slug": "Your-Templates",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/42830652820115-Your-Templates",
-    "updated_at": "2026-09-10T11:36:56Z"
-  },
-  "42915219118739": {
-    "hash": "9121580e419fbf90e7c4fc6467b7b78dfe7811806ec9841c30821cf94f738655",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/42915219118739legacydatasou-lryjdmfi4bv5",
-    "path": "articles/Legacy-DataSources.md",
-    "slug": "Legacy-DataSources",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/42915219118739-Legacy-DataSources",
-    "updated_at": "2026-09-10T11:36:55Z"
-  },
-  "4414552808467": {
-    "hash": "fee4e5674fb20b4600d20c9a443cba838ca39786b53cb417538ba2a813b8d07a",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4414552808467introduction-2f4u7wkb2e4e",
-    "path": "articles/Introduction.md",
-    "slug": "Introduction",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/4414552808467-Introduction",
-    "updated_at": "2026-09-10T11:36:51Z"
   },
   "40671590645651": {
     "hash": "591cef587d3b11b2fd1efc7a156071d2f8311bdf47b67b8d09c001dca3f1d8fb",
@@ -798,5 +758,45 @@
     "slug": "How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360036250853-How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns",
     "updated_at": "2026-10-01T15:00:40Z"
+  },
+  "1500005889381": {
+    "hash": "cde2248a99813d204029cf8d3c6ecbc654f51556c875d2aeeee281203153f425",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500005889381howtousethemin-f32g9sa4p5n8",
+    "path": "articles/How-to-Use-the-MindMeister-App.md",
+    "slug": "How-to-Use-the-MindMeister-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/1500005889381-How-to-Use-the-MindMeister-App",
+    "updated_at": "2026-10-02T18:17:46Z"
+  },
+  "11032964830227": {
+    "hash": "2d2bffa7a28883c79443fbc69c3bf8e04c638dde381c2a50dd834751455683da",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/11032964830227howtousethemo-3jcw7jji6ud7",
+    "path": "articles/How-to-Use-the-Monday-com-App.md",
+    "slug": "How-to-Use-the-Monday-com-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/11032964830227-How-to-Use-the-Monday-com-App",
+    "updated_at": "2026-10-02T15:17:32Z"
+  },
+  "9392587446675": {
+    "hash": "c4633da1485773809b59c17533f0cff1076731d8b5ab31d4531768a7dbaeb177",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/9392587446675howtouseairtab-d49oimexppas",
+    "path": "articles/How-to-use-Airtable-with-OptiSigns.md",
+    "slug": "How-to-use-Airtable-with-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/9392587446675-How-to-use-Airtable-with-OptiSigns",
+    "updated_at": "2026-10-02T15:09:00Z"
+  },
+  "1500005888781": {
+    "hash": "54f57aca0d1fd4c4ad1e08364f00782ae57d84872519c7960221abf9ec0f1d53",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500005888781howtobestuseca-jlwclj61vzwe",
+    "path": "articles/How-to-Best-Use-Canva-with-OptiSigns.md",
+    "slug": "How-to-Best-Use-Canva-with-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/1500005888781-How-to-Best-Use-Canva-with-OptiSigns",
+    "updated_at": "2026-10-02T15:05:25Z"
+  },
+  "27463953562899": {
+    "hash": "acd47c86c84a05c52f01e5361ce34ec2eec7cfd1d4a8330483fcaf7b9d011eef",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/27463953562899amazontvfires-8worty4b3rvd",
+    "path": "articles/Amazon-TV-FireStick-Troubleshooting-Guide.md",
+    "slug": "Amazon-TV-FireStick-Troubleshooting-Guide",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide",
+    "updated_at": "2026-10-02T14:02:01Z"
   }
 }
