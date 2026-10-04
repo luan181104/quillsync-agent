@@ -2,7 +2,7 @@
 title: "How to Change Time Zone on Your Fire Stick device"
 article_id: 360056086653
 source_url: https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device
-updated_at: 2026-07-09T18:27:02Z
+updated_at: 2026-10-03T10:02:59Z
 ---
 
 # How to Change Time Zone on Your Fire Stick device

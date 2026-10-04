@@ -143,14 +143,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/33468569218067-How-to-Display-Dynamic-Event-Schedules-Using-OptiSync",
     "updated_at": "2026-09-10T12:22:46Z"
   },
-  "4414563863827": {
-    "hash": "ca65a52a5742f52c6fd4080d1cce750fa007567c50e97e6c6b480c47fcd4af8a",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4414563863827getstartedwith-5k4rlezav8cm",
-    "path": "articles/Get-Started-with-OptiSigns-API.md",
-    "slug": "Get-Started-with-OptiSigns-API",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/4414563863827-Get-Started-with-OptiSigns-API",
-    "updated_at": "2026-09-10T12:22:43Z"
-  },
   "40671590645651": {
     "hash": "591cef587d3b11b2fd1efc7a156071d2f8311bdf47b67b8d09c001dca3f1d8fb",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/40671590645651howtoplaylice-6dmsfeodx1mk",
@@ -798,5 +790,13 @@
     "slug": "Amazon-TV-FireStick-Troubleshooting-Guide",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide",
     "updated_at": "2026-10-02T14:02:01Z"
+  },
+  "360056086653": {
+    "hash": "8a18ebe6f93a17730b7f40083f392a0afe7ae124f80e661829757e62dcb78ebd",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360056086653howtochangetime-wog2rf3mgwlb",
+    "path": "articles/How-to-Change-Time-Zone-on-Your-Fire-Stick-device.md",
+    "slug": "How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
+    "updated_at": "2026-10-03T10:02:59Z"
   }
 }
