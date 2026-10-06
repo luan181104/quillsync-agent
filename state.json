@@ -15,14 +15,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360016376793-What-happen-if-internet-connection-is-lost",
     "updated_at": "2026-09-10T15:27:50Z"
   },
-  "360044619014": {
-    "hash": "8b5138315041494d0aafbed4249f9e97fa76afb155dcebd8240d7e1d05b8e6fa",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360044619014howtousetheface-xhsjudyhcffg",
-    "path": "articles/How-to-Use-the-Facebook-Counter-App.md",
-    "slug": "How-to-Use-the-Facebook-Counter-App",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360044619014-How-to-Use-the-Facebook-Counter-App",
-    "updated_at": "2026-09-10T14:23:21Z"
-  },
   "6636047009427": {
     "hash": "9950e835aa4cce99a96ea448a8a8e3e0f3a8351abbc50c375d5d4ad03f82df5d",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/6636047009427howtoinstallop-ec5woy87mu63",
@@ -134,14 +126,6 @@
     "slug": "How-to-access-the-Troubleshooting-page-of-the-OptiSigns-Player",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/36501302096915-How-to-access-the-Troubleshooting-page-of-the-OptiSigns-Player",
     "updated_at": "2026-09-10T16:15:36Z"
-  },
-  "33468569218067": {
-    "hash": "0e4813776596048bb118f6f3a0051fe64699107b3de1b72fb37d83de24acfa73",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/33468569218067howtodisplayd-ksog88v9ewh9",
-    "path": "articles/How-to-Display-Dynamic-Event-Schedules-Using-OptiSync.md",
-    "slug": "How-to-Display-Dynamic-Event-Schedules-Using-OptiSync",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/33468569218067-How-to-Display-Dynamic-Event-Schedules-Using-OptiSync",
-    "updated_at": "2026-09-10T12:22:46Z"
   },
   "40671590645651": {
     "hash": "591cef587d3b11b2fd1efc7a156071d2f8311bdf47b67b8d09c001dca3f1d8fb",
@@ -256,12 +240,12 @@
     "updated_at": "2026-09-13T02:35:58Z"
   },
   "360016313754": {
-    "hash": "038f12da4a353ee8d40a2fa35cbc4d00dfee14975694ac6c56bdef34c49388a8",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016313754howtoinstallana-0r4dtxw0ftj4",
+    "hash": "760ebbf64103ad012bcdd36f7e5ea2a2e0ca14304afd683bfa778514f49960e9",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016313754howtoinstallana-q6vo37bb879f",
     "path": "articles/How-to-Install-an-APK-file-on-your-Fire-TV.md",
     "slug": "How-to-Install-an-APK-file-on-your-Fire-TV",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-    "updated_at": "2026-10-04T09:21:08Z"
+    "updated_at": "2026-10-05T21:09:30Z"
   },
   "4409673381011": {
     "hash": "69eccd8f03e32fede41eb8ce0b550e2b6544befb1d5c90eed3354b0e4f8fb18e",
@@ -798,5 +782,21 @@
     "slug": "How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
     "updated_at": "2026-10-03T10:02:59Z"
+  },
+  "360033693534": {
+    "hash": "b8b546e7a633b73f5fe41d75e51684e3b60da5fbd370897bdedfa4b049430ab4",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360033693534powerpointresol-kctao8mh8fof",
+    "path": "articles/PowerPoint-Resolution-Size-for-use-with-Digital-Signage.md",
+    "slug": "PowerPoint-Resolution-Size-for-use-with-Digital-Signage",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360033693534-PowerPoint-Resolution-Size-for-use-with-Digital-Signage",
+    "updated_at": "2026-10-06T06:37:46Z"
+  },
+  "360035739414": {
+    "hash": "0c5adf802de3be6c04846d2693d0b4b0380ae673fb43a4f878858b03da59f966",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360035739414howtopreviewasc-7yggf3k5trx0",
+    "path": "articles/How-to-Preview-a-Screen.md",
+    "slug": "How-to-Preview-a-Screen",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen",
+    "updated_at": "2026-10-05T16:37:23Z"
   }
 }
