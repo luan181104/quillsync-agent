@@ -7,14 +7,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360043621953-How-to-Create-and-Use-Nested-Playlists",
     "updated_at": "2026-09-11T02:59:22Z"
   },
-  "360016376793": {
-    "hash": "d7d64b7fafadc4e7b881edc7806c327c8cafe7a66bd7dc701cf76f86dcec033b",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016376793whathappenifint-tyczzs77xl8n",
-    "path": "articles/What-happen-if-internet-connection-is-lost.md",
-    "slug": "What-happen-if-internet-connection-is-lost",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360016376793-What-happen-if-internet-connection-is-lost",
-    "updated_at": "2026-09-10T15:27:50Z"
-  },
   "6636047009427": {
     "hash": "9950e835aa4cce99a96ea448a8a8e3e0f3a8351abbc50c375d5d4ad03f82df5d",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/6636047009427howtoinstallop-ec5woy87mu63",
@@ -798,5 +790,13 @@
     "slug": "How-to-Preview-a-Screen",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen",
     "updated_at": "2026-10-05T16:37:23Z"
+  },
+  "25607930101907": {
+    "hash": "702527ad0d690696709bcc090684c06c9fe406e67da9f6e96a0892df43dc2bfb",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/25607930101907howtogetthemo-sx51xec33gyw",
+    "path": "articles/How-to-get-the-most-out-of-your-Digital-Signs.md",
+    "slug": "How-to-get-the-most-out-of-your-Digital-Signs",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/25607930101907-How-to-get-the-most-out-of-your-Digital-Signs",
+    "updated_at": "2026-10-06T21:57:44Z"
   }
 }

@@ -2,7 +2,7 @@
 title: "How to get the most out of your Digital Signs"
 article_id: 25607930101907
 source_url: https://support.optisigns.com/hc/en-us/articles/25607930101907-How-to-get-the-most-out-of-your-Digital-Signs
-updated_at: 2026-09-10T09:50:43Z
+updated_at: 2026-10-06T21:57:44Z
 ---
 
 # How to get the most out of your Digital Signs
