@@ -111,14 +111,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360060676993-How-to-manually-install-activate-OptiSigns-AI-Add-on-on-Linux-or-Raspberry-Pi",
     "updated_at": "2026-09-10T16:39:47Z"
   },
-  "36501302096915": {
-    "hash": "1ea9313a514ced5d0313354e9215b40b04c9b810d71c2a0e393da3d36a0929d7",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/36501302096915howtoaccessth-wyrlwvb1k5ma",
-    "path": "articles/How-to-access-the-Troubleshooting-page-of-the-OptiSigns-Player.md",
-    "slug": "How-to-access-the-Troubleshooting-page-of-the-OptiSigns-Player",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/36501302096915-How-to-access-the-Troubleshooting-page-of-the-OptiSigns-Player",
-    "updated_at": "2026-09-10T16:15:36Z"
-  },
   "40671590645651": {
     "hash": "591cef587d3b11b2fd1efc7a156071d2f8311bdf47b67b8d09c001dca3f1d8fb",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/40671590645651howtoplaylice-6dmsfeodx1mk",
@@ -798,5 +790,13 @@
     "slug": "How-to-get-the-most-out-of-your-Digital-Signs",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/25607930101907-How-to-get-the-most-out-of-your-Digital-Signs",
     "updated_at": "2026-10-06T21:57:44Z"
+  },
+  "33940834613139": {
+    "hash": "6e21c6a39c33f0d7e49cde1044a3d17854c592c8e3c303996123d0bc0fdd15e0",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/33940834613139whatdoigetwit-chfn6z2x2myx",
+    "path": "articles/What-Do-I-Get-With-an-OptiSigns-Free-Plan.md",
+    "slug": "What-Do-I-Get-With-an-OptiSigns-Free-Plan",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
+    "updated_at": "2026-10-07T22:30:11Z"
   }
 }
