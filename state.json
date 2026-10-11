@@ -103,14 +103,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360052827713-How-to-Use-the-Flash-Message-App",
     "updated_at": "2026-09-10T16:43:35Z"
   },
-  "360060676993": {
-    "hash": "b6f8b053a35105674f2edc0d398f30cb3bce1deaec3aa951e157c575ffbf0506",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360060676993howtomanuallyin-76962qb35jl7",
-    "path": "articles/How-to-manually-install-activate-OptiSigns-AI-Add-on-on-Linux-or-Raspberry-Pi.md",
-    "slug": "How-to-manually-install-activate-OptiSigns-AI-Add-on-on-Linux-or-Raspberry-Pi",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360060676993-How-to-manually-install-activate-OptiSigns-AI-Add-on-on-Linux-or-Raspberry-Pi",
-    "updated_at": "2026-09-10T16:39:47Z"
-  },
   "40671590645651": {
     "hash": "591cef587d3b11b2fd1efc7a156071d2f8311bdf47b67b8d09c001dca3f1d8fb",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/40671590645651howtoplaylice-6dmsfeodx1mk",
@@ -798,5 +790,13 @@
     "slug": "What-Do-I-Get-With-an-OptiSigns-Free-Plan",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
     "updated_at": "2026-10-08T16:57:16Z"
+  },
+  "29465595849235": {
+    "hash": "7fc8c3ec80f1c2c4cb32abbb22471ecd6b637bfe7085750b247b97a822ec79c2",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/29465595849235listofsupport-4mdct5h56fu6",
+    "path": "articles/List-of-Supported-Cities-for-Weather-Wall-City-Themes.md",
+    "slug": "List-of-Supported-Cities-for-Weather-Wall-City-Themes",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes",
+    "updated_at": "2026-10-10T22:18:29Z"
   }
 }
