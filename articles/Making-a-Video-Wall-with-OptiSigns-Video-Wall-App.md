@@ -2,7 +2,7 @@
 title: "Making a Video Wall with OptiSigns (Video Wall App)"
 article_id: 33382537925267
 source_url: https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App
-updated_at: 2026-09-10T09:51:47Z
+updated_at: 2026-10-13T04:44:01Z
 ---
 
 # Making a Video Wall with OptiSigns (Video Wall App)

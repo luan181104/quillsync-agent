@@ -2,7 +2,7 @@
 title: "How to Create and Use Nested Playlists"
 article_id: 360043621953
 source_url: https://support.optisigns.com/hc/en-us/articles/360043621953-How-to-Create-and-Use-Nested-Playlists
-updated_at: 2026-09-11T02:59:22Z
+updated_at: 2026-10-12T21:22:12Z
 ---
 
 # How to Create and Use Nested Playlists

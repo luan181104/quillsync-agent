@@ -2,7 +2,7 @@
 title: "Working with Teams and Security Levels"
 article_id: 360034883113
 source_url: https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels
-updated_at: 2026-09-25T09:11:39Z
+updated_at: 2026-10-13T01:44:24Z
 ---
 
 # Working with Teams and Security Levels
