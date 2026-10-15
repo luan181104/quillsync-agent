@@ -7,21 +7,13 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360043621953-How-to-Create-and-Use-Nested-Playlists",
     "updated_at": "2026-10-12T21:22:12Z"
   },
-  "6636047009427": {
-    "hash": "9950e835aa4cce99a96ea448a8a8e3e0f3a8351abbc50c375d5d4ad03f82df5d",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/6636047009427howtoinstallop-ec5woy87mu63",
-    "path": "articles/How-to-install-OptiSigns-Player-on-Apple-TV.md",
-    "slug": "How-to-install-OptiSigns-Player-on-Apple-TV",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/6636047009427-How-to-install-OptiSigns-Player-on-Apple-TV",
-    "updated_at": "2026-09-11T11:00:02Z"
-  },
   "40671590645651": {
-    "hash": "591cef587d3b11b2fd1efc7a156071d2f8311bdf47b67b8d09c001dca3f1d8fb",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/40671590645651howtoplaylice-6dmsfeodx1mk",
+    "hash": "f189196f5b50126317c9463f16622feaa4dcd0a5b5408724d79bfc15d4406aa4",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/40671590645651howtoplaylice-1ypbbfg6wenl",
     "path": "articles/How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound.md",
     "slug": "How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound",
-    "updated_at": "2026-09-18T13:02:26Z"
+    "updated_at": "2026-10-14T21:03:18Z"
   },
   "36911639377683": {
     "hash": "814eb5604c2d59e4371f7602f5f04831104748d4b5e6e28c968bfaf603730782",
@@ -55,14 +47,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/23030445716883-How-to-setup-AeriCast-Meet-Wireless-Video-Conferencing",
     "updated_at": "2026-09-11T17:16:28Z"
   },
-  "21708242980755": {
-    "hash": "8c8812c634b2597d2b102d00ad78d234abda90a7e3bcbf1763baabd9101fff2e",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/21708242980755sharingplayli-8mrz2awxi8wg",
-    "path": "articles/Sharing-Playlists-and-Folders-with-External-Users.md",
-    "slug": "Sharing-Playlists-and-Folders-with-External-Users",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/21708242980755-Sharing-Playlists-and-Folders-with-External-Users",
-    "updated_at": "2026-09-11T17:02:25Z"
-  },
   "20879903340947": {
     "hash": "aeaecceb8400b0c72de3cf91dd0a3cc5cc6035d1ef0de54ef0afb9abb4206234",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/20879903340947howtouseconte-smdfsosguy5p",
@@ -86,14 +70,6 @@
     "slug": "How-to-set-an-asset-to-Live-or-Expire-at-specific-time",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360042736794-How-to-set-an-asset-to-Live-or-Expire-at-specific-time",
     "updated_at": "2026-09-11T20:37:05Z"
-  },
-  "360056356414": {
-    "hash": "5b50a38a8efed9cd2730324bf144e438e8e6896562e54a0fa663f013b29a3e5e",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360056356414howtousescrolli-miylex97nyo8",
-    "path": "articles/How-to-use-Scrolling-Website-App.md",
-    "slug": "How-to-use-Scrolling-Website-App",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360056356414-How-to-use-Scrolling-Website-App",
-    "updated_at": "2026-09-11T16:16:33Z"
   },
   "1500001985341": {
     "hash": "8faa72c08f3973c929c8c3c70d746941a184fe342a77a73fccd23852b02c6352",
@@ -168,12 +144,12 @@
     "updated_at": "2026-09-14T16:05:11Z"
   },
   "28295074995859": {
-    "hash": "a223bccab87b041648ebd78c710544a638dbce34c06348d93e7494ac6342d57c",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28295074995859howtomanagean-rh5mv9eahzt1",
+    "hash": "0d068ab06ef186045c7fc08d789f3d815a7e93a78e00df59f5b645b6176ecb65",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28295074995859howtomanagean-kkc0tu8by72j",
     "path": "articles/How-to-Manage-and-Edit-Your-Playlist-Settings.md",
     "slug": "How-to-Manage-and-Edit-Your-Playlist-Settings",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
-    "updated_at": "2026-10-12T21:22:30Z"
+    "updated_at": "2026-10-14T18:00:33Z"
   },
   "13320135306515": {
     "hash": "cf08235a65b94529b319a8e86f83ec7abc07aae448c94f314c1a6dcdbed4c972",
@@ -798,5 +774,29 @@
     "slug": "How-to-Use-the-Asana-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/1500002233221-How-to-Use-the-Asana-App",
     "updated_at": "2026-10-13T16:34:14Z"
+  },
+  "49039295567891": {
+    "hash": "0832cee558fab2b46dc3031cd28cbb6cc4d3a00fe49977a63e494130e4862f0b",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/49039295567891chromeospwain-siy4sg2ltnvr",
+    "path": "articles/ChromeOS-PWA-Instructions.md",
+    "slug": "ChromeOS-PWA-Instructions",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/49039295567891-ChromeOS-PWA-Instructions",
+    "updated_at": "2026-10-14T19:21:13Z"
+  },
+  "360060919453": {
+    "hash": "65fcca90dc2dae278e4729fe5628cb8cb4578d6625fbceb9437509d735c56381",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360060919453howtousethezend-5ov2jume86jd",
+    "path": "articles/How-to-Use-the-Zendesk-App.md",
+    "slug": "How-to-Use-the-Zendesk-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360060919453-How-to-Use-the-Zendesk-App",
+    "updated_at": "2026-10-14T18:07:38Z"
+  },
+  "360048914673": {
+    "hash": "974a6e83f753e5244a16af3ed4e93eb81c357b4aca858c29ed6f4d9986e21b81",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360048914673editscreenwhatd-lz07as8kwjwr",
+    "path": "articles/Edit-Screen-What-does-each-option-do.md",
+    "slug": "Edit-Screen-What-does-each-option-do",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do",
+    "updated_at": "2026-10-14T18:02:17Z"
   }
 }
