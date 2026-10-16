@@ -39,38 +39,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices",
     "updated_at": "2026-09-23T19:17:01Z"
   },
-  "23030445716883": {
-    "hash": "eeb3c56d33fcf2d073f28a22dd10954d0a78c99dcbcf791cc3181a968ee4d9d1",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/23030445716883howtosetupaer-q24l6aqiwzye",
-    "path": "articles/How-to-setup-AeriCast-Meet-Wireless-Video-Conferencing.md",
-    "slug": "How-to-setup-AeriCast-Meet-Wireless-Video-Conferencing",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/23030445716883-How-to-setup-AeriCast-Meet-Wireless-Video-Conferencing",
-    "updated_at": "2026-09-11T17:16:28Z"
-  },
-  "20879903340947": {
-    "hash": "aeaecceb8400b0c72de3cf91dd0a3cc5cc6035d1ef0de54ef0afb9abb4206234",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/20879903340947howtouseconte-smdfsosguy5p",
-    "path": "articles/How-to-Use-Content-Tags-in-The-Playlist.md",
-    "slug": "How-to-Use-Content-Tags-in-The-Playlist",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-Content-Tags-in-The-Playlist",
-    "updated_at": "2026-09-14T02:42:33Z"
-  },
-  "28598173096723": {
-    "hash": "124b329fe6b8b653b60c3bd1082f6c86eea4c4e5b51303f99b1a1165c08fbcc9",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28598173096723howtocreatean-t4b5ljz895xq",
-    "path": "articles/How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232.md",
-    "slug": "How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
-    "updated_at": "2026-09-11T20:59:10Z"
-  },
-  "360042736794": {
-    "hash": "62dab7081579609587b49faac724eacd9abe123e826ac8c50e4e79e06c7cbb4a",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360042736794howtosetanasset-w2lk6t5lngu9",
-    "path": "articles/How-to-set-an-asset-to-Live-or-Expire-at-specific-time.md",
-    "slug": "How-to-set-an-asset-to-Live-or-Expire-at-specific-time",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360042736794-How-to-set-an-asset-to-Live-or-Expire-at-specific-time",
-    "updated_at": "2026-09-11T20:37:05Z"
-  },
   "1500001985341": {
     "hash": "8faa72c08f3973c929c8c3c70d746941a184fe342a77a73fccd23852b02c6352",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500001985341howtousetheloc-h4kzfio5dohu",
@@ -78,14 +46,6 @@
     "slug": "How-to-Use-the-Local-Folder-App-in-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns",
     "updated_at": "2026-09-22T15:01:01Z"
-  },
-  "27267311796243": {
-    "hash": "a6afb38f920de9df19169ddae852decb210f73a46bb957813ace142b08584772",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/27267311796243optistick-e7z2cbchfg2q",
-    "path": "articles/OptiStick.md",
-    "slug": "OptiStick",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick",
-    "updated_at": "2026-09-13T02:35:58Z"
   },
   "360016313754": {
     "hash": "65080ab7c8225116f7ef6d75bd961f2a05b1b44ab4d9860ea1fe42b04177bb4b",
@@ -151,14 +111,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
     "updated_at": "2026-10-14T18:00:33Z"
   },
-  "13320135306515": {
-    "hash": "cf08235a65b94529b319a8e86f83ec7abc07aae448c94f314c1a6dcdbed4c972",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/13320135306515buildintegrat-fdrg82ufg44l",
-    "path": "articles/Build-Integrations-Using-the-OptiSigns-Enterprise-App.md",
-    "slug": "Build-Integrations-Using-the-OptiSigns-Enterprise-App",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App",
-    "updated_at": "2026-09-14T15:53:06Z"
-  },
   "360021855653": {
     "hash": "646ae836bf357a06e04a86f11d705807e341d76932372fd362391b089d91234b",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360021855653whathardwareand-n5rgmxaitkc1",
@@ -166,14 +118,6 @@
     "slug": "What-hardware-and-devices-are-supported",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported",
     "updated_at": "2026-10-12T06:20:04Z"
-  },
-  "360051014773": {
-    "hash": "6954ee3998777fb543dcc666b0e2b0e429380f1f263ff09f242be0dffe3375de",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360051014773showyoutubevide-jsm6vmicsc4e",
-    "path": "articles/Show-YouTube-video-s-subtitle-closed-caption.md",
-    "slug": "Show-YouTube-video-s-subtitle-closed-caption",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360051014773-Show-YouTube-video-s-subtitle-closed-caption",
-    "updated_at": "2026-09-14T11:06:00Z"
   },
   "360050664913": {
     "hash": "3342f09c42ae2620c84bdc90a7e6cb15fc26200e098667d3699fb17fcddf0217",
@@ -560,12 +504,12 @@
     "updated_at": "2026-10-01T19:33:01Z"
   },
   "360041222994": {
-    "hash": "2efa065ebc95f02c00ba6269f70965da464d574689f684e55f2b8bd543b60616",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360041222994howtousethecoun-s8bkvhkz6prg",
+    "hash": "f6ff6f07cb4ce664cda70830a91298066b1bee59eacbbad31540bb12039376b7",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360041222994howtousethecoun-b5bk1rzk8y5q",
     "path": "articles/How-to-Use-the-CountUp-App.md",
     "slug": "How-to-Use-the-CountUp-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App",
-    "updated_at": "2026-10-01T17:24:51Z"
+    "updated_at": "2026-10-15T16:20:51Z"
   },
   "4414539282067": {
     "hash": "a8e29812d3eddd270c6958a13712f0268c2707f3c38fdd5eff1c6e9609a2d251",
@@ -798,5 +742,61 @@
     "slug": "Edit-Screen-What-does-each-option-do",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do",
     "updated_at": "2026-10-14T18:02:17Z"
+  },
+  "1500009343862": {
+    "hash": "d384c651cec5b52aeb49ebfcb8c4b42e4a9484e4cadb595ee021b73f7f758470",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500009343862howtousethetag-l6stuo18a35n",
+    "path": "articles/How-to-Use-the-Taggbox-Display-App.md",
+    "slug": "How-to-Use-the-Taggbox-Display-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/1500009343862-How-to-Use-the-Taggbox-Display-App",
+    "updated_at": "2026-10-15T22:17:54Z"
+  },
+  "4406180781203": {
+    "hash": "0267f280a3e9372ef8374d7cf20ef3e486b6b5a7ba136ec35c6b9676a88d4e08",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4406180781203howtousethelin-wzn09btajlh7",
+    "path": "articles/How-to-Use-the-LinkedIn-App.md",
+    "slug": "How-to-Use-the-LinkedIn-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4406180781203-How-to-Use-the-LinkedIn-App",
+    "updated_at": "2026-10-15T21:52:35Z"
+  },
+  "360049875794": {
+    "hash": "072cd0c1254905bfd2e24845d6e1d544be0f15a2239dd0dc4146a52416c23299",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360049875794howtousethefoll-ykj178o9ox37",
+    "path": "articles/How-to-Use-the-Follow-Us-App.md",
+    "slug": "How-to-Use-the-Follow-Us-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360049875794-How-to-Use-the-Follow-Us-App",
+    "updated_at": "2026-10-15T21:48:40Z"
+  },
+  "4403267825171": {
+    "hash": "5730eaed792860fde8d64a52f7341c7be927cc8ac24c06b5f52d80e7bb30041a",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4403267825171howtousethesoc-mp0ql6bbjvqa",
+    "path": "articles/How-to-Use-the-Social-Mix-App.md",
+    "slug": "How-to-Use-the-Social-Mix-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4403267825171-How-to-Use-the-Social-Mix-App",
+    "updated_at": "2026-10-15T21:07:28Z"
+  },
+  "360051495193": {
+    "hash": "8516f6863f16625395cd289b4857facdc384c801eb1b4e9e402adbeb379513cb",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360051495193howtousetheinst-qp2lr8lxqpaa",
+    "path": "articles/How-to-Use-the-Instagram-Business-App.md",
+    "slug": "How-to-Use-the-Instagram-Business-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360051495193-How-to-Use-the-Instagram-Business-App",
+    "updated_at": "2026-10-15T19:29:03Z"
+  },
+  "360041638433": {
+    "hash": "4c09a082501bd868407e06f3a681d0c6ac3770b57ac57a56f86597583a5071c9",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360041638433howtousethecoun-b5wj2j5567xt",
+    "path": "articles/How-to-Use-the-CountDown-App.md",
+    "slug": "How-to-Use-the-CountDown-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-Use-the-CountDown-App",
+    "updated_at": "2026-10-15T18:24:17Z"
+  },
+  "53497007807251": {
+    "hash": "32573767fe5bf789f319d0d05d6d4fbd1002a9cdc2987a85111800293d6a4e7c",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/53497007807251devicemanagem-uxf72oarwtfk",
+    "path": "articles/Device-Management-and-Mass-Provisioning.md",
+    "slug": "Device-Management-and-Mass-Provisioning",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning",
+    "updated_at": "2026-10-15T16:10:20Z"
   }
 }
