@@ -55,54 +55,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
     "updated_at": "2026-10-09T06:17:18Z"
   },
-  "4409673381011": {
-    "hash": "69eccd8f03e32fede41eb8ce0b550e2b6544befb1d5c90eed3354b0e4f8fb18e",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4409673381011howtousetheeme-xrr2dfuosptf",
-    "path": "articles/How-to-Use-the-Emergency-Feed-App.md",
-    "slug": "How-to-Use-the-Emergency-Feed-App",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/4409673381011-How-to-Use-the-Emergency-Feed-App",
-    "updated_at": "2026-09-14T21:00:39Z"
-  },
-  "1500009492202": {
-    "hash": "838040a82152ed0319f43c63827db88111dc2234c9ef2c31f3d4209bf577357e",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500009492202howtousetheont-l0qovlsfwfqu",
-    "path": "articles/How-to-Use-the-On-This-Day-App.md",
-    "slug": "How-to-Use-the-On-This-Day-App",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/1500009492202-How-to-Use-the-On-This-Day-App",
-    "updated_at": "2026-09-14T20:35:04Z"
-  },
-  "9061950942995": {
-    "hash": "76880734d998be99730be9a57f291aa91803e8cfd03d357e3355edf34bc86c9e",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/9061950942995usingrs232tosc-i03r0zd1vaxp",
-    "path": "articles/Using-RS232-to-Schedule-TV-Power-On-Off-or-other-commands.md",
-    "slug": "Using-RS232-to-Schedule-TV-Power-On-Off-or-other-commands",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/9061950942995-Using-RS232-to-Schedule-TV-Power-On-Off-or-other-commands",
-    "updated_at": "2026-09-14T20:13:11Z"
-  },
-  "13097501958291": {
-    "hash": "21f6b502b5725e20600efdde3740e67333c911af1a742e686291e23ccc4c2930",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/13097501958291optisignsiots-3gzdu4g6zgva",
-    "path": "articles/OptiSigns-IoT-Sensor-Add-on-Quick-Start.md",
-    "slug": "OptiSigns-IoT-Sensor-Add-on-Quick-Start",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/13097501958291-OptiSigns-IoT-Sensor-Add-on-Quick-Start",
-    "updated_at": "2026-09-14T18:49:07Z"
-  },
-  "360059386254": {
-    "hash": "c233008b95dd79d0b5abf973290646f166e8401b019f01ae6eb6b7069440cf03",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360059386254howtousetheyout-infaai2m8fn1",
-    "path": "articles/How-to-Use-the-YouTube-Playlist-App-with-OptiSigns.md",
-    "slug": "How-to-Use-the-YouTube-Playlist-App-with-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360059386254-How-to-Use-the-YouTube-Playlist-App-with-OptiSigns",
-    "updated_at": "2026-09-14T18:47:59Z"
-  },
-  "16364134190355": {
-    "hash": "f203224563b22304a1aa9ef8ea0dd39bb21792afa4413d12cffdf564d82703b6",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/16364134190355howtousestrea-p0q523073rey",
-    "path": "articles/How-to-use-Streaming-App-with-OptiSigns.md",
-    "slug": "How-to-use-Streaming-App-with-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/16364134190355-How-to-use-Streaming-App-with-OptiSigns",
-    "updated_at": "2026-09-14T16:05:11Z"
-  },
   "28295074995859": {
     "hash": "0d068ab06ef186045c7fc08d789f3d815a7e93a78e00df59f5b645b6176ecb65",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28295074995859howtomanagean-kkc0tu8by72j",
@@ -127,22 +79,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360050664913-How-to-use-Google-Trends-App",
     "updated_at": "2026-09-16T03:55:59Z"
   },
-  "55450681344915": {
-    "hash": "ec44380dc044eba6d25706b9fd6a2395006b3905eadbf42107974b5b3bc139a3",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/55450681344915connectsharep-0ol2m8hmiqcs",
-    "path": "articles/Connect-SharePoint-News-to-OptiSigns-Digital-Signage.md",
-    "slug": "Connect-SharePoint-News-to-OptiSigns-Digital-Signage",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/55450681344915-Connect-SharePoint-News-to-OptiSigns-Digital-Signage",
-    "updated_at": "2026-09-15T23:09:01Z"
-  },
-  "55416186918163": {
-    "hash": "ab1762e498656edc210c3f1cf45102a5f212a08ccc8a6d8ba8058de343ce8066",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/55416186918163howtogetamicr-6s1jw7pl5lwx",
-    "path": "articles/How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast.md",
-    "slug": "How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast",
-    "updated_at": "2026-09-15T17:33:06Z"
-  },
   "55416185869331": {
     "hash": "ced6ec7517611d7c62650184822aa9846890f8b17b91a91763b4ef3fa67ad11c",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/55416185869331broadcastsend-f5jgke8wz5xe",
@@ -158,14 +94,6 @@
     "slug": "How-to-Use-Google-Sheets-with-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360056977214-How-to-Use-Google-Sheets-with-OptiSigns",
     "updated_at": "2026-09-18T19:56:41Z"
-  },
-  "360047499893": {
-    "hash": "7ae9f5f458e82ebaeda044ab1bf44e509955eff325f68796db5e4440e184a42b",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360047499893howtousegooglet-g854ub23xe32",
-    "path": "articles/How-to-use-Google-Traffic-App.md",
-    "slug": "How-to-use-Google-Traffic-App",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360047499893-How-to-use-Google-Traffic-App",
-    "updated_at": "2026-09-15T11:32:26Z"
   },
   "360051014713": {
     "hash": "b8648fd80fa256dafb6637decdcec8fe578d3f06a5488faf1889b1a80ece889e",
@@ -392,12 +320,12 @@
     "updated_at": "2026-09-29T19:54:35Z"
   },
   "55895814798739": {
-    "hash": "6d84caa5dfb1f48f9af0c1c49952c144461770275bd759546b69a3375c7a5cbc",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/55895814798739howtodisplays-f2t1zox3exfo",
+    "hash": "bf3726b3bbd6253d2c963bbb3d0250d279e280d43664ffaee8b0893ae6666e6e",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/55895814798739howtodisplays-8lism5urlf9m",
     "path": "articles/How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns.md",
     "slug": "How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns",
-    "updated_at": "2026-10-12T20:31:04Z"
+    "updated_at": "2026-10-16T21:20:16Z"
   },
   "55906396437523": {
     "hash": "25c5ae4a71ef998f71ee9bd33ee989fbede77a8c217a4c3d2864a82825706972",
@@ -440,12 +368,12 @@
     "updated_at": "2026-09-30T18:46:41Z"
   },
   "360050665253": {
-    "hash": "b9470b652a65182918270b25bed5cce670d123dcd5f2d7f6886052ed1fe66646",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360050665253howtousetheoned-r1lwg3iatiar",
+    "hash": "0fe2711bc29726c86d89e405df637cbb07e5d29f258a5872b6dc0f9659bb6bd4",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360050665253howtousetheoned-sl21y19fdq49",
     "path": "articles/How-to-Use-the-OneDrive-App.md",
     "slug": "How-to-Use-the-OneDrive-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360050665253-How-to-Use-the-OneDrive-App",
-    "updated_at": "2026-09-30T18:35:21Z"
+    "updated_at": "2026-10-16T16:30:48Z"
   },
   "4414355658899": {
     "hash": "b0675829e45001a8109200fae1faf30d9915918e620fb12413aea3ab968e702e",
@@ -464,12 +392,12 @@
     "updated_at": "2026-10-01T21:46:16Z"
   },
   "360050665413": {
-    "hash": "d13ef855a1b20ea1260f4e3b71278d5f1b6bdfd8367f1ec5e073cc5b6747f09a",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360050665413howtousethedrop-lwdaip0788ex",
+    "hash": "7b2ea4a7e3d517157530cc84c3aed2f3014a96de3206e5b421308367f325bf3d",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360050665413howtousethedrop-9ispsfry1147",
     "path": "articles/How-to-Use-the-Dropbox-App.md",
     "slug": "How-to-Use-the-Dropbox-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360050665413-How-to-Use-the-Dropbox-App",
-    "updated_at": "2026-10-01T21:20:35Z"
+    "updated_at": "2026-10-16T16:32:20Z"
   },
   "4408946045715": {
     "hash": "75d31780a3e5cee95e357b50511e4288fabbf75626702b236fce5cac7da4e9fb",
@@ -776,12 +704,12 @@
     "updated_at": "2026-10-15T21:07:28Z"
   },
   "360051495193": {
-    "hash": "8516f6863f16625395cd289b4857facdc384c801eb1b4e9e402adbeb379513cb",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360051495193howtousetheinst-qp2lr8lxqpaa",
+    "hash": "8fcd8bcbd6bd11b14da07454d1bb8b6bf452f6500fabf305386c644802220f41",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360051495193howtousetheinst-45dsahq7bnwr",
     "path": "articles/How-to-Use-the-Instagram-Business-App.md",
     "slug": "How-to-Use-the-Instagram-Business-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360051495193-How-to-Use-the-Instagram-Business-App",
-    "updated_at": "2026-10-15T19:29:03Z"
+    "updated_at": "2026-10-16T21:53:33Z"
   },
   "360041638433": {
     "hash": "4c09a082501bd868407e06f3a681d0c6ac3770b57ac57a56f86597583a5071c9",
@@ -798,5 +726,77 @@
     "slug": "Device-Management-and-Mass-Provisioning",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning",
     "updated_at": "2026-10-15T16:10:20Z"
+  },
+  "360016388733": {
+    "hash": "23d315cf65a699fbb03dc97998aaca39be5c162fa8309d5586bba07a65b68f56",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016388733howtousetheinst-59j1tbaqoynm",
+    "path": "articles/How-to-Use-the-Instagram-App.md",
+    "slug": "How-to-Use-the-Instagram-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-Use-the-Instagram-App",
+    "updated_at": "2026-10-16T21:51:44Z"
+  },
+  "44652521310099": {
+    "hash": "04d6cdea0f4f26589ebdaa013fb372f9ddda6ffa2a45ef36e9ff3b7ecfdaec4c",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/44652521310099kiosk10-bosaw8mbsq6x",
+    "path": "articles/Kiosk10.md",
+    "slug": "Kiosk10",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/44652521310099-Kiosk10",
+    "updated_at": "2026-10-16T21:29:53Z"
+  },
+  "360037463934": {
+    "hash": "2b0ec91492a996491028651141807269e03f6eb2ee11714b669f8011d1c7c9f6",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360037463934howtousethegoog-my4iihbm7z0a",
+    "path": "articles/How-to-Use-the-Google-Reviews-App.md",
+    "slug": "How-to-Use-the-Google-Reviews-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360037463934-How-to-Use-the-Google-Reviews-App",
+    "updated_at": "2026-10-16T21:27:23Z"
+  },
+  "56498391179667": {
+    "hash": "d2d6c9afbd8f5df68c87a6e6655ab4069a04999e488a508e2ea07638daa66184",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/56498391179667howtousetheev-1mdwwyhklqzz",
+    "path": "articles/How-to-Use-the-Eventbrite-Events-App.md",
+    "slug": "How-to-Use-the-Eventbrite-Events-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/56498391179667-How-to-Use-the-Eventbrite-Events-App",
+    "updated_at": "2026-10-16T21:22:00Z"
+  },
+  "56498363329683": {
+    "hash": "00ca276603d3edcca9f538c4b3256afc3426e88345aed8f55824418adde2c481",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/56498363329683howtousetheai-2vqvlk5vhw15",
+    "path": "articles/How-to-Use-the-Air-Quality-Index-App.md",
+    "slug": "How-to-Use-the-Air-Quality-Index-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/56498363329683-How-to-Use-the-Air-Quality-Index-App",
+    "updated_at": "2026-10-16T21:10:49Z"
+  },
+  "56493703696659": {
+    "hash": "dc1ad1e8e657870ab17847d47594c03485d2408e385c29d3ec0c769d5cacf039",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/56493703696659howtodisplayd-dq12714w51go",
+    "path": "articles/How-to-Display-Datadog-Dashboards-on-OptiSigns.md",
+    "slug": "How-to-Display-Datadog-Dashboards-on-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/56493703696659-How-to-Display-Datadog-Dashboards-on-OptiSigns",
+    "updated_at": "2026-10-16T19:51:56Z"
+  },
+  "360037391854": {
+    "hash": "438ec0c84e168ffac7730e8506edc7561395c0a4c0d7bbf7706ed96b2be10dc5",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360037391854howtodisplaycon-uyyfhsd6sj9o",
+    "path": "articles/How-to-Display-Content-From-Websites-That-Require-a-Login.md",
+    "slug": "How-to-Display-Content-From-Websites-That-Require-a-Login",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360037391854-How-to-Display-Content-From-Websites-That-Require-a-Login",
+    "updated_at": "2026-10-16T17:01:33Z"
+  },
+  "360049518313": {
+    "hash": "2e6527a8e407c32667efaffc9d08e39de67046bc4ecc566ede51a94866a978b4",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360049518313howtousethegoog-v52xzfom24yj",
+    "path": "articles/How-to-Use-the-Google-Drive-App.md",
+    "slug": "How-to-Use-the-Google-Drive-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360049518313-How-to-Use-the-Google-Drive-App",
+    "updated_at": "2026-10-16T16:33:18Z"
+  },
+  "30003143806099": {
+    "hash": "c7170f317e08a04cc43fa9b6bd5791de47283cbbf876a90ad86d79ac19049198",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/30003143806099howtousetheop-j2v3bojb9tpg",
+    "path": "articles/How-to-Use-the-OptiSigns-Mobile-Admin-App.md",
+    "slug": "How-to-Use-the-OptiSigns-Mobile-Admin-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App",
+    "updated_at": "2026-10-16T14:31:48Z"
   }
 }

@@ -2,7 +2,7 @@
 title: "Kiosk10"
 article_id: 44652521310099
 source_url: https://support.optisigns.com/hc/en-us/articles/44652521310099-Kiosk10
-updated_at: 2026-05-28T16:41:17Z
+updated_at: 2026-10-16T21:29:53Z
 ---
 
 # Kiosk10
@@ -34,9 +34,9 @@ A compact and portable interactive display, the OptiKiosk 10 is designed for lob
 
 ## What’s in the Box
 
-Each OptiKiosk 32 includes:
+Each OptiKiosk 10 includes:
 
-- OptiKiosk 32 device
+- OptiKiosk 10 device
 - Power cord \& adapter
 - Stand assembly kit\*
 - Quick start guide
