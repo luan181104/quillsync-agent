@@ -71,14 +71,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported",
     "updated_at": "2026-10-12T06:20:04Z"
   },
-  "360050664913": {
-    "hash": "3342f09c42ae2620c84bdc90a7e6cb15fc26200e098667d3699fb17fcddf0217",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360050664913howtousegooglet-64zscpa5yj63",
-    "path": "articles/How-to-use-Google-Trends-App.md",
-    "slug": "How-to-use-Google-Trends-App",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360050664913-How-to-use-Google-Trends-App",
-    "updated_at": "2026-09-16T03:55:59Z"
-  },
   "55416185869331": {
     "hash": "ced6ec7517611d7c62650184822aa9846890f8b17b91a91763b4ef3fa67ad11c",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/55416185869331broadcastsend-f5jgke8wz5xe",
@@ -110,22 +102,6 @@
     "slug": "Whitelist-OptiSigns-IP-addresses-ports",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
     "updated_at": "2026-09-17T15:37:11Z"
-  },
-  "10159088954387": {
-    "hash": "7b0ac0d2962c736cda9185c56a723bfb3ace1045339d180f382b7ceb61a2426e",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/10159088954387howtoputlivet-jkgdo22iwezv",
-    "path": "articles/How-to-put-Live-TV-on-your-screens-with-OptiSigns.md",
-    "slug": "How-to-put-Live-TV-on-your-screens-with-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/10159088954387-How-to-put-Live-TV-on-your-screens-with-OptiSigns",
-    "updated_at": "2026-09-17T05:00:57Z"
-  },
-  "360016833514": {
-    "hash": "503a4d93b974ecf540611d17a1334bceddf62c258ed737644d5ae7c4d83a8720",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016833514changingscreens-62cxvcjeqgj5",
-    "path": "articles/Changing-screen-s-orientation-portrait-landscape.md",
-    "slug": "Changing-screen-s-orientation-portrait-landscape",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360016833514-Changing-screen-s-orientation-portrait-landscape",
-    "updated_at": "2026-09-17T04:18:56Z"
   },
   "360016375153": {
     "hash": "19c4a4d08b8adc5420622c222d9879c41bb3776d4cf08b78ba3f7fe3b81cf7c2",
@@ -272,12 +248,12 @@
     "updated_at": "2026-09-28T22:24:04Z"
   },
   "360061576673": {
-    "hash": "90cca7360e8ab607a118086ef3e3d847530dc0eaa771a79031b6ff7533bac197",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360061576673advancedenforce-61yn1emkxxsa",
+    "hash": "a1ddcee551f8b2857d025e4c3252780efeef35c1864b6d5afa6051449372c596",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360061576673advancedenforce-6hjmgvvm11if",
     "path": "articles/Advanced-Enforce-SSO-login-for-your-account.md",
     "slug": "Advanced-Enforce-SSO-login-for-your-account",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360061576673-Advanced-Enforce-SSO-login-for-your-account",
-    "updated_at": "2026-09-28T21:53:26Z"
+    "updated_at": "2026-10-19T18:53:23Z"
   },
   "360024859713": {
     "hash": "7ec5253b54b31107b2a3f7616dec265882df65a51dd243108757ae6d07dd6609",
@@ -798,5 +774,29 @@
     "slug": "How-to-Use-the-OptiSigns-Mobile-Admin-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App",
     "updated_at": "2026-10-16T14:31:48Z"
+  },
+  "4403015887763": {
+    "hash": "a8f07fd5115462ac3754aab521eb013cd2d36e644ed9e14e5786f44322126c8d",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4403015887763howtomoderatey-malbn65wv735",
+    "path": "articles/How-to-Moderate-Your-Social-Media-Feeds.md",
+    "slug": "How-to-Moderate-Your-Social-Media-Feeds",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4403015887763-How-to-Moderate-Your-Social-Media-Feeds",
+    "updated_at": "2026-10-19T20:31:54Z"
+  },
+  "360049159814": {
+    "hash": "6d71b81cfa1828ad1469e530f3b9ed0da6e60ea8a68cbd6a2b03beeb7385b7d9",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360049159814howtousethewall-519pmyjdld9o",
+    "path": "articles/How-to-Use-the-Walls-io-App.md",
+    "slug": "How-to-Use-the-Walls-io-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360049159814-How-to-Use-the-Walls-io-App",
+    "updated_at": "2026-10-19T20:14:32Z"
+  },
+  "360038992973": {
+    "hash": "e6622d2f773f2300ee261619cf66bf3635391e4437d078e4beee922d1e6449a8",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360038992973videocodecorvid-x59dp0wbv3qk",
+    "path": "articles/Video-codec-or-video-playback-issues.md",
+    "slug": "Video-codec-or-video-playback-issues",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360038992973-Video-codec-or-video-playback-issues",
+    "updated_at": "2026-10-19T13:04:32Z"
   }
 }

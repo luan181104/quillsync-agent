@@ -2,7 +2,7 @@
 title: "Advanced: Enforce SSO login for your account"
 article_id: 360061576673
 source_url: https://support.optisigns.com/hc/en-us/articles/360061576673-Advanced-Enforce-SSO-login-for-your-account
-updated_at: 2026-09-28T21:53:26Z
+updated_at: 2026-10-19T18:53:23Z
 ---
 
 # Advanced: Enforce SSO login for your account
