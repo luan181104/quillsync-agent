@@ -95,14 +95,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
     "updated_at": "2026-09-24T14:52:18Z"
   },
-  "360047275934": {
-    "hash": "91d47710b59bae549b9ce8174955e243e385379923197340e72320071a81ee5f",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360047275934whitelistoptisi-khfihsma4e7d",
-    "path": "articles/Whitelist-OptiSigns-IP-addresses-ports.md",
-    "slug": "Whitelist-OptiSigns-IP-addresses-ports",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-    "updated_at": "2026-09-17T15:37:11Z"
-  },
   "360016375153": {
     "hash": "19c4a4d08b8adc5420622c222d9879c41bb3776d4cf08b78ba3f7fe3b81cf7c2",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016375153assigncontentto-z94eu60chzra",
@@ -798,5 +790,13 @@
     "slug": "Video-codec-or-video-playback-issues",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360038992973-Video-codec-or-video-playback-issues",
     "updated_at": "2026-10-19T13:04:32Z"
+  },
+  "15268811715347": {
+    "hash": "dcf1b9fc8cd3e8fbf029ca8bb2929fd30ba210d092f3f7a58d1d91dfe49b9ab9",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/15268811715347cannotfindthe-05su1anqxq96",
+    "path": "articles/Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV.md",
+    "slug": "Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV",
+    "updated_at": "2026-10-21T09:26:59Z"
   }
 }
