@@ -95,14 +95,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
     "updated_at": "2026-09-24T14:52:18Z"
   },
-  "360016375153": {
-    "hash": "19c4a4d08b8adc5420622c222d9879c41bb3776d4cf08b78ba3f7fe3b81cf7c2",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016375153assigncontentto-z94eu60chzra",
-    "path": "articles/Assign-content-to-your-screens.md",
-    "slug": "Assign-content-to-your-screens",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens",
-    "updated_at": "2026-09-18T08:49:43Z"
-  },
   "6604468198291": {
     "hash": "bf6c43be38d96272a4919ea53c3f4ba92c07c5e150322ff531d254528dfd2868",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/6604468198291howtousethecap-0udi7a6bddsk",
@@ -118,14 +110,6 @@
     "slug": "How-to-Delete-Your-Account-from-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
     "updated_at": "2026-09-18T13:52:14Z"
-  },
-  "360055900513": {
-    "hash": "e0942cc235709ddb419721bcc4d803c637acf0a0b153f2fa217658173140a680",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360055900513howtocreateandu-97i9l2o4qexj",
-    "path": "articles/How-to-create-and-use-Virtual-Screen-App.md",
-    "slug": "How-to-create-and-use-Virtual-Screen-App",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360055900513-How-to-create-and-use-Virtual-Screen-App",
-    "updated_at": "2026-09-18T11:46:30Z"
   },
   "360034883113": {
     "hash": "33fac8547c1d6597e44d3fb4216b1f0350e4e00b3237bc42b442ab6ec622fc5d",
@@ -798,5 +782,21 @@
     "slug": "Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV",
     "updated_at": "2026-10-21T09:26:59Z"
+  },
+  "48241081473043": {
+    "hash": "0e308185bc35a245d48dfc1d83eb510b8c643f010f072c8159818befca8fc7b6",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/48241081473043operationalsc-1knfs3rfaf3d",
+    "path": "articles/Operational-Schedule-Troubleshooting.md",
+    "slug": "Operational-Schedule-Troubleshooting",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/48241081473043-Operational-Schedule-Troubleshooting",
+    "updated_at": "2026-10-22T23:47:31Z"
+  },
+  "4414564078995": {
+    "hash": "50fdcde232ebfd10c575fc7aceb84c719eae70790f931a133eda611f51eb9848",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4414564078995errorhandling-ukyae7djzxaf",
+    "path": "articles/Error-Handling.md",
+    "slug": "Error-Handling",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4414564078995-Error-Handling",
+    "updated_at": "2026-10-22T10:22:18Z"
   }
 }

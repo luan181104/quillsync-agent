@@ -2,7 +2,7 @@
 title: "Operational Schedule Troubleshooting"
 article_id: 48241081473043
 source_url: https://support.optisigns.com/hc/en-us/articles/48241081473043-Operational-Schedule-Troubleshooting
-updated_at: 2026-04-20T21:26:17Z
+updated_at: 2026-10-22T23:47:31Z
 ---
 
 # Operational Schedule Troubleshooting
