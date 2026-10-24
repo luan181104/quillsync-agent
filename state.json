@@ -103,14 +103,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/6604468198291-How-to-Use-the-CAP-Alert-App",
     "updated_at": "2026-09-18T20:09:38Z"
   },
-  "4404608957075": {
-    "hash": "b2fc4573b16e79b8fba50b7695cd5b2a663fc18ecc39589ce4a04381644bddb8",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4404608957075howtodeleteyou-josrxo4ddxy6",
-    "path": "articles/How-to-Delete-Your-Account-from-OptiSigns.md",
-    "slug": "How-to-Delete-Your-Account-from-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
-    "updated_at": "2026-09-18T13:52:14Z"
-  },
   "360034883113": {
     "hash": "33fac8547c1d6597e44d3fb4216b1f0350e4e00b3237bc42b442ab6ec622fc5d",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360034883113workingwithteam-agce3ip006a2",
@@ -798,5 +790,13 @@
     "slug": "Error-Handling",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/4414564078995-Error-Handling",
     "updated_at": "2026-10-22T10:22:18Z"
+  },
+  "25273043501587": {
+    "hash": "577549abc0467c2161afc40535a7f5ebdc97ff20f884fdc2369ffcf7d5420120",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/25273043501587howtolockdown-dgilcc4g5ujt",
+    "path": "articles/How-to-Lockdown-iPad-Single-App-with-Guided-Accessibility.md",
+    "slug": "How-to-Lockdown-iPad-Single-App-with-Guided-Accessibility",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/25273043501587-How-to-Lockdown-iPad-Single-App-with-Guided-Accessibility",
+    "updated_at": "2026-10-23T15:32:18Z"
   }
 }

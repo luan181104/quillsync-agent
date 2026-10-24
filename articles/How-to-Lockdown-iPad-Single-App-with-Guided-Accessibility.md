@@ -2,7 +2,7 @@
 title: "How to Lockdown iPad/Single App with Guided Accessibility"
 article_id: 25273043501587
 source_url: https://support.optisigns.com/hc/en-us/articles/25273043501587-How-to-Lockdown-iPad-Single-App-with-Guided-Accessibility
-updated_at: 2026-09-10T09:50:40Z
+updated_at: 2026-10-23T15:32:18Z
 ---
 
 # How to Lockdown iPad/Single App with Guided Accessibility
