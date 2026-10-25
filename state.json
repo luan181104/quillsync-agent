@@ -79,14 +79,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards",
     "updated_at": "2026-09-23T16:24:51Z"
   },
-  "360056977214": {
-    "hash": "145422c339bdb1d4b9e84eea920a60fd12a4de3a64a07bbfe6cc92116cf5f331",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360056977214howtousegoogles-5tldaavw23qs",
-    "path": "articles/How-to-Use-Google-Sheets-with-OptiSigns.md",
-    "slug": "How-to-Use-Google-Sheets-with-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360056977214-How-to-Use-Google-Sheets-with-OptiSigns",
-    "updated_at": "2026-09-18T19:56:41Z"
-  },
   "360051014713": {
     "hash": "b8648fd80fa256dafb6637decdcec8fe578d3f06a5488faf1889b1a80ece889e",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360051014713howtouseyoutube-7h09fwe2r2fj",
@@ -798,5 +790,13 @@
     "slug": "How-to-Lockdown-iPad-Single-App-with-Guided-Accessibility",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/25273043501587-How-to-Lockdown-iPad-Single-App-with-Guided-Accessibility",
     "updated_at": "2026-10-23T15:32:18Z"
+  },
+  "34087061669523": {
+    "hash": "1c6097ed2f7245f8c2e45618cbe6855e789968059ca0917a00cf3d59cb9b8a58",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/34087061669523amazonsignage-xb0np2839zru",
+    "path": "articles/Amazon-Signage-Stick.md",
+    "slug": "Amazon-Signage-Stick",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick",
+    "updated_at": "2026-10-25T02:01:21Z"
   }
 }
