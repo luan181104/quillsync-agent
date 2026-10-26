@@ -2,7 +2,7 @@
 title: "About the OnHold Devices Folder"
 article_id: 1500003244381
 source_url: https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder
-updated_at: 2026-09-07T11:26:40Z
+updated_at: 2026-10-25T15:48:03Z
 ---
 
 # About the OnHold Devices Folder

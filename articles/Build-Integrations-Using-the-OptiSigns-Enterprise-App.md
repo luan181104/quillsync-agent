@@ -2,7 +2,7 @@
 title: "Build Integrations Using the OptiSigns Enterprise App"
 article_id: 13320135306515
 source_url: https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App
-updated_at: 2026-09-14T15:53:06Z
+updated_at: 2026-10-26T08:22:44Z
 ---
 
 # Build Integrations Using the OptiSigns Enterprise App
@@ -31,8 +31,6 @@ OptiSigns Enterprise App is more than a framework, it also contains templates to
 Go to [app.optisigns.com](https://app.optisigns.com/).
 
 Click Files/Assets, then click Apps, and select "Enterprise App".
-
-**EDITOR’S NOTE — Enterprise App now requires the Enterprise entitlement (company feature enterpriseAPP). Without it the card shows a padlock and clicking it opens an 'Enterprise Feature \- contact support@optisigns.com' dialog. Consider stating this prerequisite here. The picker is also now titled 'Add App', not 'Select App'. (delete before publishing)**
 
 ![Add App dialog with Enterprise searched and the Enterprise App card highlighted](https://support.optisigns.com/hc/article_attachments/55400884329619)
 

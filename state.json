@@ -87,14 +87,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
     "updated_at": "2026-09-24T14:52:18Z"
   },
-  "6604468198291": {
-    "hash": "bf6c43be38d96272a4919ea53c3f4ba92c07c5e150322ff531d254528dfd2868",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/6604468198291howtousethecap-0udi7a6bddsk",
-    "path": "articles/How-to-Use-the-CAP-Alert-App.md",
-    "slug": "How-to-Use-the-CAP-Alert-App",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/6604468198291-How-to-Use-the-CAP-Alert-App",
-    "updated_at": "2026-09-18T20:09:38Z"
-  },
   "360034883113": {
     "hash": "33fac8547c1d6597e44d3fb4216b1f0350e4e00b3237bc42b442ab6ec622fc5d",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360034883113workingwithteam-agce3ip006a2",
@@ -134,14 +126,6 @@
     "slug": "Multilingual-and-Multi-Currency-Options",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/4411762539027-Multilingual-and-Multi-Currency-Options",
     "updated_at": "2026-09-21T17:51:53Z"
-  },
-  "35577511423635": {
-    "hash": "48757b2189ecad2e54fd52cbf5c60440d538748c584c05545ada847fe8d857b2",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/35577511423635optisignsprop-z7cskdm50zql",
-    "path": "articles/OptiSigns-Pro-Player-Advanced-Features.md",
-    "slug": "OptiSigns-Pro-Player-Advanced-Features",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/35577511423635-OptiSigns-Pro-Player-Advanced-Features",
-    "updated_at": "2026-09-21T15:11:34Z"
   },
   "55669121864979": {
     "hash": "6657cddad34d0f47487df246adb46291c92660300732409a61d17c2d0a16eb14",
@@ -798,5 +782,21 @@
     "slug": "Amazon-Signage-Stick",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick",
     "updated_at": "2026-10-25T02:01:21Z"
+  },
+  "13320135306515": {
+    "hash": "8d537fe946d36721676a235d53eafd36c4a82d1d60749b82cdfa4551d8cd533f",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/13320135306515buildintegrat-e3p85y0xgjk8",
+    "path": "articles/Build-Integrations-Using-the-OptiSigns-Enterprise-App.md",
+    "slug": "Build-Integrations-Using-the-OptiSigns-Enterprise-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App",
+    "updated_at": "2026-10-26T08:22:44Z"
+  },
+  "1500003244381": {
+    "hash": "448be91d93e3f50b79bca4ddb07d6fc30518cf863e55f6f3548bf4b5869a4214",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500003244381abouttheonhold-e33m8fn7il03",
+    "path": "articles/About-the-OnHold-Devices-Folder.md",
+    "slug": "About-the-OnHold-Devices-Folder",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder",
+    "updated_at": "2026-10-25T15:48:03Z"
   }
 }
