@@ -2,7 +2,7 @@
 title: "How to Use the Instagram App"
 article_id: 360016388733
 source_url: https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-Use-the-Instagram-App
-updated_at: 2026-10-16T21:51:44Z
+updated_at: 2026-10-26T09:15:39Z
 ---
 
 # How to Use the Instagram App

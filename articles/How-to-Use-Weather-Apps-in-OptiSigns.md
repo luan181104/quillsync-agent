@@ -2,7 +2,7 @@
 title: "How to Use Weather Apps in OptiSigns"
 article_id: 360017964153
 source_url: https://support.optisigns.com/hc/en-us/articles/360017964153-How-to-Use-Weather-Apps-in-OptiSigns
-updated_at: 2026-09-29T19:54:35Z
+updated_at: 2026-10-26T09:07:46Z
 ---
 
 # How to Use Weather Apps in OptiSigns

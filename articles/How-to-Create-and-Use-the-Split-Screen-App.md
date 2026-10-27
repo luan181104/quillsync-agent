@@ -2,7 +2,7 @@
 title: "How to Create and Use the Split Screen App"
 article_id: 360026559573
 source_url: https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App
-updated_at: 2026-08-19T14:57:06Z
+updated_at: 2026-10-26T09:02:54Z
 ---
 
 # How to Create and Use the Split Screen App
