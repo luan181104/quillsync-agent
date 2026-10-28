@@ -95,14 +95,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
     "updated_at": "2026-10-13T01:44:24Z"
   },
-  "4403332894867": {
-    "hash": "dbdb31ddac281bc4be41ffcfb961792f32a67f382c58244ebb2feabc7f3375ae",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4403332894867settingupaudit-d06rio08qjr1",
-    "path": "articles/Setting-Up-Audit-Logging.md",
-    "slug": "Setting-Up-Audit-Logging",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/4403332894867-Setting-Up-Audit-Logging",
-    "updated_at": "2026-09-21T20:44:11Z"
-  },
   "55669121864979": {
     "hash": "6657cddad34d0f47487df246adb46291c92660300732409a61d17c2d0a16eb14",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/55669121864979usingthefligh-5tolj84rm0sz",
@@ -798,5 +790,13 @@
     "slug": "How-to-Create-and-Use-the-Split-Screen-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App",
     "updated_at": "2026-10-26T09:02:54Z"
+  },
+  "1500012522362": {
+    "hash": "94e6380c4268d4ae57edb8e31464f523657f754a8da5e38782f33aee39660752",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500012522362howtousetheweb-gdahh8sqsz58",
+    "path": "articles/How-to-use-the-Web-Scripting-App.md",
+    "slug": "How-to-use-the-Web-Scripting-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/1500012522362-How-to-use-the-Web-Scripting-App",
+    "updated_at": "2026-10-27T17:25:27Z"
   }
 }

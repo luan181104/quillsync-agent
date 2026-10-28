@@ -2,7 +2,7 @@
 title: "How to use the Web Scripting App"
 article_id: 1500012522362
 source_url: https://support.optisigns.com/hc/en-us/articles/1500012522362-How-to-use-the-Web-Scripting-App
-updated_at: 2026-07-31T13:02:35Z
+updated_at: 2026-10-27T17:25:27Z
 ---
 
 # How to use the Web Scripting App
