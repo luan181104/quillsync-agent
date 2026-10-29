@@ -2,7 +2,7 @@
 title: "Advanced: Custom Domain Mapping"
 article_id: 1500000480302
 source_url: https://support.optisigns.com/hc/en-us/articles/1500000480302-Advanced-Custom-Domain-Mapping
-updated_at: 2026-07-14T17:53:32Z
+updated_at: 2026-10-28T20:58:49Z
 ---
 
 # Advanced: Custom Domain Mapping
