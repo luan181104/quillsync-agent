@@ -2,125 +2,152 @@
 title: "BrightSign Players"
 article_id: 5090125683219
 source_url: https://support.optisigns.com/hc/en-us/articles/5090125683219-BrightSign-Players
-updated_at: 2026-05-05T15:50:07Z
+updated_at: 2026-10-29T17:44:28Z
 ---
 
 # BrightSign Players
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/5090125683219-BrightSign-Players
 
-BrightSign is the leader in commercial grade digital signage players, which is known for its reliability. OptiSigns provides full support on BrightSign player, however we do recommend using the HD, XD, and XT product lines for better performance.
+### In this article, we'll install the OptiSigns player on a BrightSign player and pair it with your OptiSigns account.
 
-It is very easy to setup OptiSigns on BrightSign players. There are 2 ways you can set it up. You can set it up in standalone mode, or you can set it up on BSN.cloud.
+- [Set Up with BSN.Cloud](#SetUpWithBSNCloud)
+- [Set Up in Standalone Mode](#SetUpInStandaloneMode)
+- [Pair the Player with Your Account](#PairThePlayerWithYourAccount)
+- [Keep the Player Up to Date](#KeepThePlayerUpToDate)
+- [Update the BrightSign Registry to Use a Newer Chromium](#UpdateTheBrightSignRegistryToUseANewerChromium)
+- [Next Steps](#NextSteps)
 
-## Option 1: Setup with BSN.cloud
+BrightSign makes commercial\-grade digital signage players known for their reliability. OptiSigns runs on BrightSign players, and we recommend the HD, XD and XT product lines for the best performance.
 
-**1\) Download BrightAuthor**
+You can set up OptiSigns on a BrightSign player in two ways:
 
-The latest BrightAuthor can be downloaded [here](https://www.brightsign.biz/digital-signage-products/software/brightauthor).
+- **With BSN.Cloud:** create a setup file in BrightAuthor:connected that installs OptiSigns as a partner application.
+- **Standalone:** copy the OptiSigns autorun file to an SD card.
 
-**2\) Logon to your BSN.cloud account and select device setup**
+Either way, the player downloads your content to its own storage, so it keeps playing if the internet drops for a while.
 
-![mceclip3.png](https://support.optisigns.com/hc/article_attachments/5144414949011)
+---
 
-**3\) Complete the device setup**
+## Set Up with BSN.Cloud
 
-Fill in the value in the package and device name.
+Download and install [BrightAuthor:connected](https://www.brightsign.biz/resources/software-downloads/) from BrightSign.
 
-Select "Partner Application" under Device Type. Click "Select a Partner Application" and find "OptiSigns".
+Open BrightAuthor:connected and sign in to your BSN.Cloud account.
 
-Then click "Save Setup File" to save the generated setup files. 
+Go to **Admin** \> **Device Setup**.
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/5200010385299)
+![BrightAuthor:connected Admin menu open with an arrow on Device Setup](https://support.optisigns.com/hc/article_attachments/56950016554515)
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/5200003714195)
+Enter a **Package Name** and a **Device Name**.
 
-**4\) Copy the setup files to your storage device.**
+Under **Device Type**, select **Partner Application**, then select **Select a Partner Application** and choose **OptiSigns**.
 
-Place the generated setup files in the root directory of your SD card.
+![Select a Partner Application window with an arrow on the OptiSigns tile](https://support.optisigns.com/hc/article_attachments/56950004468115)
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/5144369828755)
+Select **Save Setup Files** to save the setup files.
 
-**5\) Insert the SD card to the player and let it finish the setup**
+![New Device Setup with OptiSigns as the partner application and an arrow on Save Setup Files](https://support.optisigns.com/hc/article_attachments/56950004469907)
 
-The BrightSign player will read the setup files and complete the setup automatically. It will take a few minutes and may reboot a few times.
+Copy the setup files to the root folder of your SD card.
 
-Once the setup process is complete, you will see OptiSigns player running on your screen with the pairing code showing up on the screen.
+![SD card in File Explorer with the BrightSign setup files in its root folder](https://support.optisigns.com/hc/article_attachments/56950004471315)
 
-Please make sure your BrightSign player is connected to the internet.
+Make sure the BrightSign player is connected to the internet, then insert the SD card and power it on.
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/5089996700435) **6\) Pair the screen**Now you are ready to go to our portal at: <https://app.optisigns.com/>
-Pair the screen using your screen's code and start assigning content to it.For detailed steps click [here](https://support.optisigns.com/hc/en-us/articles/360016374813).
+The player reads the setup files and installs OptiSigns. This takes a few minutes, and the player may restart a few times. When it's done, OptiSigns opens and shows a pairing code. Then pair the player with your account, as shown below.
 
- 
+---
 
-## Option 2: Standalone Mode
+## Set Up in Standalone Mode
 
-**1\) Download the autorun file.**
+[Download the OptiSigns autorun file](https://links.optisigns.com/brightsign) (**autorun.zip**).
 
-The latest autorun.zip file can be downloaded [here](https://links.optisigns.com/brightsign). 
+Copy **autorun.zip** to the root folder of your SD card. Don't unzip it.
 
-**2\) Copy the autorun file to your storage device.**
+| **IMPORTANT** |
+| --- |
+| The SD card must be formatted as FAT32\. NTFS doesn't work for this setup. |
 
-The autorun.zip file should be placed in the root of your SD card. The SD card needs to be formatted to **FAT32**. NTFS format does not work for this setup
+![SD card in File Explorer with autorun.zip in its root folder](https://support.optisigns.com/hc/article_attachments/56950016562579)
 
-![mceclip2.png](https://support.optisigns.com/hc/article_attachments/5090013459347)
+Make sure the BrightSign player is connected to the internet, then insert the SD card and power it on.
 
-**3\) Insert the SD card to the player and let it finish the setup**
+The player unpacks the file, installs OptiSigns and restarts. This takes a few minutes, and the player may restart more than once. When it's done, OptiSigns opens and shows a pairing code.
 
-The BrightSign player will read the data from the autorun file and complete the setup automatically. It will take a few minutes and may reboot a few times.
+![OptiSigns player showing a six-character pairing code and app.optisigns.com](https://support.optisigns.com/hc/article_attachments/56950004474003)
 
-Once the setup process is complete, you will see OptiSigns player running on your screen with the pairing code showing up on the screen.
+---
 
-Please make sure your BrightSign player is connected to the internet.
+## Pair the Player with Your Account
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/5089996700435) **4\) Pair the screen**Now you are ready to go to our portal at: <https://app.optisigns.com/>
-Pair the screen using your screen's code and start assigning content to it.Once you pair the screen and start assigning content to it, you can follow these guides for more detailed steps:
+Go to [app.optisigns.com](https://app.optisigns.com/) and log in. If you don't have an account yet, select **Create Account**. You can also log in with Google, Microsoft or Facebook.
 
-- [Set up \& add a screen](https://support.optisigns.com/hc/en-us/articles/360016374813)
+![OptiSigns portal log-in page with Google, Microsoft, Facebook and SSO options](https://support.optisigns.com/hc/article_attachments/56950016564627)
+
+On the **Screens** page, select **Add Screen**.
+
+![Screens page toolbar with an arrow on the Add Screen button](https://support.optisigns.com/hc/article_attachments/56950016566163)
+
+Enter the pairing code shown on the player in **Pair code**, then select **Pair**.
+
+![Add Screen dialog with a pair code entered and the Pair button highlighted](https://support.optisigns.com/hc/article_attachments/56950004482451)
+
+**Note:** Codes are case\-sensitive, and the portal enters them in capitals. If the code on your player has lowercase letters, select **Use lowercase pairing code** and type it exactly as shown. If pairing fails with a case error, the portal switches this on for you, so check the code and select **Pair** again.
+
+---
+
+## Keep the Player Up to Date
+
+OptiSigns starts by itself every time the BrightSign player powers on, so you don't need to open it after a restart.
+
+With **Auto Update** on, the player downloads new OptiSigns versions by itself and restarts to install them. You'll find **Auto Update** in the player's side menu under **Advanced Options**.
+
+If you still have trouble running OptiSigns, your BrightSign software may be out of date. Download the latest version from [BrightSign software downloads](https://www.brightsign.biz/resources/software-downloads/) and update the player.
+
+---
+
+## Update the BrightSign Registry to Use a Newer Chromium
+
+Some content, especially Power BI, needs a newer version of Chromium than the BrightSign player uses by default. You can switch it with a registry command.
+
+Open BrightAuthor:connected and select **Admin**.
+
+![BrightAuthor:connected home page with the Admin menu outlined](https://support.optisigns.com/hc/article_attachments/56950016569363)
+
+Find your BrightSign player's IP address.
+
+On a computer on the same network as the player, enter the IP address in your browser. The player's settings page opens.
+
+Then, select the **Registry** tab.
+
+![BrightSign player settings page with the Registry tab outlined](https://support.optisigns.com/hc/article_attachments/56950016570515)
+
+![Registry tab with an empty Command field and a Submit button](https://support.optisigns.com/hc/article_attachments/56950004487571)
+
+5. In **Command**, enter `registry write html widget_type chromium110`.
+
+![Command field with the registry write html widget_type chromium110 command entered](https://support.optisigns.com/hc/article_attachments/56950004489363)
+
+Select **Submit**. The result shows `widget_type = 'chromium110'`.
+
+![Registry result showing widget_type set to chromium110](https://support.optisigns.com/hc/article_attachments/56950004490259)
+
+Restart the player. It doesn't restart by itself after a registry change, so restart it manually or select **Reboot Player** on the **Control** tab.
+
+---
+
+## Next Steps
+
+Your player is ready to show content. To get started:
+
 - [How to Upload \& Manage Your Files/ Assets](https://support.optisigns.com/hc/en-us/articles/360016247974)
 - [How to Create \& Use Playlists](https://support.optisigns.com/hc/en-us/articles/28295104605843)
-- [Create and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853)
+- [Creating and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853)
+- [Set up \& add a screen](https://support.optisigns.com/hc/en-us/articles/360016374813)
 
-## Updating BrightSign Software
+If you have questions or feedback, contact our support team at support@optisigns.com.
 
-If you have further issues running OptiSigns, it's possible you have an outdated version of the BrightSign software. We recommend updating it.
+### That’s all!
 
-The latest version of BrightSign software can be found [here](https://www.brightsign.biz/resources/software-downloads/).
-
-## How to Update the BrightSign Registry to Use Newer Versions of Chromium
-
-A common issue we find is that BrightSign may need a registry update in order to display newer versions of Chromium. This is a particular issue with displaying PowerBI.
-
-To do this, open up BrightAuthor:connected and navigate to **Admin:**
-
-![](https://support.optisigns.com/hc/article_attachments/36888690739731)
-
-Now you'll need to obtain the IP of your BrightSign player. Input the IP address into your browser (your device must be on the same network as the BrightSign player). If you've done things correctly, you will enter the player config menu.
-
-Once there, navigate to **Registry**:
-
-![](https://support.optisigns.com/hc/article_attachments/36888690740627)
-
-From this
-
-![](https://support.optisigns.com/hc/article_attachments/36888690742547)
-
-Next, input the following command:
-
-```
-registry write html widget_type chromium110
-```
-![](https://support.optisigns.com/hc/article_attachments/36888685278483)
-
-When you hit submit, you'll see this:
-
-![](https://support.optisigns.com/hc/article_attachments/36888690746387)
-
-This will allow your BrightSign player to use the latest versions of Chromium.
-
-### That's all!
-
-Now you are ready to use OptiSigns on your BrightSign players.
-
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

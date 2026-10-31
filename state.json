@@ -23,14 +23,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms",
     "updated_at": "2026-09-30T21:54:02Z"
   },
-  "32860569148819": {
-    "hash": "67aa7246a4aedace2aa68775f02cc1c4996ea9fae28bc96eaed8c1f231c9ea2f",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/32860569148819howtosetupapo-1sx3jzjhzx3j",
-    "path": "articles/How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns.md",
-    "slug": "How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns",
-    "updated_at": "2026-09-28T20:24:07Z"
-  },
   "360016313754": {
     "hash": "65080ab7c8225116f7ef6d75bd961f2a05b1b44ab4d9860ea1fe42b04177bb4b",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016313754howtoinstallana-6h3igg44xpbc",
@@ -56,12 +48,12 @@
     "updated_at": "2026-10-12T06:20:04Z"
   },
   "360051014713": {
-    "hash": "b72b22dae27fef5331af1c6d398fad394ff7220e80ccab337aa2992dcd15114a",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360051014713howtouseyoutube-ufg2z1hs3p7m",
+    "hash": "4a3e610b08fadf0eea8a56feec138a0b7e91831e83a5ad9523c55ea0742d17c9",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360051014713howtouseyoutube-6qecxlfkmxiv",
     "path": "articles/How-to-Use-YouTube-with-OptiSigns.md",
     "slug": "How-to-Use-YouTube-with-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
-    "updated_at": "2026-10-26T13:22:13Z"
+    "updated_at": "2026-10-30T20:44:00Z"
   },
   "360034883113": {
     "hash": "33fac8547c1d6597e44d3fb4216b1f0350e4e00b3237bc42b442ab6ec622fc5d",
@@ -79,14 +71,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns",
     "updated_at": "2026-10-08T16:32:47Z"
   },
-  "23566927217939": {
-    "hash": "8db0f4862cc4d1287fd4477a51aeda6ec852f65c9091c01aa2a989eb2ea54b81",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/23566927217939howtousecheck-6mn2yvql60hn",
-    "path": "articles/How-to-use-Check-in-app-with-SMS-follow-up.md",
-    "slug": "How-to-use-Check-in-app-with-SMS-follow-up",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/23566927217939-How-to-use-Check-in-app-with-SMS-follow-up",
-    "updated_at": "2026-09-28T22:24:04Z"
-  },
   "360061576673": {
     "hash": "a1ddcee551f8b2857d025e4c3252780efeef35c1864b6d5afa6051449372c596",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360061576673advancedenforce-6hjmgvvm11if",
@@ -94,30 +78,6 @@
     "slug": "Advanced-Enforce-SSO-login-for-your-account",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360061576673-Advanced-Enforce-SSO-login-for-your-account",
     "updated_at": "2026-10-19T18:53:23Z"
-  },
-  "360024859713": {
-    "hash": "7ec5253b54b31107b2a3f7616dec265882df65a51dd243108757ae6d07dd6609",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360024859713howtodisplaymic-e8t9aisxxwxu",
-    "path": "articles/How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns.md",
-    "slug": "How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
-    "updated_at": "2026-09-28T20:24:16Z"
-  },
-  "1500000493782": {
-    "hash": "e9dfc239ace1896543b5fa30ea83c63af52f5e59f17e34ec9497d4d74f73256b",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500000493782billinghowdoic-4dhxr8gy6wmx",
-    "path": "articles/Billing-How-Do-I-Change-my-Subscription-Plan.md",
-    "slug": "Billing-How-Do-I-Change-my-Subscription-Plan",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-How-Do-I-Change-my-Subscription-Plan",
-    "updated_at": "2026-09-28T19:34:27Z"
-  },
-  "29838866920211": {
-    "hash": "9568794b5871a9628c60175d8fcbaaf80776295aeb2bf921c4a850e8399db707",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/29838866920211howtoaddgoogl-i348rxyojwoc",
-    "path": "articles/How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync.md",
-    "slug": "How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/29838866920211-How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync",
-    "updated_at": "2026-09-28T19:13:38Z"
   },
   "360017964153": {
     "hash": "f237b49c2bd6add9d0f2803e9c817518c611475dfe37b46cf30c703d7274fc08",
@@ -135,46 +95,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns",
     "updated_at": "2026-10-16T21:20:16Z"
   },
-  "55906396437523": {
-    "hash": "25c5ae4a71ef998f71ee9bd33ee989fbede77a8c217a4c3d2864a82825706972",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/55906396437523howtousethewe-zujh6gwk9y4c",
-    "path": "articles/How-to-Use-the-Weather-Radar-App.md",
-    "slug": "How-to-Use-the-Weather-Radar-App",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/55906396437523-How-to-Use-the-Weather-Radar-App",
-    "updated_at": "2026-09-29T19:04:57Z"
-  },
-  "360016252654": {
-    "hash": "8b7b383658b24c561eee6644b46fe4c7bbcf4c5529bdeb197d09138bac7a0171",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016252654doesoptisignsof-15v461hxtln8",
-    "path": "articles/Does-OptiSigns-offer-Non-profit-Education-discount.md",
-    "slug": "Does-OptiSigns-offer-Non-profit-Education-discount",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360016252654-Does-OptiSigns-offer-Non-profit-Education-discount",
-    "updated_at": "2026-09-29T17:04:04Z"
-  },
-  "44650391786131": {
-    "hash": "a32d119dc23debc7eff50e2682095885ed2976c2b073a19a3b5036dbcb412e9e",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/44650391786131kiosksetuphub-57hx5hrjoiuz",
-    "path": "articles/Kiosk-Setup-Hub.md",
-    "slug": "Kiosk-Setup-Hub",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/44650391786131-Kiosk-Setup-Hub",
-    "updated_at": "2026-09-29T12:54:41Z"
-  },
-  "4529298306963": {
-    "hash": "de4dfbc7fb072c7124add8192ffbbeb0e08791e47355dde61f632d6c634b8127",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4529298306963howtousemicros-g0c0h9ifbwgd",
-    "path": "articles/How-to-Use-Microsoft-Excel-Online-with-OptiSigns.md",
-    "slug": "How-to-Use-Microsoft-Excel-Online-with-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/4529298306963-How-to-Use-Microsoft-Excel-Online-with-OptiSigns",
-    "updated_at": "2026-09-30T20:03:12Z"
-  },
-  "4411530012307": {
-    "hash": "e985e0a56a7bff576a22c37fd007e2ef05ffaff0b4abfcb6965b84f772c20219",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4411530012307howtousemicros-ro57y1yd7wst",
-    "path": "articles/How-to-Use-Microsoft-Teams-Live-app-with-OptiSigns.md",
-    "slug": "How-to-Use-Microsoft-Teams-Live-app-with-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/4411530012307-How-to-Use-Microsoft-Teams-Live-app-with-OptiSigns",
-    "updated_at": "2026-09-30T18:46:41Z"
-  },
   "360050665253": {
     "hash": "0fe2711bc29726c86d89e405df637cbb07e5d29f258a5872b6dc0f9659bb6bd4",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360050665253howtousetheoned-sl21y19fdq49",
@@ -182,14 +102,6 @@
     "slug": "How-to-Use-the-OneDrive-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360050665253-How-to-Use-the-OneDrive-App",
     "updated_at": "2026-10-16T16:30:48Z"
-  },
-  "4414355658899": {
-    "hash": "b0675829e45001a8109200fae1faf30d9915918e620fb12413aea3ab968e702e",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4414355658899howtousemicros-ad28cpjurc96",
-    "path": "articles/How-to-Use-Microsoft-PowerPoint-with-OptiSigns.md",
-    "slug": "How-to-Use-Microsoft-PowerPoint-with-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/4414355658899-How-to-Use-Microsoft-PowerPoint-with-OptiSigns",
-    "updated_at": "2026-09-30T15:53:27Z"
   },
   "4407335862931": {
     "hash": "54416a9559ee220ba553443f98dd5a67e5fba57392da87c4d176a2278fd8995a",
@@ -536,12 +448,12 @@
     "updated_at": "2026-10-15T16:10:20Z"
   },
   "360016388733": {
-    "hash": "6b820eb05e40b10c386c332b25e6b50b134486821e0d64d2664980ba018f237b",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016388733howtousetheinst-fns2wv3o70wy",
+    "hash": "612dd19f03be46741651c834ab8fc9455f47e941585e49902e3c8d5e3f61063a",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016388733howtousetheinst-uliod896oxxz",
     "path": "articles/How-to-Use-the-Instagram-App.md",
     "slug": "How-to-Use-the-Instagram-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-Use-the-Instagram-App",
-    "updated_at": "2026-10-26T09:15:39Z"
+    "updated_at": "2026-10-30T20:24:26Z"
   },
   "44652521310099": {
     "hash": "04d6cdea0f4f26589ebdaa013fb372f9ddda6ffa2a45ef36e9ff3b7ecfdaec4c",
@@ -664,20 +576,20 @@
     "updated_at": "2026-10-23T15:32:18Z"
   },
   "34087061669523": {
-    "hash": "1c6097ed2f7245f8c2e45618cbe6855e789968059ca0917a00cf3d59cb9b8a58",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/34087061669523amazonsignage-xb0np2839zru",
+    "hash": "58f84754eed0d160833ce5efe6efca4ff8b776c4bed37dd32b73b46b6141b4b2",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/34087061669523amazonsignage-7pngiggj3fr6",
     "path": "articles/Amazon-Signage-Stick.md",
     "slug": "Amazon-Signage-Stick",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick",
-    "updated_at": "2026-10-25T02:01:21Z"
+    "updated_at": "2026-10-29T20:18:17Z"
   },
   "13320135306515": {
-    "hash": "8d537fe946d36721676a235d53eafd36c4a82d1d60749b82cdfa4551d8cd533f",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/13320135306515buildintegrat-e3p85y0xgjk8",
+    "hash": "a104fde775ab5ce43c85c047a492cb184de720c1249e7a0690fa2a7d51f2074c",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/13320135306515buildintegrat-y9ohziia25n7",
     "path": "articles/Build-Integrations-Using-the-OptiSigns-Enterprise-App.md",
     "slug": "Build-Integrations-Using-the-OptiSigns-Enterprise-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App",
-    "updated_at": "2026-10-26T08:22:44Z"
+    "updated_at": "2026-10-30T17:06:59Z"
   },
   "1500003244381": {
     "hash": "448be91d93e3f50b79bca4ddb07d6fc30518cf863e55f6f3548bf4b5869a4214",
@@ -798,5 +710,93 @@
     "slug": "Custom-Branding-Settings-and-Branded-Portals",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings-and-Branded-Portals",
     "updated_at": "2026-10-28T16:37:29Z"
+  },
+  "56987330525587": {
+    "hash": "383b6d172e46582e93f1e81b4f937ff65e31e2ad0b7c5177f94df41a6d392ac2",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/56987330525587connectchatgp-7156vwh8sjdq",
+    "path": "articles/Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector.md",
+    "slug": "Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector",
+    "updated_at": "2026-10-30T19:28:50Z"
+  },
+  "360051745633": {
+    "hash": "f9839aaf1ad935cc78ea57b728a044720ecb27c34fa4cb82f92aed2d3336ffe1",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360051745633howtosetupanins-yqirz8ac9blg",
+    "path": "articles/How-to-Set-up-an-Instagram-Business-Creator-account.md",
+    "slug": "How-to-Set-up-an-Instagram-Business-Creator-account",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360051745633-How-to-Set-up-an-Instagram-Business-Creator-account",
+    "updated_at": "2026-10-30T17:23:15Z"
+  },
+  "360047275934": {
+    "hash": "eb910525f033bc27961b852cbcc8f6bd006624b65ae1b20247e46ec8b3027057",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360047275934whitelistoptisi-o56xuhym0l7d",
+    "path": "articles/Whitelist-OptiSigns-IP-Addresses-Ports.md",
+    "slug": "Whitelist-OptiSigns-IP-Addresses-Ports",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-Addresses-Ports",
+    "updated_at": "2026-10-30T16:09:57Z"
+  },
+  "11116333259283": {
+    "hash": "6d96d3d6a29df65ca0c170e5e3ffd5f07e5f389bc0eb61a4a75eac551c861f51",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/11116333259283settingupyour-k7937u7icdme",
+    "path": "articles/Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade.md",
+    "slug": "Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade",
+    "updated_at": "2026-10-29T20:48:30Z"
+  },
+  "14726570281875": {
+    "hash": "d9cb06557534423fa851d700c19ff3f97cc744e082fec3f95e23960b59fc3517",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/14726570281875installingopt-a7bhvy2g4w9y",
+    "path": "articles/Installing-OptiSigns-on-Samsung-Tizen-Smart-TVs.md",
+    "slug": "Installing-OptiSigns-on-Samsung-Tizen-Smart-TVs",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/14726570281875-Installing-OptiSigns-on-Samsung-Tizen-Smart-TVs",
+    "updated_at": "2026-10-29T20:45:27Z"
+  },
+  "5090125683219": {
+    "hash": "fbd4f7b8e43da2724a77dbf0d9af0fecc4bd21857f67f8151c1bf17c8fe505ab",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/5090125683219brightsignplay-z93wgx1n8v3n",
+    "path": "articles/BrightSign-Players.md",
+    "slug": "BrightSign-Players",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/5090125683219-BrightSign-Players",
+    "updated_at": "2026-10-29T17:44:28Z"
+  },
+  "360034379693": {
+    "hash": "a5e6adda5ff14307ed07075c28581933991f65ac570667311c6c20ef602d01aa",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360034379693raspberrypi-vdzchl48my1u",
+    "path": "articles/Raspberry-Pi.md",
+    "slug": "Raspberry-Pi",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360034379693-Raspberry-Pi",
+    "updated_at": "2026-10-29T17:18:19Z"
+  },
+  "56946344474003": {
+    "hash": "df646ac37e9e671a49848ddedfbf5b80bcb66f6c4e3837333f1f3fd7d4a08ca6",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/56946344474003lgwebossmartt-zatjpqzohmsf",
+    "path": "articles/LG-webOS-Smart-TVs-Consumer-Grade.md",
+    "slug": "LG-webOS-Smart-TVs-Consumer-Grade",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/56946344474003-LG-webOS-Smart-TVs-Consumer-Grade",
+    "updated_at": "2026-10-29T16:54:08Z"
+  },
+  "4414496579475": {
+    "hash": "f631369615e5cdffa7419200b27ec7524413ef9f53a94d19bead7f88664e6d25",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4414496579475lgwebossignage-6f7ohyurjyfa",
+    "path": "articles/LG-WebOS-Signage-Commercial-Grade.md",
+    "slug": "LG-WebOS-Signage-Commercial-Grade",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade",
+    "updated_at": "2026-10-29T16:49:32Z"
+  },
+  "360039566974": {
+    "hash": "6a971ddedcb8e32ad926c060e27fe684297483f865f46bf4f3a4d43c37f6c086",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360039566974installoptisign-gc7022czhcoo",
+    "path": "articles/Install-OptiSigns-as-Channel-or-App-on-Roku.md",
+    "slug": "Install-OptiSigns-as-Channel-or-App-on-Roku",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360039566974-Install-OptiSigns-as-Channel-or-App-on-Roku",
+    "updated_at": "2026-10-29T16:45:01Z"
+  },
+  "32129032857875": {
+    "hash": "6de83b8b2023249b43f51ed2e31c712acc918d8407f146e71d31afef247b6cd3",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/32129032857875wheretobuyopt-vbecxchotg8t",
+    "path": "articles/Where-to-Buy-OptiSigns-Devices.md",
+    "slug": "Where-to-Buy-OptiSigns-Devices",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices",
+    "updated_at": "2026-10-29T15:32:35Z"
   }
 }

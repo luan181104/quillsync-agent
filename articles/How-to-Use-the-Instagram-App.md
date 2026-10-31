@@ -2,7 +2,7 @@
 title: "How to Use the Instagram App"
 article_id: 360016388733
 source_url: https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-Use-the-Instagram-App
-updated_at: 2026-10-26T09:15:39Z
+updated_at: 2026-10-30T20:24:26Z
 ---
 
 # How to Use the Instagram App
@@ -11,8 +11,8 @@ Article URL: https://support.optisigns.com/hc/en-us/articles/360016388733-How-to
 
 ### In this article, we'll show how to display your own Instagram posts on your digital signs with OptiSigns.
 
-- [Instagram or Instagram Business?](#InstagramOrInstagramBusiness)
 - [What You'll Need](#WhatYoullNeed)
+- [Instagram or Instagram Business?](#InstagramOrInstagramBusiness)
 - [Creating an Instagram App](#CreatingAnInstagramApp)
 	- [Advanced](#Advanced)
 	- [Moderating Posts](#ModeratingPosts)
