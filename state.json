@@ -15,14 +15,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound",
     "updated_at": "2026-10-14T21:03:18Z"
   },
-  "36911639377683": {
-    "hash": "814eb5604c2d59e4371f7602f5f04831104748d4b5e6e28c968bfaf603730782",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/36911639377683howtouseoptis-8iab3pcadttk",
-    "path": "articles/How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms.md",
-    "slug": "How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms",
-    "updated_at": "2026-09-30T21:54:02Z"
-  },
   "360016313754": {
     "hash": "65080ab7c8225116f7ef6d75bd961f2a05b1b44ab4d9860ea1fe42b04177bb4b",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016313754howtoinstallana-6h3igg44xpbc",
@@ -288,12 +280,12 @@
     "updated_at": "2026-10-26T08:57:11Z"
   },
   "360016254994": {
-    "hash": "a071ed74d6992137856a7035494640bb226f9df92e8e160dc72630f30f5e289b",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016254994howtodisplayvim-tgyjhilrrwpy",
+    "hash": "a5152001542661c2a1483e0bcfe1559e22c9288e65c27027dc6a141afc41a819",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016254994howtodisplayvim-5xe3czai6s2v",
     "path": "articles/How-to-Display-Vimeo-Videos-with-OptiSigns.md",
     "slug": "How-to-Display-Vimeo-Videos-with-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns",
-    "updated_at": "2026-10-13T17:40:15Z"
+    "updated_at": "2026-11-01T03:35:10Z"
   },
   "31113088917907": {
     "hash": "70e06b348643fc6798458f737ba094cfa64c2c407e733e041363d6646c1036ef",
@@ -798,5 +790,13 @@
     "slug": "Where-to-Buy-OptiSigns-Devices",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices",
     "updated_at": "2026-10-29T15:32:35Z"
+  },
+  "28424138317971": {
+    "hash": "e07c2d67e854f3e1a167b41b2156f1150276d4a19a30761176eb45589a286db4",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28424138317971samsungtizent-74aps40759gq",
+    "path": "articles/Samsung-Tizen-TVs-Troubleshooting-Guide.md",
+    "slug": "Samsung-Tizen-TVs-Troubleshooting-Guide",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/28424138317971-Samsung-Tizen-TVs-Troubleshooting-Guide",
+    "updated_at": "2026-10-31T18:30:08Z"
   }
 }

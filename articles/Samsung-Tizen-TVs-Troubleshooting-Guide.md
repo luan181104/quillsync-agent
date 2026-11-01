@@ -2,7 +2,7 @@
 title: "Samsung Tizen TVs Troubleshooting Guide"
 article_id: 28424138317971
 source_url: https://support.optisigns.com/hc/en-us/articles/28424138317971-Samsung-Tizen-TVs-Troubleshooting-Guide
-updated_at: 2026-09-10T09:51:08Z
+updated_at: 2026-10-31T18:30:08Z
 ---
 
 # Samsung Tizen TVs Troubleshooting Guide

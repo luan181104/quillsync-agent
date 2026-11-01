@@ -2,7 +2,7 @@
 title: "How to Display Vimeo Videos with OptiSigns"
 article_id: 360016254994
 source_url: https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns
-updated_at: 2026-10-13T17:40:15Z
+updated_at: 2026-11-01T03:35:10Z
 ---
 
 # How to Display Vimeo Videos with OptiSigns
