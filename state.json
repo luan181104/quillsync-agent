@@ -151,22 +151,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App",
     "updated_at": "2026-10-15T16:20:51Z"
   },
-  "4414539282067": {
-    "hash": "a8e29812d3eddd270c6958a13712f0268c2707f3c38fdd5eff1c6e9609a2d251",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4414539282067displayingshar-dxxvrdnhmv3h",
-    "path": "articles/Displaying-SharePoint-Sites-on-OptiSigns.md",
-    "slug": "Displaying-SharePoint-Sites-on-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns",
-    "updated_at": "2026-10-01T16:01:20Z"
-  },
-  "360036250853": {
-    "hash": "ef6748bae991d06a1927894e05d2f195fb9d42769104fd001cd3be6f9c706e98",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360036250853howtousemicroso-qfl0po1bk6gf",
-    "path": "articles/How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns.md",
-    "slug": "How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360036250853-How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns",
-    "updated_at": "2026-10-01T15:00:40Z"
-  },
   "1500005889381": {
     "hash": "cde2248a99813d204029cf8d3c6ecbc654f51556c875d2aeeee281203153f425",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500005889381howtousethemin-f32g9sa4p5n8",
@@ -798,5 +782,21 @@
     "slug": "Samsung-Tizen-TVs-Troubleshooting-Guide",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/28424138317971-Samsung-Tizen-TVs-Troubleshooting-Guide",
     "updated_at": "2026-10-31T18:30:08Z"
+  },
+  "35626165056787": {
+    "hash": "6a04c91ff65ecfc91ff8dce29aca409ef7d35a1ef740d8a6e8b0fe562f6f0353",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/35626165056787howtocontacto-gf0n2qz90cgp",
+    "path": "articles/How-to-Contact-OptiSigns-Support.md",
+    "slug": "How-to-Contact-OptiSigns-Support",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support",
+    "updated_at": "2026-11-02T19:05:18Z"
+  },
+  "9169378546195": {
+    "hash": "17b00087d15285574253d94bf40632216af3ac0c1ef864fedc7a9e769c65ab6f",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/9169378546195dataresidencya-i4ut0706krbn",
+    "path": "articles/Data-Residency-and-OptiSigns.md",
+    "slug": "Data-Residency-and-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns",
+    "updated_at": "2026-11-02T17:03:51Z"
   }
 }

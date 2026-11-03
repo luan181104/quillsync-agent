@@ -2,7 +2,7 @@
 title: "Data Residency and OptiSigns"
 article_id: 9169378546195
 source_url: https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns
-updated_at: 2026-09-03T14:57:01Z
+updated_at: 2026-11-02T17:03:51Z
 ---
 
 # Data Residency and OptiSigns
@@ -36,5 +36,7 @@ Customers on the Engage plan or above can request your data to be stored in:
 	- Montreal (Amazon AWS)
 - Australia:
 	- Sydney (Amazon AWS)
+- Middle East
+	- UAE (Amazon AWS)
 
 Please contact [support@optisigns.com](mailto:support@optisigns.com) or your sales rep if you are interested in pricing or would like to enable this feature on your account
