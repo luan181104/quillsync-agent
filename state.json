@@ -15,14 +15,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound",
     "updated_at": "2026-10-14T21:03:18Z"
   },
-  "360016313754": {
-    "hash": "65080ab7c8225116f7ef6d75bd961f2a05b1b44ab4d9860ea1fe42b04177bb4b",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016313754howtoinstallana-6h3igg44xpbc",
-    "path": "articles/How-to-Install-an-APK-file-on-your-Fire-TV.md",
-    "slug": "How-to-Install-an-APK-file-on-your-Fire-TV",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-    "updated_at": "2026-10-09T06:17:18Z"
-  },
   "28295074995859": {
     "hash": "0d068ab06ef186045c7fc08d789f3d815a7e93a78e00df59f5b645b6176ecb65",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28295074995859howtomanagean-kkc0tu8by72j",
@@ -48,12 +40,12 @@
     "updated_at": "2026-10-30T20:44:00Z"
   },
   "360034883113": {
-    "hash": "33fac8547c1d6597e44d3fb4216b1f0350e4e00b3237bc42b442ab6ec622fc5d",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360034883113workingwithteam-agce3ip006a2",
+    "hash": "f24ab43fd0ddd11e6a6e90a839063d154e154578b8fa66635cca1f72940eb657",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360034883113workingwithteam-4t8hj8v66ofo",
     "path": "articles/Working-with-Teams-and-Security-Levels.md",
     "slug": "Working-with-Teams-and-Security-Levels",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
-    "updated_at": "2026-10-13T01:44:24Z"
+    "updated_at": "2026-11-03T15:01:24Z"
   },
   "55447693635731": {
     "hash": "cd4d5e40c4e3a2ac59221a14fd8919deec930caa3543cb7884a3a14665ccc0ff",
@@ -190,14 +182,6 @@
     "slug": "Amazon-TV-FireStick-Troubleshooting-Guide",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide",
     "updated_at": "2026-10-13T13:00:37Z"
-  },
-  "360056086653": {
-    "hash": "b67d34e9625c2879f2404ff404a6bf38111320d38d36fe95a12e26eb52a96b76",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360056086653howtochangetime-444mq8e237s7",
-    "path": "articles/How-to-Change-Time-Zone-on-Your-Fire-Stick-device.md",
-    "slug": "How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
-    "updated_at": "2026-11-01T14:18:06Z"
   },
   "360033693534": {
     "hash": "b8b546e7a633b73f5fe41d75e51684e3b60da5fbd370897bdedfa4b049430ab4",
@@ -743,21 +727,13 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360034379693-Raspberry-Pi",
     "updated_at": "2026-10-29T17:18:19Z"
   },
-  "56946344474003": {
-    "hash": "df646ac37e9e671a49848ddedfbf5b80bcb66f6c4e3837333f1f3fd7d4a08ca6",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/56946344474003lgwebossmartt-zatjpqzohmsf",
-    "path": "articles/LG-webOS-Smart-TVs-Consumer-Grade.md",
-    "slug": "LG-webOS-Smart-TVs-Consumer-Grade",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/56946344474003-LG-webOS-Smart-TVs-Consumer-Grade",
-    "updated_at": "2026-10-29T16:54:08Z"
-  },
   "4414496579475": {
-    "hash": "f631369615e5cdffa7419200b27ec7524413ef9f53a94d19bead7f88664e6d25",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4414496579475lgwebossignage-6f7ohyurjyfa",
+    "hash": "7661dd2c0ade9000119f5410ae026352327ca37038201bbba1929deeb0611460",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4414496579475lgwebossignage-bxpr5giw1arj",
     "path": "articles/LG-WebOS-Signage-Commercial-Grade.md",
     "slug": "LG-WebOS-Signage-Commercial-Grade",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade",
-    "updated_at": "2026-10-29T16:49:32Z"
+    "updated_at": "2026-11-04T17:16:40Z"
   },
   "360039566974": {
     "hash": "6a971ddedcb8e32ad926c060e27fe684297483f865f46bf4f3a4d43c37f6c086",
@@ -798,5 +774,29 @@
     "slug": "Data-Residency-and-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns",
     "updated_at": "2026-11-02T17:03:51Z"
+  },
+  "360016374813": {
+    "hash": "48d2f6f1805e9ecd2cc4f13ffac6d4402b8186b25df48774863352c04ad0ff0d",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016374813setupaddorunpai-w7f3wp2ikhxz",
+    "path": "articles/Set-Up-Add-or-Unpair-a-Screen.md",
+    "slug": "Set-Up-Add-or-Unpair-a-Screen",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360016374813-Set-Up-Add-or-Unpair-a-Screen",
+    "updated_at": "2026-11-04T18:12:14Z"
+  },
+  "360016174554": {
+    "hash": "885e2966143ec1bd8538d9480575bf5851743a7dcde036511d2722ea86bde947",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016174554howtosetupandma-g5g2tza52vxo",
+    "path": "articles/How-to-Set-Up-and-Manage-OptiSigns-on-Amazon-FireTV-and-Firesticks.md",
+    "slug": "How-to-Set-Up-and-Manage-OptiSigns-on-Amazon-FireTV-and-Firesticks",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360016174554-How-to-Set-Up-and-Manage-OptiSigns-on-Amazon-FireTV-and-Firesticks",
+    "updated_at": "2026-11-04T17:44:59Z"
+  },
+  "4414539282067": {
+    "hash": "a8e29812d3eddd270c6958a13712f0268c2707f3c38fdd5eff1c6e9609a2d251",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4414539282067displayingshar-edrkmm8bkftl",
+    "path": "articles/Displaying-SharePoint-Sites-on-OptiSigns.md",
+    "slug": "Displaying-SharePoint-Sites-on-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns",
+    "updated_at": "2026-10-01T16:01:20Z"
   }
 }

@@ -2,7 +2,7 @@
 title: "LG WebOS Signage (Commercial Grade)"
 article_id: 4414496579475
 source_url: https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade
-updated_at: 2026-10-29T16:49:32Z
+updated_at: 2026-11-04T17:16:40Z
 ---
 
 # LG WebOS Signage (Commercial Grade)
