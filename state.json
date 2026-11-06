@@ -87,14 +87,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360050665253-How-to-Use-the-OneDrive-App",
     "updated_at": "2026-10-16T16:30:48Z"
   },
-  "4407335862931": {
-    "hash": "54416a9559ee220ba553443f98dd5a67e5fba57392da87c4d176a2278fd8995a",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4407335862931howtousethesla-8utlb46bb4ae",
-    "path": "articles/How-to-Use-the-Slack-App.md",
-    "slug": "How-to-Use-the-Slack-App",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/4407335862931-How-to-Use-the-Slack-App",
-    "updated_at": "2026-10-01T21:46:16Z"
-  },
   "360050665413": {
     "hash": "7b2ea4a7e3d517157530cc84c3aed2f3014a96de3206e5b421308367f325bf3d",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360050665413howtousethedrop-9ispsfry1147",
@@ -102,38 +94,6 @@
     "slug": "How-to-Use-the-Dropbox-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360050665413-How-to-Use-the-Dropbox-App",
     "updated_at": "2026-10-16T16:32:20Z"
-  },
-  "4408946045715": {
-    "hash": "75d31780a3e5cee95e357b50511e4288fabbf75626702b236fce5cac7da4e9fb",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4408946045715howtointegrate-273idgif9nly",
-    "path": "articles/How-to-Integrate-Bonusly-Digital-Signage-with-Optisigns.md",
-    "slug": "How-to-Integrate-Bonusly-Digital-Signage-with-Optisigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/4408946045715-How-to-Integrate-Bonusly-Digital-Signage-with-Optisigns",
-    "updated_at": "2026-10-01T20:21:01Z"
-  },
-  "4417940565139": {
-    "hash": "8c1ac51e596b5c5961a718af17b2dd55a9b071e4003aa3b8ef91b82e0bba2f45",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4417940565139howtodisplaymi-d6pg1me4opg9",
-    "path": "articles/How-to-Display-Microsoft-Teams-Chat-on-OptiSigns.md",
-    "slug": "How-to-Display-Microsoft-Teams-Chat-on-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/4417940565139-How-to-Display-Microsoft-Teams-Chat-on-OptiSigns",
-    "updated_at": "2026-10-01T20:13:18Z"
-  },
-  "27356288211859": {
-    "hash": "ffac293566432b9dbfcc223241efe1803511b4b56a7d7492472cf9bb396f2070",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/27356288211859howtouseiclou-7kua8n3411aj",
-    "path": "articles/How-to-Use-iCloud-Calendar-with-OptiSigns.md",
-    "slug": "How-to-Use-iCloud-Calendar-with-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/27356288211859-How-to-Use-iCloud-Calendar-with-OptiSigns",
-    "updated_at": "2026-10-01T19:37:52Z"
-  },
-  "4404053129619": {
-    "hash": "a1459e945e694c2ba7d3e11e4ed021de637986e4b7452a96aa323f41e92638a0",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4404053129619howtousethemic-j8ixwqii8cv0",
-    "path": "articles/How-to-Use-the-Microsoft-Teams-Meeting-App.md",
-    "slug": "How-to-Use-the-Microsoft-Teams-Meeting-App",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/4404053129619-How-to-Use-the-Microsoft-Teams-Meeting-App",
-    "updated_at": "2026-10-01T19:33:01Z"
   },
   "360041222994": {
     "hash": "f6ff6f07cb4ce664cda70830a91298066b1bee59eacbbad31540bb12039376b7",
@@ -166,14 +126,6 @@
     "slug": "How-to-use-Airtable-with-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/9392587446675-How-to-use-Airtable-with-OptiSigns",
     "updated_at": "2026-10-02T15:09:00Z"
-  },
-  "1500005888781": {
-    "hash": "54f57aca0d1fd4c4ad1e08364f00782ae57d84872519c7960221abf9ec0f1d53",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500005888781howtobestuseca-jlwclj61vzwe",
-    "path": "articles/How-to-Best-Use-Canva-with-OptiSigns.md",
-    "slug": "How-to-Best-Use-Canva-with-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/1500005888781-How-to-Best-Use-Canva-with-OptiSigns",
-    "updated_at": "2026-10-02T15:05:25Z"
   },
   "27463953562899": {
     "hash": "bcc0c0756db56c5e50f4ddd585dd6cf1786ae76d593785ffe3238f18b3e9c999",
@@ -496,12 +448,12 @@
     "updated_at": "2026-10-19T20:14:32Z"
   },
   "360038992973": {
-    "hash": "e6622d2f773f2300ee261619cf66bf3635391e4437d078e4beee922d1e6449a8",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360038992973videocodecorvid-x59dp0wbv3qk",
-    "path": "articles/Video-codec-or-video-playback-issues.md",
-    "slug": "Video-codec-or-video-playback-issues",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360038992973-Video-codec-or-video-playback-issues",
-    "updated_at": "2026-10-19T13:04:32Z"
+    "hash": "8865c92ed0b8fa5df5268e06da85aef02665b1a3f172eff58db20bf54acbca93",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360038992973videocodecorvid-khumg4jgzggi",
+    "path": "articles/Video-Codec-or-Video-Playback-Issues-and-How-to-Re-encode-Videos.md",
+    "slug": "Video-Codec-or-Video-Playback-Issues-and-How-to-Re-encode-Videos",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360038992973-Video-Codec-or-Video-Playback-Issues-and-How-to-Re-encode-Videos",
+    "updated_at": "2026-11-05T22:37:38Z"
   },
   "15268811715347": {
     "hash": "dcf1b9fc8cd3e8fbf029ca8bb2929fd30ba210d092f3f7a58d1d91dfe49b9ab9",
@@ -791,12 +743,60 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360016174554-How-to-Set-Up-and-Manage-OptiSigns-on-Amazon-FireTV-and-Firesticks",
     "updated_at": "2026-11-04T17:44:59Z"
   },
-  "4414539282067": {
-    "hash": "a8e29812d3eddd270c6958a13712f0268c2707f3c38fdd5eff1c6e9609a2d251",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4414539282067displayingshar-edrkmm8bkftl",
-    "path": "articles/Displaying-SharePoint-Sites-on-OptiSigns.md",
-    "slug": "Displaying-SharePoint-Sites-on-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns",
-    "updated_at": "2026-10-01T16:01:20Z"
+  "360055486554": {
+    "hash": "6842be67258e8ecef23fca2073d165672318a92631f7ec786449ba46c1dd0420",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360055486554remotelycontrol-k8uigilm46ut",
+    "path": "articles/Remotely-Control-and-Command-OptiSigns-Devices.md",
+    "slug": "Remotely-Control-and-Command-OptiSigns-Devices",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360055486554-Remotely-Control-and-Command-OptiSigns-Devices",
+    "updated_at": "2026-11-05T22:33:29Z"
+  },
+  "8098889840531": {
+    "hash": "bf75569d895917547c103b626db505db6f445cb0f90c24c383ed15456ff3e8dc",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/8098889840531howtousertspst-mshwvl9kaktf",
+    "path": "articles/How-to-Use-RTSP-Streams-on-OptiSigns-Devices.md",
+    "slug": "How-to-Use-RTSP-Streams-on-OptiSigns-Devices",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/8098889840531-How-to-Use-RTSP-Streams-on-OptiSigns-Devices",
+    "updated_at": "2026-11-05T22:28:24Z"
+  },
+  "12498801963027": {
+    "hash": "51b154df1ca9310d26d52aab12414205d79ca433a118c563d03df92bcbc22643",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/12498801963027showofflinein-6zs8fq6p4zse",
+    "path": "articles/Show-Offline-Indicator-Feature.md",
+    "slug": "Show-Offline-Indicator-Feature",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-Feature",
+    "updated_at": "2026-11-05T22:21:11Z"
+  },
+  "360052513253": {
+    "hash": "0655f391749a9cc5c8d8cac323ab12ad55767cdeb5d7ad72623531daae262588",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360052513253howtousetheemer-axb3hvugjjli",
+    "path": "articles/How-to-Use-the-Emergency-Message-Alert-App.md",
+    "slug": "How-to-Use-the-Emergency-Message-Alert-App",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360052513253-How-to-Use-the-Emergency-Message-Alert-App",
+    "updated_at": "2026-11-05T21:58:11Z"
+  },
+  "14502378549907": {
+    "hash": "21cb8eeabbe04d626f41e50db290ab2dba031ec878013212d8d51313386c2c06",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/14502378549907presentorshar-ay8cbexddvgo",
+    "path": "articles/Present-or-Share-Your-Screen-with-OptiSigns-and-the-AeriCast-Add-on.md",
+    "slug": "Present-or-Share-Your-Screen-with-OptiSigns-and-the-AeriCast-Add-on",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/14502378549907-Present-or-Share-Your-Screen-with-OptiSigns-and-the-AeriCast-Add-on",
+    "updated_at": "2026-11-05T17:28:46Z"
+  },
+  "360041587014": {
+    "hash": "011908befabcc61618fbf243ef6e275530f7829475471686a6d9f32b4b85a630",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360041587014howtochangeyour-6tf6bk5hntjp",
+    "path": "articles/How-to-Change-Your-Billing-Information-View-Billing-History-and-Download-Receipts.md",
+    "slug": "How-to-Change-Your-Billing-Information-View-Billing-History-and-Download-Receipts",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360041587014-How-to-Change-Your-Billing-Information-View-Billing-History-and-Download-Receipts",
+    "updated_at": "2026-11-05T16:12:55Z"
+  },
+  "4407386819731": {
+    "hash": "97a294a6ef1703848a1d7e0ba6614daa47fd64c38996d41cd2ec6a95e4ec9856",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4407386819731howtosetupsaml-sos6tipdru12",
+    "path": "articles/How-to-Set-Up-SAML-2-0-with-OptiSigns-and-OneLogin.md",
+    "slug": "How-to-Set-Up-SAML-2-0-with-OptiSigns-and-OneLogin",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4407386819731-How-to-Set-Up-SAML-2-0-with-OptiSigns-and-OneLogin",
+    "updated_at": "2026-11-05T16:05:04Z"
   }
 }
