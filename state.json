@@ -24,12 +24,12 @@
     "updated_at": "2026-10-14T18:00:33Z"
   },
   "360021855653": {
-    "hash": "646ae836bf357a06e04a86f11d705807e341d76932372fd362391b089d91234b",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360021855653whathardwareand-n5rgmxaitkc1",
+    "hash": "fa76b257cde35a79aaea04f25916396a028f3b608d28d79093cc86b23208a023",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360021855653whathardwareand-3kpoa5f2w53f",
     "path": "articles/What-hardware-and-devices-are-supported.md",
     "slug": "What-hardware-and-devices-are-supported",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported",
-    "updated_at": "2026-10-12T06:20:04Z"
+    "updated_at": "2026-11-06T21:19:25Z"
   },
   "360051014713": {
     "hash": "4a3e610b08fadf0eea8a56feec138a0b7e91831e83a5ad9523c55ea0742d17c9",
@@ -102,30 +102,6 @@
     "slug": "How-to-Use-the-CountUp-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App",
     "updated_at": "2026-10-15T16:20:51Z"
-  },
-  "1500005889381": {
-    "hash": "cde2248a99813d204029cf8d3c6ecbc654f51556c875d2aeeee281203153f425",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500005889381howtousethemin-f32g9sa4p5n8",
-    "path": "articles/How-to-Use-the-MindMeister-App.md",
-    "slug": "How-to-Use-the-MindMeister-App",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/1500005889381-How-to-Use-the-MindMeister-App",
-    "updated_at": "2026-10-02T18:17:46Z"
-  },
-  "11032964830227": {
-    "hash": "2d2bffa7a28883c79443fbc69c3bf8e04c638dde381c2a50dd834751455683da",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/11032964830227howtousethemo-3jcw7jji6ud7",
-    "path": "articles/How-to-Use-the-Monday-com-App.md",
-    "slug": "How-to-Use-the-Monday-com-App",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/11032964830227-How-to-Use-the-Monday-com-App",
-    "updated_at": "2026-10-02T15:17:32Z"
-  },
-  "9392587446675": {
-    "hash": "c4633da1485773809b59c17533f0cff1076731d8b5ab31d4531768a7dbaeb177",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/9392587446675howtouseairtab-d49oimexppas",
-    "path": "articles/How-to-use-Airtable-with-OptiSigns.md",
-    "slug": "How-to-use-Airtable-with-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/9392587446675-How-to-use-Airtable-with-OptiSigns",
-    "updated_at": "2026-10-02T15:09:00Z"
   },
   "27463953562899": {
     "hash": "bcc0c0756db56c5e50f4ddd585dd6cf1786ae76d593785ffe3238f18b3e9c999",
@@ -798,5 +774,29 @@
     "slug": "How-to-Set-Up-SAML-2-0-with-OptiSigns-and-OneLogin",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/4407386819731-How-to-Set-Up-SAML-2-0-with-OptiSigns-and-OneLogin",
     "updated_at": "2026-11-05T16:05:04Z"
+  },
+  "28026588373139": {
+    "hash": "f74215d684e4287b9d5bc9759201eeda7f200a706219dfc99cbf892541d9048e",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28026588373139howtofixthesc-h7ywg8dg6425",
+    "path": "articles/How-to-Fix-the-Scaling-Issue-on-OptiSigns-Android-Devices.md",
+    "slug": "How-to-Fix-the-Scaling-Issue-on-OptiSigns-Android-Devices",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/28026588373139-How-to-Fix-the-Scaling-Issue-on-OptiSigns-Android-Devices",
+    "updated_at": "2026-11-06T21:29:15Z"
+  },
+  "360041570153": {
+    "hash": "816df6a5dce0a02c1b58372e2aab5df9d0402baa519f2e58db1d83c200dadcc9",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360041570153screencalibrati-0i5gbqaemwel",
+    "path": "articles/Screen-Calibration-Fix-Content-Bleeding-off-the-Screen.md",
+    "slug": "Screen-Calibration-Fix-Content-Bleeding-off-the-Screen",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360041570153-Screen-Calibration-Fix-Content-Bleeding-off-the-Screen",
+    "updated_at": "2026-11-06T20:25:31Z"
+  },
+  "28598173096723": {
+    "hash": "f03288533437fadf5d9add1957cdafd3f5eb2efa15144c89eb8aa2f0e377ebb2",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28598173096723howtocreatean-93ei6afzbpob",
+    "path": "articles/How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232.md",
+    "slug": "How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
+    "updated_at": "2026-11-06T15:07:59Z"
   }
 }

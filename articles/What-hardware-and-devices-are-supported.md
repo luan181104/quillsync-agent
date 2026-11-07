@@ -2,7 +2,7 @@
 title: "What hardware and devices are supported?"
 article_id: 360021855653
 source_url: https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported
-updated_at: 2026-10-12T06:20:04Z
+updated_at: 2026-11-06T21:19:25Z
 ---
 
 # What hardware and devices are supported?
