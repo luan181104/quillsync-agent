@@ -111,22 +111,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide",
     "updated_at": "2026-10-13T13:00:37Z"
   },
-  "360033693534": {
-    "hash": "b8b546e7a633b73f5fe41d75e51684e3b60da5fbd370897bdedfa4b049430ab4",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360033693534powerpointresol-kctao8mh8fof",
-    "path": "articles/PowerPoint-Resolution-Size-for-use-with-Digital-Signage.md",
-    "slug": "PowerPoint-Resolution-Size-for-use-with-Digital-Signage",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360033693534-PowerPoint-Resolution-Size-for-use-with-Digital-Signage",
-    "updated_at": "2026-10-06T06:37:46Z"
-  },
-  "360035739414": {
-    "hash": "0c5adf802de3be6c04846d2693d0b4b0380ae673fb43a4f878858b03da59f966",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360035739414howtopreviewasc-7yggf3k5trx0",
-    "path": "articles/How-to-Preview-a-Screen.md",
-    "slug": "How-to-Preview-a-Screen",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen",
-    "updated_at": "2026-10-05T16:37:23Z"
-  },
   "25607930101907": {
     "hash": "702527ad0d690696709bcc090684c06c9fe406e67da9f6e96a0892df43dc2bfb",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/25607930101907howtogetthemo-sx51xec33gyw",
@@ -798,5 +782,21 @@
     "slug": "How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
     "updated_at": "2026-11-06T15:07:59Z"
+  },
+  "360016247974": {
+    "hash": "5c59f0e821795391711bafa4f25dd7973952993085d1ade7f5d4b1ee786aa3bc",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016247974howtouploadmana-3tmlzp6v8pcg",
+    "path": "articles/How-to-Upload-Manage-Your-Files-Assets.md",
+    "slug": "How-to-Upload-Manage-Your-Files-Assets",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360016247974-How-to-Upload-Manage-Your-Files-Assets",
+    "updated_at": "2026-11-12T09:09:16Z"
+  },
+  "360024859713": {
+    "hash": "32d8bd424335809759293104b56ff1747a689776a0c68c149b074c15d28c7245",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360024859713howtodisplaymic-r91d93iwj1sm",
+    "path": "articles/How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns.md",
+    "slug": "How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
+    "updated_at": "2026-11-11T20:29:28Z"
   }
 }

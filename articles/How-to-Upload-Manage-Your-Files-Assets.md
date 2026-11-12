@@ -2,7 +2,7 @@
 title: "How to Upload & Manage Your Files/ Assets"
 article_id: 360016247974
 source_url: https://support.optisigns.com/hc/en-us/articles/360016247974-How-to-Upload-Manage-Your-Files-Assets
-updated_at: 2026-05-28T19:30:59Z
+updated_at: 2026-11-12T09:09:16Z
 ---
 
 # How to Upload & Manage Your Files/ Assets
