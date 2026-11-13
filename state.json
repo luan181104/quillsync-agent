@@ -111,14 +111,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide",
     "updated_at": "2026-10-13T13:00:37Z"
   },
-  "25607930101907": {
-    "hash": "702527ad0d690696709bcc090684c06c9fe406e67da9f6e96a0892df43dc2bfb",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/25607930101907howtogetthemo-sx51xec33gyw",
-    "path": "articles/How-to-get-the-most-out-of-your-Digital-Signs.md",
-    "slug": "How-to-get-the-most-out-of-your-Digital-Signs",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/25607930101907-How-to-get-the-most-out-of-your-Digital-Signs",
-    "updated_at": "2026-10-06T21:57:44Z"
-  },
   "33940834613139": {
     "hash": "063ed1d7b46047969b0ca7dd8d49cb17fcd6524b9b9a663e3dd31903ca9bd845",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/33940834613139whatdoigetwit-5m73w1gpjnd0",
@@ -344,12 +336,12 @@
     "updated_at": "2026-10-16T21:27:23Z"
   },
   "56498391179667": {
-    "hash": "d2d6c9afbd8f5df68c87a6e6655ab4069a04999e488a508e2ea07638daa66184",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/56498391179667howtousetheev-1mdwwyhklqzz",
+    "hash": "f287963a07d3ac0d7a634f59de6d6c400854523c92892174533ea2e478166562",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/56498391179667howtousetheev-o4vwng082vxk",
     "path": "articles/How-to-Use-the-Eventbrite-Events-App.md",
     "slug": "How-to-Use-the-Eventbrite-Events-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/56498391179667-How-to-Use-the-Eventbrite-Events-App",
-    "updated_at": "2026-10-16T21:22:00Z"
+    "updated_at": "2026-11-12T23:15:33Z"
   },
   "56498363329683": {
     "hash": "00ca276603d3edcca9f538c4b3256afc3426e88345aed8f55824418adde2c481",
@@ -798,5 +790,13 @@
     "slug": "How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
     "updated_at": "2026-11-11T20:29:28Z"
+  },
+  "18823504383891": {
+    "hash": "5eebc980ef570c326a4744d5e32e41757d74297ec5a31d991f7220b3c109e654",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/18823504383891optisignsgett-eb010eo10wsh",
+    "path": "articles/OptiSigns-Getting-Started-Guide.md",
+    "slug": "OptiSigns-Getting-Started-Guide",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide",
+    "updated_at": "2026-11-12T17:59:51Z"
   }
 }
