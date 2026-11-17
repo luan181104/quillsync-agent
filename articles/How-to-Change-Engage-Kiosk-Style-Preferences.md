@@ -2,7 +2,7 @@
 title: "How to Change Engage/Kiosk Style Preferences"
 article_id: 28115946505107
 source_url: https://support.optisigns.com/hc/en-us/articles/28115946505107-How-to-Change-Engage-Kiosk-Style-Preferences
-updated_at: 2026-10-26T20:29:11Z
+updated_at: 2026-11-16T19:20:08Z
 ---
 
 # How to Change Engage/Kiosk Style Preferences

@@ -2,7 +2,7 @@
 title: "How to Delete Your Account from OptiSigns"
 article_id: 4404608957075
 source_url: https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns
-updated_at: 2026-09-18T13:52:14Z
+updated_at: 2026-11-16T19:20:04Z
 ---
 
 # How to Delete Your Account from OptiSigns

@@ -47,14 +47,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
     "updated_at": "2026-11-03T15:01:24Z"
   },
-  "55447693635731": {
-    "hash": "cd4d5e40c4e3a2ac59221a14fd8919deec930caa3543cb7884a3a14665ccc0ff",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/55447693635731howtodisplayg-bwd5ox9rckvk",
-    "path": "articles/How-to-Display-Grafana-Dashboards-on-OptiSigns.md",
-    "slug": "How-to-Display-Grafana-Dashboards-on-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns",
-    "updated_at": "2026-10-08T16:32:47Z"
-  },
   "360061576673": {
     "hash": "a1ddcee551f8b2857d025e4c3252780efeef35c1864b6d5afa6051449372c596",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360061576673advancedenforce-6hjmgvvm11if",
@@ -119,14 +111,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
     "updated_at": "2026-10-28T15:43:14Z"
   },
-  "29465595849235": {
-    "hash": "7fc8c3ec80f1c2c4cb32abbb22471ecd6b637bfe7085750b247b97a822ec79c2",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/29465595849235listofsupport-4mdct5h56fu6",
-    "path": "articles/List-of-Supported-Cities-for-Weather-Wall-City-Themes.md",
-    "slug": "List-of-Supported-Cities-for-Weather-Wall-City-Themes",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes",
-    "updated_at": "2026-10-10T22:18:29Z"
-  },
   "33382537925267": {
     "hash": "ceccfda04e07dcd885a668ade75f1e6dee9d388ec8df15dce58fa287e740cf1d",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/33382537925267makingavideow-47orxwtlonwk",
@@ -158,22 +142,6 @@
     "slug": "How-to-Display-Vimeo-Videos-with-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns",
     "updated_at": "2026-11-01T03:35:10Z"
-  },
-  "31113088917907": {
-    "hash": "70e06b348643fc6798458f737ba094cfa64c2c407e733e041363d6646c1036ef",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/31113088917907howtousetoast-nhsvbal5ipyt",
-    "path": "articles/How-to-Use-Toast-API-Data-with-OptiSigns.md",
-    "slug": "How-to-Use-Toast-API-Data-with-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/31113088917907-How-to-Use-Toast-API-Data-with-OptiSigns",
-    "updated_at": "2026-10-12T18:49:12Z"
-  },
-  "8399990754195": {
-    "hash": "6fda0417316d0261af144f7beee95b908c63371838deebfd0151fcec2c50e242",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/8399990754195howtodisplayas-i0lb0amiwsd0",
-    "path": "articles/How-to-Display-a-Smartsheet-Report-on-OptiSigns.md",
-    "slug": "How-to-Display-a-Smartsheet-Report-on-OptiSigns",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/8399990754195-How-to-Display-a-Smartsheet-Report-on-OptiSigns",
-    "updated_at": "2026-10-12T18:33:37Z"
   },
   "360037416494": {
     "hash": "10b96a2025e8f2ff0959ed0d1503b98c63ba0b2998bdfee2dfcc8a7753731bd2",
@@ -456,28 +424,20 @@
     "updated_at": "2026-10-30T17:06:59Z"
   },
   "1500003244381": {
-    "hash": "448be91d93e3f50b79bca4ddb07d6fc30518cf863e55f6f3548bf4b5869a4214",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500003244381abouttheonhold-e33m8fn7il03",
+    "hash": "bf2bfde7e01c397ee73d519ba195c73cc1b1867e7f1f6ec338b6a1217cedc2bb",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500003244381abouttheonhold-3nz9zbf56ngm",
     "path": "articles/About-the-OnHold-Devices-Folder.md",
     "slug": "About-the-OnHold-Devices-Folder",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder",
-    "updated_at": "2026-10-25T15:48:03Z"
+    "updated_at": "2026-11-16T19:20:06Z"
   },
   "28115946505107": {
-    "hash": "549ded8c2f3a0d50de0c8465d2ed31cb7f4f9f451b2b30f22ddbe69e06a5e105",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28115946505107howtochangeen-8hbe00c20s7e",
+    "hash": "50c117cf59c00bab108e6aeaad55babb57f59cb718ad54f3f4edcb2f54338326",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28115946505107howtochangeen-3i6iiqtf3mw3",
     "path": "articles/How-to-Change-Engage-Kiosk-Style-Preferences.md",
     "slug": "How-to-Change-Engage-Kiosk-Style-Preferences",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/28115946505107-How-to-Change-Engage-Kiosk-Style-Preferences",
-    "updated_at": "2026-10-26T20:29:11Z"
-  },
-  "360016375793": {
-    "hash": "482e07066ed49e825bc9884e31ce14b074e5daff3ca5413d4423605ef60a0980",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360016375793canihavemyinvoi-i145vi5dhgqx",
-    "path": "articles/Can-I-have-my-invoices-receipts-sent-to-a-different-email-address.md",
-    "slug": "Can-I-have-my-invoices-receipts-sent-to-a-different-email-address",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360016375793-Can-I-have-my-invoices-receipts-sent-to-a-different-email-address",
-    "updated_at": "2026-10-26T15:43:28Z"
+    "updated_at": "2026-11-16T19:20:08Z"
   },
   "360026559573": {
     "hash": "2b208687b143100604290e7264f14963ff7225e3a9954a2ce44a6da36954d80a",
@@ -736,12 +696,12 @@
     "updated_at": "2026-11-05T17:28:46Z"
   },
   "360041587014": {
-    "hash": "011908befabcc61618fbf243ef6e275530f7829475471686a6d9f32b4b85a630",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360041587014howtochangeyour-6tf6bk5hntjp",
-    "path": "articles/How-to-Change-Your-Billing-Information-View-Billing-History-and-Download-Receipts.md",
-    "slug": "How-to-Change-Your-Billing-Information-View-Billing-History-and-Download-Receipts",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360041587014-How-to-Change-Your-Billing-Information-View-Billing-History-and-Download-Receipts",
-    "updated_at": "2026-11-05T16:12:55Z"
+    "hash": "cd4eb7a1b5d497427449f91aef8c6b8c643b4f8de529e658402565bf6e0c7191",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360041587014billingdetailsf-umnozdg9e0gn",
+    "path": "articles/Billing-Details-Failed-Payments-Receipts.md",
+    "slug": "Billing-Details-Failed-Payments-Receipts",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360041587014-Billing-Details-Failed-Payments-Receipts",
+    "updated_at": "2026-11-16T21:36:09Z"
   },
   "4407386819731": {
     "hash": "97a294a6ef1703848a1d7e0ba6614daa47fd64c38996d41cd2ec6a95e4ec9856",
@@ -798,5 +758,45 @@
     "slug": "OptiSigns-Getting-Started-Guide",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide",
     "updated_at": "2026-11-12T17:59:51Z"
+  },
+  "17639078588691": {
+    "hash": "663d69efbedbe58a35ff37f99c7205ff5edcce01df2374cbfd9eb72e1f05944a",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/17639078588691cancelpauseor-3mgvgw67yr69",
+    "path": "articles/Cancel-Pause-or-Downgrade-Your-Subscription.md",
+    "slug": "Cancel-Pause-or-Downgrade-Your-Subscription",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/17639078588691-Cancel-Pause-or-Downgrade-Your-Subscription",
+    "updated_at": "2026-11-16T22:41:11Z"
+  },
+  "1500000493782": {
+    "hash": "cace6a1c5c694131fc8177535454ebd3fd3daab0ffe6a2996b8777b8a34d1b6e",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500000493782billingchangin-cqvhksqlyxbc",
+    "path": "articles/Billing-Changing-Plans-or-Screen-Counts.md",
+    "slug": "Billing-Changing-Plans-or-Screen-Counts",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-Changing-Plans-or-Screen-Counts",
+    "updated_at": "2026-11-16T20:25:41Z"
+  },
+  "23565267463315": {
+    "hash": "373ea844a0e76a6035167f6c27f09ce139d444234c4f1ebbcbed28102c070b70",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/23565267463315engageplanfaq-1f8c4wcygq1z",
+    "path": "articles/Engage-Plan-FAQs.md",
+    "slug": "Engage-Plan-FAQs",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
+    "updated_at": "2026-11-16T19:24:34Z"
+  },
+  "4404616314515": {
+    "hash": "3df5197ac94874a6111f3ca1b54e65989d083af7e2b29e5b6c71e3c9ca0fd168",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4404616314515howtochangeacc-ic3z8kk6a3w3",
+    "path": "articles/How-to-Change-Account-Owners.md",
+    "slug": "How-to-Change-Account-Owners",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4404616314515-How-to-Change-Account-Owners",
+    "updated_at": "2026-11-16T19:20:05Z"
+  },
+  "4404608957075": {
+    "hash": "adac75bdd594279b63bd272df5830a8ec7b9f4fc8830c027518776d299af582d",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/4404608957075howtodeleteyou-76vxcu3ud63x",
+    "path": "articles/How-to-Delete-Your-Account-from-OptiSigns.md",
+    "slug": "How-to-Delete-Your-Account-from-OptiSigns",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
+    "updated_at": "2026-11-16T19:20:04Z"
   }
 }

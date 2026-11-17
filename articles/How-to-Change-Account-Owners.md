@@ -2,7 +2,7 @@
 title: "How to Change Account Owners"
 article_id: 4404616314515
 source_url: https://support.optisigns.com/hc/en-us/articles/4404616314515-How-to-Change-Account-Owners
-updated_at: 2026-09-07T10:13:21Z
+updated_at: 2026-11-16T19:20:05Z
 ---
 
 # How to Change Account Owners
