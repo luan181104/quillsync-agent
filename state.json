@@ -1,12 +1,4 @@
 {
-  "360043621953": {
-    "hash": "dc0129f40bf4adb933a164acda8748aa877a50699754931387ecbfb80e92731d",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360043621953howtocreateandu-ps9zx3j7wyr3",
-    "path": "articles/How-to-Create-and-Use-Nested-Playlists.md",
-    "slug": "How-to-Create-and-Use-Nested-Playlists",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360043621953-How-to-Create-and-Use-Nested-Playlists",
-    "updated_at": "2026-10-12T21:22:12Z"
-  },
   "40671590645651": {
     "hash": "f189196f5b50126317c9463f16622feaa4dcd0a5b5408724d79bfc15d4406aa4",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/40671590645651howtoplaylice-1ypbbfg6wenl",
@@ -632,12 +624,12 @@
     "updated_at": "2026-11-02T19:05:18Z"
   },
   "9169378546195": {
-    "hash": "17b00087d15285574253d94bf40632216af3ac0c1ef864fedc7a9e769c65ab6f",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/9169378546195dataresidencya-i4ut0706krbn",
+    "hash": "4ef6e3e33cc16ec199c8fead6a3a5dece9d0bdcfd46d7bbcb5073414f4a8d4db",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/9169378546195dataresidencya-ccn16h8k0wtd",
     "path": "articles/Data-Residency-and-OptiSigns.md",
     "slug": "Data-Residency-and-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns",
-    "updated_at": "2026-11-02T17:03:51Z"
+    "updated_at": "2026-11-17T16:37:00Z"
   },
   "360016374813": {
     "hash": "48d2f6f1805e9ecd2cc4f13ffac6d4402b8186b25df48774863352c04ad0ff0d",
@@ -798,5 +790,13 @@
     "slug": "How-to-Delete-Your-Account-from-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
     "updated_at": "2026-11-16T19:20:04Z"
+  },
+  "57645638683411": {
+    "hash": "bee3b8ddb9aecdcc28971db29bc78d27c162e294ee6f622b5a7fda01cb23a2ae",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/57645638683411thenewdesigne-cvbwmhpl8amr",
+    "path": "articles/The-New-Designer-Complete-Feature-Guide.md",
+    "slug": "The-New-Designer-Complete-Feature-Guide",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/57645638683411-The-New-Designer-Complete-Feature-Guide",
+    "updated_at": "2026-11-17T17:52:09Z"
   }
 }
