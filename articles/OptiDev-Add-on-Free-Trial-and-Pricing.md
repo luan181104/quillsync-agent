@@ -2,7 +2,7 @@
 title: "OptiDev Add-on - Free Trial and Pricing"
 article_id: 54095075680275
 source_url: https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing
-updated_at: 2026-08-05T18:22:19Z
+updated_at: 2026-11-18T17:12:24Z
 ---
 
 # OptiDev Add-on - Free Trial and Pricing
@@ -36,7 +36,7 @@ The OptiDev add\-on lets you build custom, AI\-powered apps and put them straigh
 To get started with an OptiDev add\-on, you’ll need:
 
 - An OptiSigns account \- [**Standard Plan or higher**](https://www.optisigns.com/pricing).
-- Owner or Super Admin permissions.
+- Owner, Admin or Super Admin permissions.
 - An [OptiSigns\-enabled device](https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported)
 - A screen, [set up and paired with OptiSigns](https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide)
 

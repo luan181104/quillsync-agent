@@ -2,7 +2,7 @@
 title: "Billing: Changing Plans or Screen Counts"
 article_id: 1500000493782
 source_url: https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-Changing-Plans-or-Screen-Counts
-updated_at: 2026-11-16T20:25:41Z
+updated_at: 2026-11-18T20:23:17Z
 ---
 
 # Billing: Changing Plans or Screen Counts
