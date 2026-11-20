@@ -2,7 +2,7 @@
 title: "Accepted Payment Methods and Currencies"
 article_id: 34379983350163
 source_url: https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods-and-Currencies
-updated_at: 2026-11-18T22:42:56Z
+updated_at: 2026-11-19T20:30:22Z
 ---
 
 # Accepted Payment Methods and Currencies
