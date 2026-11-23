@@ -127,14 +127,6 @@
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360060919453-How-to-Use-the-Zendesk-App",
     "updated_at": "2026-10-14T18:07:38Z"
   },
-  "360048914673": {
-    "hash": "974a6e83f753e5244a16af3ed4e93eb81c357b4aca858c29ed6f4d9986e21b81",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360048914673editscreenwhatd-lz07as8kwjwr",
-    "path": "articles/Edit-Screen-What-does-each-option-do.md",
-    "slug": "Edit-Screen-What-does-each-option-do",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do",
-    "updated_at": "2026-10-14T18:02:17Z"
-  },
   "1500009343862": {
     "hash": "d384c651cec5b52aeb49ebfcb8c4b42e4a9484e4cadb595ee021b73f7f758470",
     "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/1500009343862howtousethetag-l6stuo18a35n",
@@ -798,5 +790,13 @@
     "slug": "List-of-Supported-Cities-for-Weather-Wall-City-Themes",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes",
     "updated_at": "2026-11-19T14:47:10Z"
+  },
+  "27463953562899": {
+    "hash": "0fd3853192d0dddd84cb824e861db412b83b7f4c17e3a66540328b9599aa8676",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/27463953562899amazontvfires-lmgcqlcfpaoh",
+    "path": "articles/Amazon-TV-FireStick-Troubleshooting-Guide.md",
+    "slug": "Amazon-TV-FireStick-Troubleshooting-Guide",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide",
+    "updated_at": "2026-11-22T17:46:38Z"
   }
 }
