@@ -2,7 +2,7 @@
 title: "Inbound Webhook DataSources in Designer"
 article_id: 55719322614803
 source_url: https://support.optisigns.com/hc/en-us/articles/55719322614803-Inbound-Webhook-DataSources-in-Designer
-updated_at: 2026-11-19T22:38:32Z
+updated_at: 2026-11-23T16:23:26Z
 ---
 
 # Inbound Webhook DataSources in Designer
