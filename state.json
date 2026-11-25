@@ -88,12 +88,12 @@
     "updated_at": "2026-11-19T20:21:36Z"
   },
   "28295104605843": {
-    "hash": "a97aea2078aed33d3466ee050538e612c0af2f6e3b8d6bd26c560803d6e845ea",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28295104605843howtocreateus-q2t29203hke5",
+    "hash": "e0143fd9ecd02a28caa0f554ec77eb23edc2bf7934d8a5fa48b90489db0bb533",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/28295104605843howtocreateus-2anuzhjb25v9",
     "path": "articles/How-to-Create-Use-Playlists.md",
     "slug": "How-to-Create-Use-Playlists",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists",
-    "updated_at": "2026-10-26T08:57:11Z"
+    "updated_at": "2026-11-24T23:00:00Z"
   },
   "360016254994": {
     "hash": "a5152001542661c2a1483e0bcfe1559e22c9288e65c27027dc6a141afc41a819",
@@ -110,14 +110,6 @@
     "slug": "How-to-Use-the-Jira-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-Use-the-Jira-App",
     "updated_at": "2026-11-18T16:23:19Z"
-  },
-  "49039295567891": {
-    "hash": "0832cee558fab2b46dc3031cd28cbb6cc4d3a00fe49977a63e494130e4862f0b",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/49039295567891chromeospwain-siy4sg2ltnvr",
-    "path": "articles/ChromeOS-PWA-Instructions.md",
-    "slug": "ChromeOS-PWA-Instructions",
-    "source_url": "https://support.optisigns.com/hc/en-us/articles/49039295567891-ChromeOS-PWA-Instructions",
-    "updated_at": "2026-10-14T19:21:13Z"
   },
   "1500009343862": {
     "hash": "d384c651cec5b52aeb49ebfcb8c4b42e4a9484e4cadb595ee021b73f7f758470",
@@ -232,12 +224,12 @@
     "updated_at": "2026-10-16T17:01:33Z"
   },
   "360049518313": {
-    "hash": "9260657738c4bda1bdfecb782c8cbd5a2249af64b624b19d98945b1942a60fed",
-    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360049518313howtousethegoog-gxse3zvxa5j6",
+    "hash": "8179835fcc5fcbe560f191ceb4dea385c15e545a0901c16105a831c3844c4820",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360049518313howtousethegoog-uw11py91m99k",
     "path": "articles/How-to-Use-the-Google-Drive-App.md",
     "slug": "How-to-Use-the-Google-Drive-App",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360049518313-How-to-Use-the-Google-Drive-App",
-    "updated_at": "2026-11-23T23:38:33Z"
+    "updated_at": "2026-11-24T16:12:58Z"
   },
   "30003143806099": {
     "hash": "c7170f317e08a04cc43fa9b6bd5791de47283cbbf876a90ad86d79ac19049198",
@@ -798,5 +790,13 @@
     "slug": "How-to-Use-Google-Sheets-with-OptiSigns",
     "source_url": "https://support.optisigns.com/hc/en-us/articles/360056977214-How-to-Use-Google-Sheets-with-OptiSigns",
     "updated_at": "2026-11-23T22:35:01Z"
+  },
+  "360042736794": {
+    "hash": "dca33fd91f94c3ac7f0c86d54100ef51279f9328b3a3f9347192ec7bbdaaabb8",
+    "document_name": "fileSearchStores/optibot-knowledge-base-o0evydxewuts/documents/360042736794howtosetanasset-r7of4u5la135",
+    "path": "articles/How-to-set-an-asset-to-Live-or-Expire-at-specific-time.md",
+    "slug": "How-to-set-an-asset-to-Live-or-Expire-at-specific-time",
+    "source_url": "https://support.optisigns.com/hc/en-us/articles/360042736794-How-to-set-an-asset-to-Live-or-Expire-at-specific-time",
+    "updated_at": "2026-11-24T22:08:04Z"
   }
 }
