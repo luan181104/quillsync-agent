@@ -2,7 +2,7 @@
 title: "How to Create and Use the Yelp App"
 article_id: 360038769394
 source_url: https://support.optisigns.com/hc/en-us/articles/360038769394-How-to-Create-and-Use-the-Yelp-App
-updated_at: 2026-09-10T06:59:29Z
+updated_at: 2026-11-25T18:09:21Z
 ---
 
 # How to Create and Use the Yelp App
@@ -46,6 +46,15 @@ Enter your Yelp Reviews wall information:
 Click **Save**.  
 After Saving, you can Preview the wall. It may take several seconds for the app to fetch posts and prepare your wall, so please be patient.  
  
+
+---
+
+## Related Articles
+
+- [How to Use the Google Reviews App](https://support.optisigns.com/hc/en-us/articles/360037463934?ref=related)
+- [How to Use the Facebook Page App](https://support.optisigns.com/hc/en-us/articles/360023848334?ref=related)
+- [How to Use the Social Mix App](https://support.optisigns.com/hc/en-us/articles/4403267825171?ref=related)
+- [How to Use the Follow Us App](https://support.optisigns.com/hc/en-us/articles/360049875794?ref=related)
 
 ---
 

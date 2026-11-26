@@ -2,7 +2,7 @@
 title: "How to Use the Google Drive App"
 article_id: 360049518313
 source_url: https://support.optisigns.com/hc/en-us/articles/360049518313-How-to-Use-the-Google-Drive-App
-updated_at: 2026-11-24T16:12:58Z
+updated_at: 2026-11-25T18:08:09Z
 ---
 
 # How to Use the Google Drive App

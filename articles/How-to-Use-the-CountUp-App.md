@@ -2,7 +2,7 @@
 title: "How to Use the CountUp App"
 article_id: 360041222994
 source_url: https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App
-updated_at: 2026-10-15T16:20:51Z
+updated_at: 2026-11-25T18:08:55Z
 ---
 
 # How to Use the CountUp App
@@ -114,6 +114,14 @@ The **Select Asset** window will open. Search for your CountUp app, click it, th
 Back in **Edit Screen**, hit **Save**. Your CountUp timer will now display on your screen.
 
 Your CountUp app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+- [How to Use the CountDown App](https://support.optisigns.com/hc/en-us/articles/360041638433?ref=related)
+- [How to Use the Facebook Counter App](https://support.optisigns.com/hc/en-us/articles/360044619014?ref=related)
+- [How to use Instagram Counter App](https://support.optisigns.com/hc/en-us/articles/360047501233?ref=related)
 
 ### That’s all!
 

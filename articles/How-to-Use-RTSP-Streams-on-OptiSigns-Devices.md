@@ -2,7 +2,7 @@
 title: "How to Use RTSP Streams on OptiSigns Devices"
 article_id: 8098889840531
 source_url: https://support.optisigns.com/hc/en-us/articles/8098889840531-How-to-Use-RTSP-Streams-on-OptiSigns-Devices
-updated_at: 2026-11-05T22:28:24Z
+updated_at: 2026-11-25T18:04:38Z
 ---
 
 # How to Use RTSP Streams on OptiSigns Devices
@@ -129,6 +129,15 @@ Check that VLC is still running and streaming on the computer, that you entered 
 #### The Stream Plays in VLC but Not on the Screen
 
 Check that the signage device is on the same network as the camera, or as the computer running VLC, and that no firewall blocks port 9999 on that computer.
+
+---
+
+## Related Articles
+
+- [How to use the Video Stream app](https://support.optisigns.com/hc/en-us/articles/8369526604435?ref=related)
+- [How to use HDMI \& other video input sources in with OptiSigns](https://support.optisigns.com/hc/en-us/articles/1500002042241?ref=related)
+- [How to put Live TV on your screens with OptiSigns](https://support.optisigns.com/hc/en-us/articles/10159088954387?ref=related)
+- [Video Codec or Video Playback Issues and How to Re\-encode Videos](https://support.optisigns.com/hc/en-us/articles/360038992973?ref=related)
 
 ### That’s all!
 

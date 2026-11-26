@@ -2,7 +2,7 @@
 title: "How to Use the On This Day App"
 article_id: 1500009492202
 source_url: https://support.optisigns.com/hc/en-us/articles/1500009492202-How-to-Use-the-On-This-Day-App
-updated_at: 2026-09-14T20:35:04Z
+updated_at: 2026-11-25T18:06:09Z
 ---
 
 # How to Use the On This Day App
@@ -41,6 +41,15 @@ After inputting the information, you can **Preview** the app on the box in the s
   
 After Saving, you can Preview the wall. It may take several seconds for the app to fetch posts and prepare your wall, so please be patient.  
  
+
+---
+
+## Related Articles
+
+- [How to use the Motivational Quote App](https://support.optisigns.com/hc/en-us/articles/360049030453?ref=related)
+- [How to create and use Virtual Screen App](https://support.optisigns.com/hc/en-us/articles/360055900513?ref=related)
+- [How to Use the CountDown App](https://support.optisigns.com/hc/en-us/articles/360041638433?ref=related)
+- [How to Use the News App](https://support.optisigns.com/hc/en-us/articles/360022393473?ref=related)
 
 ---
 

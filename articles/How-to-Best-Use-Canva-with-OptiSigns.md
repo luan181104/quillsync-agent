@@ -2,7 +2,7 @@
 title: "How to Best Use Canva with OptiSigns"
 article_id: 1500005888781
 source_url: https://support.optisigns.com/hc/en-us/articles/1500005888781-How-to-Best-Use-Canva-with-OptiSigns
-updated_at: 2026-10-02T15:05:25Z
+updated_at: 2026-11-25T18:06:20Z
 ---
 
 # How to Best Use Canva with OptiSigns
@@ -139,3 +139,12 @@ Canva is an excellent resource for graphics, marketing, and designs. While using
 ## That's it!
 
 Click [here](https://designschool.canva.com/tutorials/) to learn more about Canva's capabilities and how to utilize its full potential!
+
+---
+
+## Related Articles
+
+- [How to Create \& Use Playlists](https://support.optisigns.com/hc/en-us/articles/28295104605843?ref=related)
+- [Creating and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853?ref=related)
+- [How to Use OptiSigns' Template \& Designer to Make Your Digital Signs in Minutes](https://support.optisigns.com/hc/en-us/articles/4404151402899?ref=related)
+- [Guide for Creating Content with OptiSigns](https://support.optisigns.com/hc/en-us/articles/29792081890323?ref=related)

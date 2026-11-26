@@ -2,7 +2,7 @@
 title: "How to Use the Emergency Message/Alert App"
 article_id: 360052513253
 source_url: https://support.optisigns.com/hc/en-us/articles/360052513253-How-to-Use-the-Emergency-Message-Alert-App
-updated_at: 2026-11-05T21:58:11Z
+updated_at: 2026-11-25T18:07:13Z
 ---
 
 # How to Use the Emergency Message/Alert App

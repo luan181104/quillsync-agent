@@ -2,7 +2,7 @@
 title: "How to Use the Follow Us App"
 article_id: 360049875794
 source_url: https://support.optisigns.com/hc/en-us/articles/360049875794-How-to-Use-the-Follow-Us-App
-updated_at: 2026-10-15T21:48:40Z
+updated_at: 2026-11-25T18:07:35Z
 ---
 
 # How to Use the Follow Us App
@@ -88,6 +88,15 @@ The **Select Asset** window will open. Search for your Follow Us app, click it, 
 Back in **Edit Screen**, hit **Save**. Your Follow Us app will now display on your screen.
 
 Your Follow Us app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+- [How to Use the Instagram Business App](https://support.optisigns.com/hc/en-us/articles/360051495193?ref=related)
+- [How to Use the LinkedIn App](https://support.optisigns.com/hc/en-us/articles/4406180781203?ref=related)
+- [How to Use the Google Reviews App](https://support.optisigns.com/hc/en-us/articles/360037463934?ref=related)
+- [How to Use the Taggbox Display App](https://support.optisigns.com/hc/en-us/articles/1500009343862?ref=related)
 
 ### That’s all!
 

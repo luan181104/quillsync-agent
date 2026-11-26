@@ -2,7 +2,7 @@
 title: "How to Use Microsoft Excel Online with OptiSigns"
 article_id: 4529298306963
 source_url: https://support.optisigns.com/hc/en-us/articles/4529298306963-How-to-Use-Microsoft-Excel-Online-with-OptiSigns
-updated_at: 2026-09-30T20:03:12Z
+updated_at: 2026-11-25T18:05:03Z
 ---
 
 # How to Use Microsoft Excel Online with OptiSigns
@@ -108,6 +108,16 @@ When you sign in with a Microsoft account, you can choose how often it will forc
 **Force Sync Interval**: By default, the system will force sync every 12 hours. The minimum is 1 hour.
 
 Click **Save**.
+
+---
+
+## Related Articles
+
+- [How to add a Microsoft 365 Excel Spreadsheet as a DataSource for OptiSync](https://support.optisigns.com/hc/en-us/articles/29863080711059?ref=related)
+- [How to Set Up Dynamic Data Mapping with OptiSync](https://support.optisigns.com/hc/en-us/articles/29217646663187?ref=related)
+- [How to Use Microsoft PowerPoint with OptiSigns](https://support.optisigns.com/hc/en-us/articles/4414355658899?ref=related)
+- [Displaying SharePoint Sites on OptiSigns](https://support.optisigns.com/hc/en-us/articles/4414539282067?ref=related)
+- [How to Use Google Sheets with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360056977214?ref=related)
 
 ---
 

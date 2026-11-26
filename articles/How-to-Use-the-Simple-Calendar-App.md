@@ -2,7 +2,7 @@
 title: "How to Use the Simple Calendar App"
 article_id: 360041481553
 source_url: https://support.optisigns.com/hc/en-us/articles/360041481553-How-to-Use-the-Simple-Calendar-App
-updated_at: 2026-09-08T19:14:39Z
+updated_at: 2026-11-25T18:09:03Z
 ---
 
 # How to Use the Simple Calendar App
@@ -35,6 +35,15 @@ Go to Files/Assets, Click on "App".
 
 Click **Save**.  
 After Saving, you can Preview the wall. It may take several seconds for the app prepare your wall. The Preview will let you toggle between Landscape and Portrait.
+
+---
+
+## Related Articles
+
+- [How to Use the Simple Clock App](https://support.optisigns.com/hc/en-us/articles/360042950593?ref=related)
+- [How to use World Clock App](https://support.optisigns.com/hc/en-us/articles/360042450514?ref=related)
+- [How to Use the Calendar Mix app](https://support.optisigns.com/hc/en-us/articles/4408052949139?ref=related)
+- [How to Use iCloud Calendar with OptiSigns](https://support.optisigns.com/hc/en-us/articles/27356288211859?ref=related)
 
 ---
 

@@ -2,7 +2,7 @@
 title: "How to Use the MindMeister App"
 article_id: 1500005889381
 source_url: https://support.optisigns.com/hc/en-us/articles/1500005889381-How-to-Use-the-MindMeister-App
-updated_at: 2026-10-02T18:17:46Z
+updated_at: 2026-11-25T18:06:16Z
 ---
 
 # How to Use the MindMeister App
@@ -49,6 +49,15 @@ Then come back to OptiSigns and enter in your MindMeister info.
 - Update Interval: default is 10 minutes. This means the app will refresh the link every 10 mins for any changes in your presentation. You can also input an interval here on how often you want to refresh the content.
 
 Click Save.
+
+---
+
+## Related Articles
+
+- [How to Use the Asana App](https://support.optisigns.com/hc/en-us/articles/1500002233221?ref=related)
+- [How to Use the Slack App](https://support.optisigns.com/hc/en-us/articles/4407335862931?ref=related)
+- [How to Use the Trello App](https://support.optisigns.com/hc/en-us/articles/360050244454?ref=related)
+- [How to Use the Notion App](https://support.optisigns.com/hc/en-us/articles/5119724468371?ref=related)
 
 ---
 

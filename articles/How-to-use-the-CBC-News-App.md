@@ -2,7 +2,7 @@
 title: "How to use the CBC News App"
 article_id: 1500011611322
 source_url: https://support.optisigns.com/hc/en-us/articles/1500011611322-How-to-use-the-CBC-News-App
-updated_at: 2026-09-09T19:26:10Z
+updated_at: 2026-11-25T18:06:05Z
 ---
 
 # How to use the CBC News App
@@ -73,6 +73,15 @@ Clicking **Advanced**opens up additional options:
   
 After you've configured the CBC News app to your liking, hit **Save**. Your CBC app will appear as an Asset in OptiSigns, and it can now be directly assigned to a screen or used in a Playlist. This asset can then be edited at any time from the Files/Assets tab.  
  
+
+---
+
+## Related Articles
+
+- [How to Use the News App](https://support.optisigns.com/hc/en-us/articles/360022393473?ref=related)
+- [How to Use the New York Times app](https://support.optisigns.com/hc/en-us/articles/360045121233?ref=related)
+- [How to Use the Guardian News App](https://support.optisigns.com/hc/en-us/articles/360044613874?ref=related)
+- [How to Use RSS feeds with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360037965133?ref=related)
 
 ---
 

@@ -2,7 +2,7 @@
 title: "How to Use the CountDown App"
 article_id: 360041638433
 source_url: https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-Use-the-CountDown-App
-updated_at: 2026-10-15T18:24:17Z
+updated_at: 2026-11-25T18:08:59Z
 ---
 
 # How to Use the CountDown App
@@ -115,6 +115,15 @@ The **Select Asset** window will open. Search for your CountDown app, click it, 
 Back in **Edit Screen**, hit **Save**. Your CountDown timer will now display on your screen.
 
 Your CountDown app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+- [How to Use the CountUp App](https://support.optisigns.com/hc/en-us/articles/360041222994?ref=related)
+- [How to create and use Virtual Screen App](https://support.optisigns.com/hc/en-us/articles/360055900513?ref=related)
+- [Widgets in Designer](https://support.optisigns.com/hc/en-us/articles/42436941395475?ref=related)
+- [How to Use the Simple Clock App](https://support.optisigns.com/hc/en-us/articles/360042950593?ref=related)
 
 ### That’s all!
 

@@ -2,7 +2,7 @@
 title: "How to Use RSS feeds with OptiSigns"
 article_id: 360037965133
 source_url: https://support.optisigns.com/hc/en-us/articles/360037965133-How-to-Use-RSS-feeds-with-OptiSigns
-updated_at: 2026-09-10T21:50:57Z
+updated_at: 2026-11-25T18:09:34Z
 ---
 
 # How to Use RSS feeds with OptiSigns
@@ -71,6 +71,16 @@ Click **Save**.
   
 After Saving, you can Preview the wall. It may take several seconds for the app to fetch the RSS items and prepare your feed, so please be patient.  
  
+
+---
+
+## Related Articles
+
+- [How to use MRSS feeds with OptiSigns](https://support.optisigns.com/hc/en-us/articles/4409448788499?ref=related)
+- [How to Create a Scrolling Strip or Bar](https://support.optisigns.com/hc/en-us/articles/360026559613?ref=related)
+- [Feeds and How to Use Them](https://support.optisigns.com/hc/en-us/articles/24338756617747?ref=related)
+- [How to Create Custom News Feeds with OptiSync](https://support.optisigns.com/hc/en-us/articles/35337746613139?ref=related)
+- [How to Use the News App](https://support.optisigns.com/hc/en-us/articles/360022393473?ref=related)
 
 ---
 

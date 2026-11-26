@@ -2,7 +2,7 @@
 title: "How to Use the Flash Message App"
 article_id: 360052827713
 source_url: https://support.optisigns.com/hc/en-us/articles/360052827713-How-to-Use-the-Flash-Message-App
-updated_at: 2026-09-10T16:43:35Z
+updated_at: 2026-11-25T18:07:09Z
 ---
 
 # How to Use the Flash Message App
@@ -125,6 +125,15 @@ You can Expire it immediately by clicking **...** button and hitting **Expire No
 ![Asset card menu open, with Expire Now at the top of the list](https://support.optisigns.com/hc/article_attachments/47648998765971)
 
 You have created your Flash Message App, and know how to activate it.
+
+---
+
+## Related Articles
+
+- [How to Use the Emergency Feed App](https://support.optisigns.com/hc/en-us/articles/4409673381011?ref=related)
+- [How to Use the Emergency Message/Alert App](https://support.optisigns.com/hc/en-us/articles/360052513253?ref=related)
+- [How to Use the CAP Alert App](https://support.optisigns.com/hc/en-us/articles/6604468198291?ref=related)
+- [Feeds and How to Use Them](https://support.optisigns.com/hc/en-us/articles/24338756617747?ref=related)
 
 ## **That's all!**
 

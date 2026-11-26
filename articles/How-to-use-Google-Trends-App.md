@@ -2,7 +2,7 @@
 title: "How to use Google Trends App"
 article_id: 360050664913
 source_url: https://support.optisigns.com/hc/en-us/articles/360050664913-How-to-use-Google-Trends-App
-updated_at: 2026-09-16T03:55:59Z
+updated_at: 2026-11-25T18:07:51Z
 ---
 
 # How to use Google Trends App
@@ -50,6 +50,15 @@ Go back to OptiSigns and paste it in the Google Trends app:
 
 Click Save.  
 After Saving, you can Preview the wall. It may take several seconds for the app to fetch posts and prepare your wall, so please be patient.
+
+---
+
+## Related Articles
+
+- [How to Use the Data Studio App](https://support.optisigns.com/hc/en-us/articles/360052088413?ref=related)
+- [How to Use the Google Search Console App](https://support.optisigns.com/hc/en-us/articles/48656950622227?ref=related)
+- [How to Use the News App](https://support.optisigns.com/hc/en-us/articles/360022393473?ref=related)
+
 ## **That's all! Congratulation!**
 
 You have created your Google Trends Wall.  

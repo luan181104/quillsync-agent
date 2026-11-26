@@ -2,7 +2,7 @@
 title: "How to Use the Walls.io App"
 article_id: 360049159814
 source_url: https://support.optisigns.com/hc/en-us/articles/360049159814-How-to-Use-the-Walls-io-App
-updated_at: 2026-10-19T20:14:32Z
+updated_at: 2026-11-25T18:07:55Z
 ---
 
 # How to Use the Walls.io App
@@ -77,6 +77,15 @@ The **Select Asset** window will open. Search for your Walls.io app, click it, t
 Back in **Edit Screen**, hit **Save**. Your Walls.io app will now display on your screen.
 
 Your Walls.io app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+- [How to Use the Taggbox Display App](https://support.optisigns.com/hc/en-us/articles/1500009343862?ref=related)
+- [How to Use the Social Mix App](https://support.optisigns.com/hc/en-us/articles/4403267825171?ref=related)
+- [How far back or how many posts will be fetched for my Social Walls?](https://support.optisigns.com/hc/en-us/articles/360042424294?ref=related)
+- [How to Moderate Your Social Media Feeds](https://support.optisigns.com/hc/en-us/articles/4403015887763?ref=related)
 
 ### That’s all!
 

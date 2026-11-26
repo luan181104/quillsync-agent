@@ -2,7 +2,7 @@
 title: "How to Use the Simple Clock App"
 article_id: 360042950593
 source_url: https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App
-updated_at: 2026-08-21T21:14:32Z
+updated_at: 2026-11-25T18:08:48Z
 ---
 
 # How to Use the Simple Clock App
@@ -131,6 +131,15 @@ Here, select **Asset** under Content type. Then, select your created Simple Cloc
 Now hit **Save**. Your Simple Clock asset will now display on screen.
 
 You can also deploy it as part of a split screen, allowing you to show other assets at the same time. See how in our [Split Screen app article.](https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App) It can also be displayed in a Playlist or Schedule.
+
+---
+
+## Related Articles
+
+- [How to use World Clock App](https://support.optisigns.com/hc/en-us/articles/360042450514?ref=related)
+- [How to Use the Simple Calendar App](https://support.optisigns.com/hc/en-us/articles/360041481553?ref=related)
+- [How to Use the Calendar Mix app](https://support.optisigns.com/hc/en-us/articles/4408052949139?ref=related)
+- [How to Create and Use the Split Screen App](https://support.optisigns.com/hc/en-us/articles/360026559573?ref=related)
 
 ### That's all!
 

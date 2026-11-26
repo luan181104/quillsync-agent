@@ -2,7 +2,7 @@
 title: "How to Use the News App"
 article_id: 360022393473
 source_url: https://support.optisigns.com/hc/en-us/articles/360022393473-How-to-Use-the-News-App
-updated_at: 2026-09-09T21:52:52Z
+updated_at: 2026-11-25T18:09:54Z
 ---
 
 # How to Use the News App
@@ -66,6 +66,15 @@ Clicking **Advanced**opens up additional options:
 
   
 After you've configured the News app to your liking, hit **Save**. Your News app will appear as an Asset in OptiSigns, and it can now be directly assigned to a screen or used in a Playlist. This asset can then be edited at any time from the Files/Assets tab.
+
+---
+
+## Related Articles
+
+- [How to Use RSS feeds with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360037965133?ref=related)
+- [How to use the CNN Wall App](https://support.optisigns.com/hc/en-us/articles/360041476213?ref=related)
+- [How to Create a Scrolling Strip or Bar](https://support.optisigns.com/hc/en-us/articles/360026559613?ref=related)
+- [How to Create Custom News Feeds with OptiSync](https://support.optisigns.com/hc/en-us/articles/35337746613139?ref=related)
 
 ---
 

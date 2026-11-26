@@ -2,7 +2,7 @@
 title: "How to Use the Calendar Mix app"
 article_id: 4408052949139
 source_url: https://support.optisigns.com/hc/en-us/articles/4408052949139-How-to-Use-the-Calendar-Mix-app
-updated_at: 2026-09-25T07:45:20Z
+updated_at: 2026-11-25T18:05:40Z
 ---
 
 # How to Use the Calendar Mix app
@@ -72,3 +72,12 @@ The app will also auto\-adjust the format to a screen in portrait orientation (r
 You then can assign this newly created asset to your screens to display, or you can also use it in playlists, schedules, etc. like any other assets. If you need more information on how to set up \& assign content to your screens [click here](https://support.optisigns.com/hc/en-us/articles/360016174554-How-to-set-up-Digital-Signs-with-OptiSigns-and-Amazon-Fire-TV).
 
  If you have feedback on how to make the how\-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+
+---
+
+## Related Articles
+
+- [How to Use iCloud Calendar with OptiSigns](https://support.optisigns.com/hc/en-us/articles/27356288211859?ref=related)
+- [How to Use Microsoft Outlook Calendar with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360036250853?ref=related)
+- [How to use Google Calendar with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360019517953?ref=related)
+- [How to Use the Simple Calendar App](https://support.optisigns.com/hc/en-us/articles/360041481553?ref=related)

@@ -2,7 +2,7 @@
 title: "How to Use the Dropbox App"
 article_id: 360050665413
 source_url: https://support.optisigns.com/hc/en-us/articles/360050665413-How-to-Use-the-Dropbox-App
-updated_at: 2026-10-16T16:32:20Z
+updated_at: 2026-11-25T18:07:42Z
 ---
 
 # How to Use the Dropbox App
@@ -130,6 +130,15 @@ Any other files in the folder, such as documents or spreadsheets, are skipped. F
 - Sub\-folders aren't supported. Only files directly inside the folder you choose are synced.
 - To keep the app running smoothly, keep each file to 100 MB or less, and keep up to 200 files per folder. For large videos, we recommend uploading them directly to OptiSigns. For more than 200 files, split them across several folders.
 - Dropbox Teams folders use a different API from personal accounts. As a workaround, create a folder in your personal Dropbox space, upload your content there, and choose that folder in OptiSigns.
+
+---
+
+## Related Articles
+
+- [How to tell which Dropbox account that I linked to OptiSigns?](https://support.optisigns.com/hc/en-us/articles/360019588654?ref=related)
+- [How to Use the OneDrive App](https://support.optisigns.com/hc/en-us/articles/360050665253?ref=related)
+- [How to Use the Google Drive App](https://support.optisigns.com/hc/en-us/articles/360049518313?ref=related)
+- [How to Use the Local Folder App in OptiSigns](https://support.optisigns.com/hc/en-us/articles/1500001985341?ref=related)
 
 ### That’s all!
 

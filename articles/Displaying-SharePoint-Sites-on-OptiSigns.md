@@ -2,7 +2,7 @@
 title: "Displaying SharePoint Sites on OptiSigns"
 article_id: 4414539282067
 source_url: https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns
-updated_at: 2026-11-18T16:25:43Z
+updated_at: 2026-11-25T18:05:11Z
 ---
 
 # Displaying SharePoint Sites on OptiSigns
@@ -158,6 +158,16 @@ Then enter the Master Password. It needs to match the Master Password entered on
 ![OptiSigns player Master Password prompt with Cancel and OK buttons](https://support.optisigns.com/hc/article_attachments/37403516129043)
 
 This ensures no one, not even OptiSigns, can decrypt your password under any circumstance.
+
+---
+
+## Related Articles
+
+- [Connect SharePoint News to OptiSigns Digital Signage](https://support.optisigns.com/hc/en-us/articles/55450681344915?ref=related)
+- [How to Use Microsoft PowerPoint with OptiSigns](https://support.optisigns.com/hc/en-us/articles/4414355658899?ref=related)
+- [How to Use Microsoft Excel Online with OptiSigns](https://support.optisigns.com/hc/en-us/articles/4529298306963?ref=related)
+- [How to Display Microsoft Power BI Dashboards \& Reports with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360024859713?ref=related)
+- [How to Create Custom News Feeds with OptiSync](https://support.optisigns.com/hc/en-us/articles/35337746613139?ref=related)
 
 ### That’s all!
 

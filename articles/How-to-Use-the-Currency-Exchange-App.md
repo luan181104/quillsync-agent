@@ -2,7 +2,7 @@
 title: "How to Use the Currency Exchange App"
 article_id: 360049156234
 source_url: https://support.optisigns.com/hc/en-us/articles/360049156234-How-to-Use-the-Currency-Exchange-App
-updated_at: 2026-09-08T19:52:57Z
+updated_at: 2026-11-25T18:07:58Z
 ---
 
 # How to Use the Currency Exchange App
@@ -45,7 +45,17 @@ Enter the details needed.
 Click **Save**.
   
 After Saving, you can preview the wall. It may take several seconds for the app prepare your wall.  
- ### **That's all!**
+ 
+
+---
+
+## Related Articles
+
+- [How to Use the Crypto Index \& Crypto Exchange App](https://support.optisigns.com/hc/en-us/articles/360049919933?ref=related)
+- [How to use Market Index App](https://support.optisigns.com/hc/en-us/articles/360049155994?ref=related)
+- [How to Use the Stock App](https://support.optisigns.com/hc/en-us/articles/360044115513?ref=related)
+
+### **That's all!**
 
 You have created your Currency Exchange Wall.  
 You can change the wall any time by click on it in the Files/Assets tab. 

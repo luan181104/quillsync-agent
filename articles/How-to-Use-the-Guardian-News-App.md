@@ -2,7 +2,7 @@
 title: "How to Use the Guardian News App"
 article_id: 360044613874
 source_url: https://support.optisigns.com/hc/en-us/articles/360044613874-How-to-Use-the-Guardian-News-App
-updated_at: 2026-09-09T21:32:02Z
+updated_at: 2026-11-25T18:08:36Z
 ---
 
 # How to Use the Guardian News App
@@ -75,6 +75,15 @@ Clicking **Advanced**opens up additional options:
   
 After you've configured the Guardian News app to your liking, hit **Save**.  Your Guardian app will appear as an Asset in OptiSigns, and it can now be directly assigned to a screen or used in a Playlist. This asset can then be edited at any time from the Files/Assets tab.  
  
+
+---
+
+## Related Articles
+
+- [How to Use the New York Times app](https://support.optisigns.com/hc/en-us/articles/360045121233?ref=related)
+- [How to use the TechCrunch News App](https://support.optisigns.com/hc/en-us/articles/360040991534?ref=related)
+- [How to Use the News App](https://support.optisigns.com/hc/en-us/articles/360022393473?ref=related)
+- [How to Use RSS feeds with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360037965133?ref=related)
 
 ---
 

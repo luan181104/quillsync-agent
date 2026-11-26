@@ -2,7 +2,7 @@
 title: "How to use Facebook Video App"
 article_id: 360049872414
 source_url: https://support.optisigns.com/hc/en-us/articles/360049872414-How-to-use-Facebook-Video-App
-updated_at: 2026-09-10T02:31:21Z
+updated_at: 2026-11-25T18:07:39Z
 ---
 
 # How to use Facebook Video App
@@ -40,7 +40,18 @@ Click Facebook Video:
 Click Save.  
 After Saving, you can Preview the asset.  
   
- ## **That's all! Congratulation!**
+ 
+
+---
+
+## Related Articles
+
+- [How to Use the Facebook Page App](https://support.optisigns.com/hc/en-us/articles/360023848334?ref=related)
+- [How to use Facebook Live Stream App](https://support.optisigns.com/hc/en-us/articles/360048660813?ref=related)
+- [How to Use the Follow Us App](https://support.optisigns.com/hc/en-us/articles/360049875794?ref=related)
+- [Your Facebook Page Doesn't Show in The Dropdown List](https://support.optisigns.com/hc/en-us/articles/20750060900883?ref=related)
+
+## **That's all! Congratulation!**
 
 You have created your Facebook Video asset.  
 You can change the wall any time by click on it in the Files/Assets tab. 

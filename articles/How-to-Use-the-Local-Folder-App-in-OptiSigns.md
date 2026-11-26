@@ -2,7 +2,7 @@
 title: "How to Use the Local Folder App in OptiSigns"
 article_id: 1500001985341
 source_url: https://support.optisigns.com/hc/en-us/articles/1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns
-updated_at: 2026-09-22T15:01:01Z
+updated_at: 2026-11-25T18:12:04Z
 ---
 
 # How to Use the Local Folder App in OptiSigns
@@ -147,6 +147,15 @@ Examples (Assuming 3 USB drives named USB1, USB2, USB3, and an SD card named SDC
 | SD card connectd | /home/optisigns/external/SDCARD\-mmcblk0p1 | |
 
  
+
+---
+
+## Related Articles
+
+- [How to Use the Dropbox App](https://support.optisigns.com/hc/en-us/articles/360050665413?ref=related)
+- [How to Use the Google Drive App](https://support.optisigns.com/hc/en-us/articles/360049518313?ref=related)
+- [How to Use the OneDrive App](https://support.optisigns.com/hc/en-us/articles/360050665253?ref=related)
+- [What happen if internet connection is lost?](https://support.optisigns.com/hc/en-us/articles/360016376793?ref=related)
 
 ### **That's all!**
 

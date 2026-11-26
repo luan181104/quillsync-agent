@@ -2,7 +2,7 @@
 title: "How to Use the Crypto Index & Crypto Exchange App"
 article_id: 360049919933
 source_url: https://support.optisigns.com/hc/en-us/articles/360049919933-How-to-Use-the-Crypto-Index-Crypto-Exchange-App
-updated_at: 2026-09-08T20:18:39Z
+updated_at: 2026-11-25T18:08:02Z
 ---
 
 # How to Use the Crypto Index & Crypto Exchange App
@@ -49,6 +49,14 @@ Enter the details needed.
 Click **Save**.
   
 After Saving, you can preview the wall. It may take several seconds for the app prepare your wall.
+
+---
+
+## Related Articles
+
+- [How to Use the Currency Exchange App](https://support.optisigns.com/hc/en-us/articles/360049156234?ref=related)
+- [How to use Market Index App](https://support.optisigns.com/hc/en-us/articles/360049155994?ref=related)
+- [How to Use the Stock App](https://support.optisigns.com/hc/en-us/articles/360044115513?ref=related)
 
 ---
 

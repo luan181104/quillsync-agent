@@ -2,7 +2,7 @@
 title: "How to Use the Twitch App"
 article_id: 360046859534
 source_url: https://support.optisigns.com/hc/en-us/articles/360046859534-How-to-Use-the-Twitch-App
-updated_at: 2026-10-13T17:00:14Z
+updated_at: 2026-11-25T18:08:25Z
 ---
 
 # How to Use the Twitch App
@@ -76,6 +76,15 @@ The **Select Asset** window will open. Search for your Twitch app, click it, the
 Back in **Edit Screen**, hit **Save**. Your Twitch stream will now play on your screen.
 
 Your Twitch app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+- [How to Use YouTube with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360051014713?ref=related)
+- [How to use YouTube Live Schedule with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360060284174?ref=related)
+- [How to use Streaming App with OptiSigns](https://support.optisigns.com/hc/en-us/articles/16364134190355?ref=related)
+- [How to Display Vimeo Videos with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016254994?ref=related)
 
 ### That’s all!
 

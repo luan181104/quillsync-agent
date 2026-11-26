@@ -2,7 +2,7 @@
 title: "How to Use the ESPN News App"
 article_id: 360040991474
 source_url: https://support.optisigns.com/hc/en-us/articles/360040991474-How-to-Use-the-ESPN-News-App
-updated_at: 2026-09-09T21:57:39Z
+updated_at: 2026-11-25T18:09:10Z
 ---
 
 # How to Use the ESPN News App
@@ -71,6 +71,15 @@ Clicking **Advanced**opens up additional options:
 
   
 After you've configured the ESPN News app to your liking, hit **Save**.  Your ESPN app will appear as an Asset in OptiSigns, and it can now be directly assigned to a screen or used in a Playlist. This asset can then be edited at any time from the Files/Assets tab.
+
+---
+
+## Related Articles
+
+- [How to use the TechCrunch News App](https://support.optisigns.com/hc/en-us/articles/360040991534?ref=related)
+- [How to use the CNN Wall App](https://support.optisigns.com/hc/en-us/articles/360041476213?ref=related)
+- [How to Use the News App](https://support.optisigns.com/hc/en-us/articles/360022393473?ref=related)
+- [How to Use RSS feeds with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360037965133?ref=related)
 
 ---
 

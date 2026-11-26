@@ -2,7 +2,7 @@
 title: "How to Use the Slack App"
 article_id: 4407335862931
 source_url: https://support.optisigns.com/hc/en-us/articles/4407335862931-How-to-Use-the-Slack-App
-updated_at: 2026-10-01T21:46:16Z
+updated_at: 2026-11-25T18:05:45Z
 ---
 
 # How to Use the Slack App
@@ -93,6 +93,15 @@ You can select how to send messages to OptiSigns from Slack by setting Message F
 If your Slack message has more than one image, we only fetch the first image to display.### Limitations:
 
 - Currently, bot messages in a Slack channel will not display.
+
+---
+
+## Related Articles
+
+- [How to Use the Notion App](https://support.optisigns.com/hc/en-us/articles/5119724468371?ref=related)
+- [How to Display Microsoft Teams Chat on OptiSigns](https://support.optisigns.com/hc/en-us/articles/4417940565139?ref=related)
+- [How to Use the Viva Engage app (formerly Yammer) on OptiSigns](https://support.optisigns.com/hc/en-us/articles/19171222981523?ref=related)
+- [How to use the Web Scripting App](https://support.optisigns.com/hc/en-us/articles/1500012522362?ref=related)
 
 ---
 

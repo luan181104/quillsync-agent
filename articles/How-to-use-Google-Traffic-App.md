@@ -2,7 +2,7 @@
 title: "How to use Google Traffic App"
 article_id: 360047499893
 source_url: https://support.optisigns.com/hc/en-us/articles/360047499893-How-to-use-Google-Traffic-App
-updated_at: 2026-09-15T11:32:26Z
+updated_at: 2026-11-25T18:08:21Z
 ---
 
 # How to use Google Traffic App
@@ -41,6 +41,15 @@ Click Google Traffic:
 
 After Saving, you can Preview the Google Traffic app.  
   
+
+---
+
+## Related Articles
+
+- [How to Use Weather Apps in OptiSigns](https://support.optisigns.com/hc/en-us/articles/360017964153?ref=related)
+- [Using the Flight Schedule App](https://support.optisigns.com/hc/en-us/articles/55669121864979?ref=related)
+- [Using the Japan Transit App](https://support.optisigns.com/hc/en-us/articles/55640830295187?ref=related)
+- [How to Create and Use the Split Screen App](https://support.optisigns.com/hc/en-us/articles/360026559573?ref=related)
 
 ## **That's all! Congratulations!**
 

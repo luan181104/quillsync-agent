@@ -2,7 +2,7 @@
 title: "How to Use the Wall Street Journal App"
 article_id: 360045120133
 source_url: https://support.optisigns.com/hc/en-us/articles/360045120133-How-to-Use-the-Wall-Street-Journal-App
-updated_at: 2026-09-10T20:57:02Z
+updated_at: 2026-11-25T18:08:40Z
 ---
 
 # How to Use the Wall Street Journal App
@@ -74,6 +74,17 @@ Clicking **Advanced**opens up additional options:
   
 After you've configured the Wall Street Journal app to your liking, hit **Save**. Your Wall Street Journal app will appear as an Asset in OptiSigns, and it can now be directly assigned to a screen or used in a Playlist. This asset can then be edited at any time from the Files/Assets tab.  
   
- ## **That's all!**
+ 
+
+---
+
+## Related Articles
+
+- [How to use Market Index App](https://support.optisigns.com/hc/en-us/articles/360049155994?ref=related)
+- [How to Use the Stock App](https://support.optisigns.com/hc/en-us/articles/360044115513?ref=related)
+- [How to Use the New York Times app](https://support.optisigns.com/hc/en-us/articles/360045121233?ref=related)
+- [How to Display Content From Websites That Require a Login](https://support.optisigns.com/hc/en-us/articles/360037391854?ref=related)
+
+## **That's all!**
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

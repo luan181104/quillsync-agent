@@ -2,7 +2,7 @@
 title: "How to use the TechCrunch News App"
 article_id: 360040991534
 source_url: https://support.optisigns.com/hc/en-us/articles/360040991534-How-to-use-the-TechCrunch-News-App
-updated_at: 2026-09-09T20:54:43Z
+updated_at: 2026-11-25T18:09:06Z
 ---
 
 # How to use the TechCrunch News App
@@ -74,6 +74,17 @@ Clicking **Advanced**opens up additional options:
 
 After you've configured the TechCrunch News app to your liking, hit **Save**.
 
-Your TechCrunch app will appear as an Asset in OptiSigns, and it can now be directly assigned to a screen or used in a Playlist. This asset can then be edited at any time from the Files/Assets tab.## **That's all!**
+Your TechCrunch app will appear as an Asset in OptiSigns, and it can now be directly assigned to a screen or used in a Playlist. This asset can then be edited at any time from the Files/Assets tab.
+
+---
+
+## Related Articles
+
+- [How to Use the Guardian News App](https://support.optisigns.com/hc/en-us/articles/360044613874?ref=related)
+- [How to Use the ESPN News App](https://support.optisigns.com/hc/en-us/articles/360040991474?ref=related)
+- [How to Use the News App](https://support.optisigns.com/hc/en-us/articles/360022393473?ref=related)
+- [How to Use RSS feeds with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360037965133?ref=related)
+
+## **That's all!**
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

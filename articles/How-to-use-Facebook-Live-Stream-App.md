@@ -2,7 +2,7 @@
 title: "How to use Facebook Live Stream App"
 article_id: 360048660813
 source_url: https://support.optisigns.com/hc/en-us/articles/360048660813-How-to-use-Facebook-Live-Stream-App
-updated_at: 2026-09-22T09:12:00Z
+updated_at: 2026-11-25T18:08:14Z
 ---
 
 # How to use Facebook Live Stream App
@@ -47,6 +47,15 @@ Enter your Facebook like URL:
 Click Save.  
 After Saving, you can Preview the wall.  
   
+
+---
+
+## Related Articles
+
+- [How to use Facebook Video App](https://support.optisigns.com/hc/en-us/articles/360049872414?ref=related)
+- [How to use YouTube Live Schedule with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360060284174?ref=related)
+- [How to use the Video Stream app](https://support.optisigns.com/hc/en-us/articles/8369526604435?ref=related)
+- [How to Use the Facebook Page App](https://support.optisigns.com/hc/en-us/articles/360023848334?ref=related)
 
 ## **That's all! Congratulations!**
 

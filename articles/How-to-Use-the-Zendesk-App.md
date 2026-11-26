@@ -2,7 +2,7 @@
 title: "How to Use the Zendesk App"
 article_id: 360060919453
 source_url: https://support.optisigns.com/hc/en-us/articles/360060919453-How-to-Use-the-Zendesk-App
-updated_at: 2026-10-14T18:07:38Z
+updated_at: 2026-11-25T18:06:49Z
 ---
 
 # How to Use the Zendesk App
@@ -89,6 +89,15 @@ The **Select Asset** window will open. Search for your Zendesk app, click it, th
 Back in **Edit Screen**, hit **Save**. Your Zendesk dashboard will now display on your screen.
 
 Your Zendesk app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+- [How to Use the Jira App](https://support.optisigns.com/hc/en-us/articles/360037416494?ref=related)
+- [How to Use the Trello App](https://support.optisigns.com/hc/en-us/articles/360050244454?ref=related)
+- [How to Use the Slack App](https://support.optisigns.com/hc/en-us/articles/4407335862931?ref=related)
+- [How to Use the Monday.com App](https://support.optisigns.com/hc/en-us/articles/11032964830227?ref=related)
 
 ### That’s all!
 

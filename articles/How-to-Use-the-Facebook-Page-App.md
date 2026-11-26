@@ -2,7 +2,7 @@
 title: "How to Use the Facebook Page App"
 article_id: 360023848334
 source_url: https://support.optisigns.com/hc/en-us/articles/360023848334-How-to-Use-the-Facebook-Page-App
-updated_at: 2026-09-10T02:49:33Z
+updated_at: 2026-11-25T18:09:45Z
 ---
 
 # How to Use the Facebook Page App
@@ -127,6 +127,16 @@ Now hit **Save**. Your Facebook asset will now display on screen.
 You can also deploy it as part of a split screen, allowing you to show other assets at the same time. See how in our [Split Screen app article.](https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App) 
 
 In order to display multiple Facebook pages, you can create individual page assets, then place them in a [Playlist](https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists). The asset or playlist can also be placed in a [Schedule](https://support.optisigns.com/hc/en-us/articles/360016981853-Creating-and-Using-Schedules-with-OptiSigns).
+
+---
+
+## Related Articles
+
+- [Your Facebook Page Doesn't Show in The Dropdown List](https://support.optisigns.com/hc/en-us/articles/20750060900883?ref=related)
+- [How to Create and Use the Yelp App](https://support.optisigns.com/hc/en-us/articles/360038769394?ref=related)
+- [How to Use the LinkedIn App](https://support.optisigns.com/hc/en-us/articles/4406180781203?ref=related)
+- [How to Use YouTube with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360051014713?ref=related)
+- [How to Moderate Your Social Media Feeds](https://support.optisigns.com/hc/en-us/articles/4403015887763?ref=related)
 
 ### That's all!
 

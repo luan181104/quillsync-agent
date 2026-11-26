@@ -2,7 +2,7 @@
 title: "How to Use Microsoft PowerPoint with OptiSigns"
 article_id: 4414355658899
 source_url: https://support.optisigns.com/hc/en-us/articles/4414355658899-How-to-Use-Microsoft-PowerPoint-with-OptiSigns
-updated_at: 2026-09-30T15:53:27Z
+updated_at: 2026-11-25T18:05:16Z
 ---
 
 # How to Use Microsoft PowerPoint with OptiSigns
@@ -144,3 +144,13 @@ To use Microsoft single sign\-on, sign in through [app.optisigns.com](http://app
 ## That's it!
 
 You've now successfully uploaded your PowerPoint file to OptiSigns!
+
+---
+
+## Related Articles
+
+- [How to Use Microsoft Excel Online with OptiSigns](https://support.optisigns.com/hc/en-us/articles/4529298306963?ref=related)
+- [Displaying SharePoint Sites on OptiSigns](https://support.optisigns.com/hc/en-us/articles/4414539282067?ref=related)
+- [How to Use Google Slides with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360050642833?ref=related)
+- [PowerPoint Resolution, Size for use with Digital Signage](https://support.optisigns.com/hc/en-us/articles/360033693534?ref=related)
+- [How to Display Microsoft Power BI Dashboards \& Reports with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360024859713?ref=related)

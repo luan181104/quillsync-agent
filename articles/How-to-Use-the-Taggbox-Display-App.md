@@ -2,7 +2,7 @@
 title: "How to Use the Taggbox Display App"
 article_id: 1500009343862
 source_url: https://support.optisigns.com/hc/en-us/articles/1500009343862-How-to-Use-the-Taggbox-Display-App
-updated_at: 2026-10-15T22:17:54Z
+updated_at: 2026-11-25T18:06:13Z
 ---
 
 # How to Use the Taggbox Display App
@@ -84,6 +84,14 @@ The **Select Asset** window will open. Search for your Taggbox Display app, clic
 Back in **Edit Screen**, hit **Save**. Your Taggbox wall will now display on your screen.
 
 Your Taggbox Display app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+- [How to Use the Social Mix App](https://support.optisigns.com/hc/en-us/articles/4403267825171?ref=related)
+- [How to Use the Walls.io App](https://support.optisigns.com/hc/en-us/articles/360049159814?ref=related)
+- [How to Moderate Your Social Media Feeds](https://support.optisigns.com/hc/en-us/articles/4403015887763?ref=related)
 
 ### That’s all!
 

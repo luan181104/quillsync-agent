@@ -2,7 +2,7 @@
 title: "How to Use the Notion App"
 article_id: 5119724468371
 source_url: https://support.optisigns.com/hc/en-us/articles/5119724468371-How-to-Use-the-Notion-App
-updated_at: 2026-10-13T17:37:02Z
+updated_at: 2026-11-25T18:04:59Z
 ---
 
 # How to Use the Notion App
@@ -79,6 +79,15 @@ The **Select Asset** window will open. Search for your Notion app, click it, the
 Back in **Edit Screen**, hit **Save**. Your Notion page will now display on your screen.
 
 Your Notion app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+- [How to Use the MindMeister App](https://support.optisigns.com/hc/en-us/articles/1500005889381?ref=related)
+- [How to Use the Slack App](https://support.optisigns.com/hc/en-us/articles/4407335862931?ref=related)
+- [How to Use the Asana App](https://support.optisigns.com/hc/en-us/articles/1500002233221?ref=related)
+- [How to Use the Trello App](https://support.optisigns.com/hc/en-us/articles/360050244454?ref=related)
 
 ### That’s all!
 

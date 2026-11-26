@@ -2,7 +2,7 @@
 title: "How to Use the Viva Engage app (formerly Yammer) on OptiSigns"
 article_id: 19171222981523
 source_url: https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns
-updated_at: 2026-09-24T08:59:57Z
+updated_at: 2026-11-25T18:12:10Z
 ---
 
 # How to Use the Viva Engage app (formerly Yammer) on OptiSigns
@@ -51,7 +51,18 @@ You can click Advanced and set:
 
 Click Save.  
 After Saving, you can Preview the wall. It may take several seconds for the app to fetch posts and prepare your wall, so please be patient.
-![A Viva Engage post playing on screen: photo on the left, author, time and post text on the right](https://support.optisigns.com/hc/article_attachments/54681650124819)## **That's all! Congratulations!**
+![A Viva Engage post playing on screen: photo on the left, author, time and post text on the right](https://support.optisigns.com/hc/article_attachments/54681650124819)
+
+---
+
+## Related Articles
+
+- [How to Display Microsoft Teams Chat on OptiSigns](https://support.optisigns.com/hc/en-us/articles/4417940565139?ref=related)
+- [Displaying SharePoint Sites on OptiSigns](https://support.optisigns.com/hc/en-us/articles/4414539282067?ref=related)
+- [Connect SharePoint News to OptiSigns Digital Signage](https://support.optisigns.com/hc/en-us/articles/55450681344915?ref=related)
+- [How to Use the Slack App](https://support.optisigns.com/hc/en-us/articles/4407335862931?ref=related)
+
+## **That's all! Congratulations!**
 
 You have created your Viva Engage Wall.  
 You can change the wall any time by clicking on it in the Files/Assets tab. 

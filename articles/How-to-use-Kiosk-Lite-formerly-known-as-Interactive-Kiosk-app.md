@@ -2,7 +2,7 @@
 title: "How to use Kiosk Lite (formerly known as Interactive Kiosk app)"
 article_id: 360053993934
 source_url: https://support.optisigns.com/hc/en-us/articles/360053993934-How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app
-updated_at: 2026-09-03T14:57:05Z
+updated_at: 2026-11-25T18:07:05Z
 ---
 
 # How to use Kiosk Lite (formerly known as Interactive Kiosk app)
